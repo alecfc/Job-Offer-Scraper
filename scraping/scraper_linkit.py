@@ -29,14 +29,25 @@ response_json = response.json()
 with open('data/linkit.json', 'w') as f:
     json.dump(response_json, f)
 
-# Scrapping the Web (you can use 'html' or 'lxml')
-soup = BeautifulSoup(html, 'lxml')
+with open("data/linkit.json", "r") as read_file:
+    data = json.load(read_file)
 
-# Outer Most Entry Point of HTML:
-outer_most_point=soup.find('div',{'class': 'Overview_overview__2bcF5'})
-vacancy_list = outer_most_point.find('div', {'class': 'vacancies_vacancies__reactive-list__3q5G9'})
-for i in outer_most_point.find('vacancies_vacancies__vacancy-list__3MhXB'):
-    job_title=i.find('h2',{'class':'VacancyCard_vacancy-card__title__1DKYj'})
-    print(job_title)
+job_list = []
+temp = data['responses'][0]['hits']
+for idx, job in enumerate(data['responses'][0]['hits']['hits']):
+    job_info = {}
+    if idx > 25:
+        break
+    job = job['_source']
+    job_info['Title'] = job['job_title_nl']
+    job_info['URL'] ='https://www.linkit.nl/vacancies/{}?vacancyType=Interim%20opdracht'.format(job['slug_nl'])
+    job_info['Company'] =job['client']['name']
+    job_info['Location'] = job['location']
+    job_info['Description'] = job['function_description_nl']
+    job_info['Hours'] = job['hours_per_week']
+    job_info['Duration'] = job['duration_in_months']
+    job_info['Experience Level'] = job['experience_level']
+    job_list.append(job_info)
 
-print(response.text)
+with open('data/linkit_parsed.json', 'w') as f:
+    json.dump(job_list, f)

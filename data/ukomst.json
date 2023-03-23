@@ -221,10 +221,53 @@
     ],
     "jobs": [
         {
-            "id": 935138,
-            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/935138-Onsite-werkplekbeheerder/",
+            "id": 935498,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/935498-Projectmanager-36-uur/",
             "site_id": 3665,
-            "title": "On-site werkplekbeheerder\u00a0",
+            "title": "Projectmanager (36 uur)",
+            "location": {
+                "city": "Den Haag",
+                "state": "Den Haag",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<b>Functie:</b>\u00a0Projectmanager<br />\n<b>Locatie:</b>\u00a0Den haag<br />\n<b>Startdatum:</b>\u00a003-04-2022<br />\n<b>Duur opdracht:</b>\u00a06 maanden met optie tot verlengen (3 x 6 maanden)<br />\n<b>Inzet per week:</b>\u00a036 uur<br />\n<b>Max. uurtarief:\u00a0</b>in overleg<br />\n<b>Deadline aanbieden:</b>\u00a029-03-2023 voor 12:00u<br />\n<br />\n<u><b>Opdrachtbeschrijving:</b></u><br />\nIn de werkplekomgeving worden komende periode een groot aantal wijzigingen doorgevoerd rondom het gebruik van Cloud en de inzet van M365. Teams is reeds geimplementeerd en de komende periode worden Exchange Online en Onedrive in gebruik genomen voor EZK/LNV inclusief de nodige aanvullend beveiligingsmaatregelen. De nieuwe projectmanager wordt belast met het sturing geven aan deze wijzigingen binnen een agile omgeving, in nauwe samenwerking met Productowners. Aanvullend werk betreft het deelnemen aan stuurgroepen, het bijdragen aan roadmaps en maken van Business Cases.<br />\nDe projectmanager kan op verschillende trajecten binnen team werkplekdiensten ingezet worden.<br />\nDe werkzaamheden richten zich voornamelijk op de techniek, minder op de implementatie/adoptie.<br />\n<br />\n<u><b>Achtergrond opdracht:</b></u><br />\nHet WPD-team levert diensten op het gebied van werkplekomgevingen en aanverwante zaken aan de klanten van DICTU Het totale team bestaat uit een kleine 100 medewerkers. Het team voert de werkzaamheden op een agile manier uit; dit betekent dat de kandidaat de agile werkwijze onderschrijft en er ook affiniteit/ervaring mee heeft.<br />\n<br />\n<u><b>Eisen</b>:</u>\n<ul>\n\t<li>Kandidaat heeft diepgaande ervaring met SCRUM/Agile, blijkt uit inhoudelijke beschrijving in CV</li>\n\t<li>Tenminste vijf jaar ervaring in het leiden van complexe projecten. Complexiteit van de projecten zijn duidelijk toegelicht in het CV</li>\n\t<li>Werkplek omgeving, 5 jaar ervaring</li>\n\t<li>Rijksoverheid, 2 jaar ervaring</li>\n\t<li>Tenminste 2 jaar aantoonbare ervaring met het werken in, of het leiden van, SCRUM- of DevOps-teams</li>\n</ul>\n<u><b>Wensen:</b></u>\n\n<ul>\n\t<li>Kennis en ervaring in implementatie-/migratieprojecten van M365</li>\n\t<li>De volgende punten zijn een pr\u00e9: kennis van de DICTU organisatie, ervaring met projectmanagement in een Agile omgeving, technische kennis cloudwerkplek omgeving. Hybride werken. Goede communicatieve eigenschappen, bestuurssensitiviteit en transparant, gestructureerd werken zijn belangrijkt!</li>\n</ul>\n<u><b>Competenties:</b></u><br />\nPlannen en organiseren, resultaatgerichtheid, bestuurssensitiviteit, motiveren, aansturen organiseren, IB bewust werken",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Ilona van Eeden<br />\nRecruiter<br />\n06-28541319<br />\nilona@ukomst.nl",
+            "date_created": "2023-03-23T15:22:14+00:00",
+            "date_modified": "2023-03-23T15:22:46+00:00",
+            "date_posted": "2023-03-23T15:22:15+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Management",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "DICTU",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 935138,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/935138-Onsite-werkplekbeheerder40-uur/",
+            "site_id": 3665,
+            "title": "On-site werkplekbeheerder\u00a0(40 uur)",
             "location": {
                 "city": "Assen",
                 "state": "Assen",
@@ -242,7 +285,7 @@
             ],
             "recruiter_signature": "Ilona van Eeden<br />\nRecruiter<br />\n06-28541319<br />\nilona@ukomst.nl",
             "date_created": "2023-03-23T09:08:13+00:00",
-            "date_modified": "2023-03-23T09:08:46+00:00",
+            "date_modified": "2023-03-23T15:22:32+00:00",
             "date_posted": "2023-03-23T09:08:13+00:00",
             "custom_fields": [
                 {
@@ -328,7 +371,7 @@
             ],
             "recruiter_signature": null,
             "date_created": "2023-03-22T09:27:42+00:00",
-            "date_modified": "2023-03-22T09:27:42+00:00",
+            "date_modified": "2023-03-23T14:50:11+00:00",
             "date_posted": "2023-03-22T09:27:43+00:00",
             "custom_fields": [
                 {

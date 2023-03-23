@@ -36,5 +36,5 @@ for job in jobs:
     job_info['Job Duration'] = job_items[3].text.split('\n')[2].replace(' ','')
     job_info['Job Description'] = job_soup.find(attrs={'class':'hfp_read-more'}).text
     job_list.append(job_info)
-    # Go to job url and get hours, 
-print(text)
+with open('data/myler_parsed.json', 'w') as f:
+    json.dump(job_list, f)
