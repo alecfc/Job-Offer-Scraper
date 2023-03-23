@@ -1,0 +1,1439 @@
+{
+    "id": 4337,
+    "name": "General",
+    "site_id": 3665,
+    "site_name": "ukomst",
+    "host": "ukomst.catsone.nl",
+    "internalHost": "ukomst.catsone.nl",
+    "logo_url": "https://s3.amazonaws.com/attachments-catsone/attachment-public/6w/6w2jl04jdfug6p48z06yex0wz15/logo.png",
+    "banner_url": "",
+    "website": "https://ukomst.nl",
+    "registration_enabled": false,
+    "registration_application_id": 5783,
+    "noindex_tag": false,
+    "date_format": "dmy",
+    "layout": "list",
+    "group_by": "",
+    "sort_on": "posted",
+    "sort_order": "desc",
+    "filters": [
+        "18515",
+        "city",
+        "title"
+    ],
+    "columns": [
+        "20732",
+        "city",
+        "duration"
+    ],
+    "custom_field_metadata": [
+        {
+            "id": "18515",
+            "name": "Categorie",
+            "options": {
+                "166136": "Beheer",
+                "166139": "Ontwikkeling",
+                "166142": "Testen",
+                "166145": "Management",
+                "166148": "Overig"
+            }
+        },
+        {
+            "id": "20732",
+            "name": "Eindklant",
+            "options": false
+        }
+    ],
+    "language": "nl",
+    "is_hr_mode": false,
+    "theme": {
+        "body_background_color": "#fcfcfd",
+        "header_background_color": "#ffffff",
+        "header_text_color": "#000000",
+        "text_color": "#333333",
+        "text_muted_color": "#989898",
+        "button_background_color": "#f2ca22",
+        "button_text_color": "#ffffff",
+        "link_color": "#00bed1",
+        "danger_color": "#ff6b6c"
+    },
+    "analytics": [],
+    "applications": [
+        {
+            "id": 5783,
+            "site_id": 3665,
+            "description": "Standaard Vragenlijst",
+            "header": "* verplicht veld",
+            "fields": [
+                {
+                    "id": 52373,
+                    "application_id": [],
+                    "title": "Upload CV",
+                    "comment": "",
+                    "position": 0,
+                    "type": "file",
+                    "answers": [],
+                    "is_required": true,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "resume"
+                },
+                {
+                    "id": 104372,
+                    "application_id": [],
+                    "title": "Motivatiebrief",
+                    "comment": "",
+                    "position": 1,
+                    "type": "file",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": null
+                },
+                {
+                    "id": 52376,
+                    "application_id": [],
+                    "title": "Voornaam",
+                    "comment": "",
+                    "position": 2,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": true,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "first_name"
+                },
+                {
+                    "id": 52379,
+                    "application_id": [],
+                    "title": "Achternaam",
+                    "comment": "",
+                    "position": 3,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": true,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "last_name"
+                },
+                {
+                    "id": 52382,
+                    "application_id": [],
+                    "title": "Email",
+                    "comment": "",
+                    "position": 4,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": true,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "emails.primary"
+                },
+                {
+                    "id": 52385,
+                    "application_id": [],
+                    "title": "Adres",
+                    "comment": "",
+                    "position": 5,
+                    "type": "multiline",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "address.street"
+                },
+                {
+                    "id": 52388,
+                    "application_id": [],
+                    "title": "Plaats",
+                    "comment": "",
+                    "position": 6,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "address.city"
+                },
+                {
+                    "id": 52394,
+                    "application_id": [],
+                    "title": "Postcode",
+                    "comment": "",
+                    "position": 8,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "address.postal_code"
+                },
+                {
+                    "id": 52397,
+                    "application_id": [],
+                    "title": "Telefoon",
+                    "comment": "",
+                    "position": 9,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": "phones.home"
+                },
+                {
+                    "id": 52400,
+                    "application_id": [],
+                    "title": "Indicatie uurtarief",
+                    "comment": "",
+                    "position": 10,
+                    "type": "text",
+                    "answers": [],
+                    "is_required": false,
+                    "min_items": null,
+                    "linked_custom_field_id": 18488,
+                    "saves_to_field": null
+                }
+            ]
+        },
+        {
+            "id": 5984,
+            "site_id": 3665,
+            "description": "KTV",
+            "header": "test",
+            "fields": [
+                {
+                    "id": 54509,
+                    "application_id": [],
+                    "title": "Communicatie",
+                    "comment": "",
+                    "position": 1,
+                    "type": "number",
+                    "answers": [],
+                    "is_required": true,
+                    "min_items": null,
+                    "linked_custom_field_id": null,
+                    "saves_to_field": null
+                }
+            ]
+        }
+    ],
+    "jobs": [
+        {
+            "id": 935138,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/935138-Onsite-werkplekbeheerder/",
+            "site_id": 3665,
+            "title": "On-site werkplekbeheerder\u00a0",
+            "location": {
+                "city": "Assen",
+                "state": "Assen",
+                "postal_code": ""
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<b>Functie:</b>\u00a0On-site werkplekbeheerder\u00a0<br />\n<b>Locatie:</b>\u00a0Assen<br />\n<b>Startdatum:</b>\u00a003-04-2022<br />\n<b>Duur opdracht:</b>\u00a06 maanden met optie tot verlengen (3 x 6 maanden)<br />\n<b>Inzet per week:</b>\u00a040 uur<br />\n<b>Max. uurtarief:\u00a0</b>in overleg<br />\n<b>Deadline aanbieden:</b>\u00a028-03-2023<br />\n<br />\n<u><b>Opdrachtbeschrijving:</b></u><br />\nLET OP: Het betreft een opdracht t.b.v. een ambulante onsite support medewerker met standplaats Den Haag. Vanuit Den Haag worden op dagelijkse basis drie balies bediend in Den Haag, daarnaast is het servicegebied geheel West Nederland (Noord-Holland, Zuid-Holland en Zeeland).<br />\n<br />\nJij zet eindgebruikers centraal. Je bent zelfstandig, flexibel, analytisch, administratief sterk en een echte teamplayer! Je bent samen met je collega\u2019s verantwoordelijk voor een zo goed mogelijke ondersteuning van de eindgebruikers op verschillende locaties. DICTU beheert voor 18000 eindgebruikers diverse apparatuur, zoals laptops, smartphones en tablets. Maar ook beheert DICTU de vaste werkplekvoorzieningen, jij als onsite support medewerker zorgt ervoor dat de storingen aan deze apparaten verholpen worden. Tevens verzorg je de uitgifte aan nieuwe gebruikers, welke met een werkend apparaat bij jou weg gaan. Administratieve handelingen zoals CMDB registraties zijn een belangrijk onderdeel van de werkzaamheden. Het kan voorkomen dat een dag bestaat uit het oplossen van dringende incidenten (LAN/WAN), het werken als ICT servicebalie medewerker en het op de hoogte houden van de eindgebruiker. OSS bied ook VIP ondersteuning op locatie aan, het betreft hier een selecte groep eindgebruikers (top ambtenaren). Daarnaast hou je je bezig met onder andere het verhuizen van werkplekken, het beantwoorden van gebruikersvragen of het geven van instructies aan eindgebruikers. Ook voer je diverse projectwerkzaamheden uit. Incidenteel wordt gevraagd over te werken. Kortom, de ambulante on-site support medewerker is een veelzijdige en flexibele werknemer die meerdere taken voor zijn rekening neemt waarbij reizen naar diverse klantlocaties dagelijks een gegevens kan zijn.<br />\n<br />\n<u><b>Achtergrond opdracht:</b></u><br />\nDICTU streeft naar een optimale dienstverlening aan haar klanten. Waarbij meldingen binnen SLA worden afgehandeld. DICTU is op zoek naar een ambulante on-site support medewerker (werkplekbeheerder) met als uitvalsbasis Den Haag en flexibel inzetbaar binnen een straal van maximaal 2 uur autorijden<br />\n<br />\n<u><b>Eisen</b>:</u>\n<ul>\n\t<li>ITIL foundation v3 of hoger gecertificeerd</li>\n\t<li>Minimaal diploma MBO ICT niveau 3 of vergelijkbaar</li>\n\t<li>Rijbewijs B</li>\n\t<li>On Site Support ervaring (relevant \u00e9n recent) in grote, complexe beheer-/klantomgeving\u00a0- minimaal twee jaar</li>\n\t<li>Recente ervaring met het zelfstandig draaien van ICT balie op klantvestigingen\u00a0- minimaal twee jaar</li>\n\t<li>Kennis en ervaring met Windows 10, Office 365, Citrix XenDesktop/Mobile en TOPdesk\u00a0- minimaal twee jaar</li>\n</ul>\n<u><b>Wensen:</b></u>\n\n<ul>\n\t<li>Gedegen kennis van mobiele devices (smartphones, tablets) en beheer hiervan</li>\n\t<li>Basiskennis van netwerken (LAN/WAN)</li>\n</ul>\n<br />\n<u><b>Competenties:</b></u><br />\nAnalytisch, klantgericht, betrouwbaar, zelfstandig, flexibel, teamplayer, verantwoordelijkheidsgevoel, nauwkeurig, kritisch, secuur en zorgvuldig",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Ilona van Eeden<br />\nRecruiter<br />\n06-28541319<br />\nilona@ukomst.nl",
+            "date_created": "2023-03-23T09:08:13+00:00",
+            "date_modified": "2023-03-23T09:08:46+00:00",
+            "date_posted": "2023-03-23T09:08:13+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "DICTU",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934682,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934682-Agile-Coach-36-uur/",
+            "site_id": 3665,
+            "title": "Agile Coach (36 uur)",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<span><span><span><b>Functie</b>:\u00a0Agile coach\u00a0<br />\n<b>Locatie</b>: Utrecht<br />\n<b>Startdatum</b>: Z.s.m.<br />\n<b>Duur opdracht</b>:\u00a0 3 maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 32 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: </b>27-03-2023 v\u00f3\u00f3r 15:00 uur</span></span></span><br />\n<br />\n<span><span><span><b><u>Opdrachtbeschrijving</u></b>:</span></span></span><br />\nIVO Rechtspraak is de motor van de digitale transformatie van de Rechtspraak. Om dat waar te kunnen maken, moeten we groeien in onze volwassenheid. We willen nog beter samenwerken, met de business en elkaar. We hebben daarom gekozen om binnen IVO Rechtspraak te werken op basis van agile principes. Het afgelopen half jaar hebben we met de Portefeuille Bedrijfsvoering goede stappen richting Agile werken gezet. Op het gebied van portfolio management hebben we een agile werkwijze vastgesteld. We proberen onze omgeving zo goed mogelijk mee te nemen in deze verandering, maar door verschillende werkwijzen op zowel bestuurlijk als op operationeel niveau, komen we de nodige uitdagingen tegen in dit proces. Voor de Portefeuille Bedrijfsvoering zijn we daarom op zoek naar een Agile Coach die met ons de ingeslagen weg verder kan begeleiden. De gekozen richting vanuit de organisatie en de portefeuille is daarbij het uitgangspunt. Je denkt na over hoe we het best aan kunnen sluiten op onze omgeving en adviseert op basis van jouw kennis en ervaring. Ook help je om concrete stappen te zetten met de teams en begeleid en veranker je de verandering. We doen dit samen met de business zowel op bestuurlijk niveau als op operationeel niveau.<br />\n<br />\n<span><span><span><b><u>Achtergrond Opdracht:</u></b></span></span></span><br />\nOm deze rol goed uit te kunnen voeren zijn de volgende kenmerken nodig:- Leiderschap skills en bestuurlijke sensitiviteit Draagvlak cre\u00ebren bij zowel teams als management- Passie voor en geloof in agile Constant voor ogen hebben waar we heen willen teneinde continu te verbeteren zowel op het niveau van devops als portfoliomanagement - Verbinder Mensen hebben allemaal goede bedoelingen, maar snappen elkaar vaak niet. Die mensen moeten bij elkaar gebracht worden.Verder heb je aantoonbare ervaring met het coachen van teams uit verschillende lagen van een complexe organisatie. Je gaat aan de slag met:- Het verankeren van het agile portfoliomanagement binnen de portefeuille bedrijfsvoering.<br />\n- Aansluiting zoeken andere veranderingstrajecten binnen de organisatie.<br />\n- Coachen van management en bestuur en hen meenemen in het agile gedachtengoed<br />\n- Coachen van diverse teams<br />\n<br />\n<span><span><span><b><u>EISEN</u></b></span></span></span>\n<ul>\n\t<li>HBO+ Werk en denkniveau</li>\n\t<li>Minimaal 3 jaar ervaring als scrummaster</li>\n\t<li>Minimaal 3 jaar ervaring als Agile Coach</li>\n\t<li>Ervaring met verandermanagement</li>\n\t<li>Coaching op team- en managementniveau</li>\n\t<li>Ervaring met beheer-teams</li>\n\t<li>Bestuurlijke sensiviteit</li>\n\t<li>Scaling Agile frameworks (zoals LESS, SAFe, Spotify)</li>\n</ul>\n<br />\n\u00a0",
+            "duration": "3 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Jesley Ronkes<br />\nAccountspecialist<br />\n0681033906<br />\njesley@ukomst.nl",
+            "date_created": "2023-03-22T10:01:09+00:00",
+            "date_modified": "2023-03-22T10:01:09+00:00",
+            "date_posted": "2023-03-22T10:01:09+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Management",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "IVO Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "100",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934643,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934643-Java-DevOps-36-uur/",
+            "site_id": 3665,
+            "title": "Java DevOps (36 uur)",
+            "location": {
+                "city": "Assen",
+                "state": "Drenthe",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<span><span><span><b><span><span><span>Functie</span></span></span></b><span><span><span>:\u00a0Java DevOps\u00a0<br />\n<b>Locatie</b>: Assen<br />\n<b>Startdatum</b>: 01-05-2023<br />\n<b>Duur opdracht</b>: 6 maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 36 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: 27-03-2023 v\u00f3\u00f3r 12:00 uur</b></span></span></span></span></span></span><br />\n<br />\n<span><span><span><b><u><span><span><span>Opdrachtbeschrijving</span></span></span></u></b><span><span><span>:</span></span></span></span></span></span><br />\nBinnen het DICTU GIS cluster wordt er een uitvraag gedaan voor 1 Java DevOps ontwikkelaar met kennis van - en ervaring met toepassing van GIS technologie. Als ontwikkelaar ben je verantwoordelijk voor de ontwikkeling van software op basis van door de product owner samen met het DevOps team geprioriteerde user stories en taken (zoals verbeteringsacties). Je ontwikkelt unit tests om je eigen werk te controleren. Je betrekt de functioneel beheerder en/of analist bij het invullen van details. Je maakt goed gebruik van tools voor versiebeheer en softwarekwaliteitscontrole en registreert tijdig en zorgvuldig updates van de user stories en taken die je onderhanden hebt. Je houdt het team en de product owner goed op de hoogte van je werkzaamheden en eventuele belemmeringen om je taken tijd en goed uit te voeren.<br />\n<br />\n<span><span><span><b><u><span><span><span>Achtergrond Opdracht:</span></span></span></u></b></span></span></span><br />\nIn Nederland is veel grond in gebruik als landbouwgrond, bijvoorbeeld voor het telen van gewassen of als grasland voor de beweiding van vee. Daarnaast is de grond belangrijk voor het uitrijden van meststoffen. In de GIS applicaties worden de inwinning, controles en beheer gedaan rondom subsidie aanvragen van agrarische ondernemers. Samen met de andere teamleden en teams ben je verantwoordelijk voor het onderhouden en wijzigen van meerdere GIS applicaties. De aanpak binnen het DICTU GIS Cluster is gebaseerd op DevOps/Scrum waarbij door middel van sprints de gevraagde producten iedere drie weken worden opgeleverd door 4 scrum teams. In de DevOps-teams zitten ontwikkelaars, beheerders, testers en operationeel beheerders. De gebruikte GIS technologie is grotendeels van marktleider ESRI. Binnen het team waar de kandidaat wordt geplaatst, vinden beheer- en ontwikkelwerkzaamheden plaats aan een aantal GIS applicaties. Deze applicaties hebben betrekking op het beheer van alfanumerieke en geografische data van landbouwpercelen. De frontends van deze applicaties zijn gebouwd met behulp van de ESRI JavaScript API. De backend is gebouwd in Java (o.a. Spring Boot) en maakt gebruik ESRI tooling zoals ArcGis Workflow Manager en ArcGis Server.<br />\n<br />\n<span><span><span><b><u><span><span><span>EISEN</span></span></span></u></b></span></span></span>\n<ul>\n\t<li>HBO Informatica</li>\n\t<li>&gt;1 jaar ervaring in werken in een Scrum of DevOps team</li>\n\t<li>Java\u00a0- minimaal drie jaar</li>\n\t<li>JavaScript / TypeScript - minimaal drie jaar</li>\n\t<li>Spring - minimaal twee jaar</li>\n\t<li>FME - minimaal drie jaar</li>\n</ul>\n<span><span><span><b><u><span><span><span>WENSEN</span></span></span></u></b></span></span></span>\n\n<ul>\n\t<li>ESRI Javascript API</li>\n\t<li>ArcGIS workflow manager</li>\n\t<li>ArcGis Desktop</li>\n\t<li>ArcGis Server</li>\n\t<li>ArcGis Pro</li>\n\t<li>FME Server</li>\n\t<li>\u00a0FME Desktop</li>\n\t<li>Weblogic</li>\n\t<li>Oracle RDBMS</li>\n\t<li>Software-ontwikkeling voor GIS webapplicaties</li>\n\t<li>Cucumber</li>\n\t<li>PrimeFaces</li>\n\t<li>Hibernate</li>\n\t<li>Maven</li>\n\t<li>Subversion</li>\n\t<li>Weblogic</li>\n\t<li>Jenkins</li>\n\t<li>Splunk</li>\n\t<li>Beperkte reisafstand tot Assen is een pr\u00e9 vanuit de verwachting dat 2 dagen per week in Assen op kantoor wordt gewerkt (gedurende de inwerkperiode kunnen dit meer dagen zijn).</li>\n\t<li>Goede mondelinge en schriftelijke vaardigheden in de Nederlandse taal.</li>\n</ul>\n<br />\n<span><span><span><b><u><span><span><span>COMPETENTIES</span></span></span></u></b></span></span></span><br />\n- Analytisch - Goed je eigen werk kunnen organiseren - Goede teamplayer - Resultaatgericht - Kwaliteitsbewust",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-22T09:27:42+00:00",
+            "date_modified": "2023-03-22T09:27:42+00:00",
+            "date_posted": "2023-03-22T09:27:43+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "DICTU",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934634,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934634-Functioneel-beheerder-Autorisatiebeheer-36-uur/",
+            "site_id": 3665,
+            "title": "Functioneel beheerder Autorisatiebeheer (36 uur)",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<span><span><span><b>Functie</b>: Functioneel Beheerder Autorisatiebeheer<br />\n<b>Locatie</b>: Utrecht<br />\n<b>Startdatum</b>: 17-04-2023<br />\n<b>Duur opdracht</b>:\u00a0 8 maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 36 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: </b>27-03-2023 v\u00f3\u00f3r 15:00 uur</span></span></span><br />\n<br />\n<span><span><span><b><u>Opdrachtbeschrijving</u></b>:</span></span></span><br />\nVoor de rechtbank Gelderland zoeken we een functioneel beheerder die zich volledig gaat richten op het uitvoeren van het autorisatiebeheer van de rechtbank. Je voert het autorisatiebeheer uit en zorgt voor communicatie met de stakeholders. Je bent onderdeel van het kennisnetwerk 'Toegang' en denkt mee over verbetering van het autorisatiebeheer. Naast het autorisatiebeheer kan je worden ingezet bij het verwerken van andere meldingen voor functioneel beheer. Je hebt een MBO of HBO werk en denkniveau en bent bekend met IT, functioneel beheer of autorisatiebeheer. Ervaring met werken in een agile/ scrum omgeving is een pre.<br />\n<br />\n<span><span><span><b><u>Achtergrond Opdracht:</u></b></span></span></span><br />\nHet functioneel beheer team van de rechtbank Gelderland en functioneel beheer binnen de Rechtspraak zijn in beweging. We zitten in het proces om ons werk slimmer en professioneler te organiseren. Autorisatiebeheer is van oudsher 'lokaal georienteerd'. Er is veel te doen: om te voldoen aan de vraag en daarnaast om meer in control te komen. In het team is gekozen voor het aantrekken van een autorisatiebeheer specialist, die ook kan ondersteunen bij het verwerken van andere meldingen voor functioneel beheer.<br />\n<br />\n<span><span><span><b><u>EISEN</u></b></span></span></span>\n<ul>\n\t<li>Minimaal een MBO-4 diploma</li>\n\t<li>Accuraat kunnen werken</li>\n\t<li>Ervaring met plannen en organiseren</li>\n\t<li>Goede mondelinge communicatievaardigeheden</li>\n\t<li>Ervaring met Functioneel Beheer</li>\n</ul>",
+            "duration": "9 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-22T09:21:29+00:00",
+            "date_modified": "2023-03-22T09:21:29+00:00",
+            "date_posted": "2023-03-22T09:21:29+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "IVO Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934601,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934601-Eerste-lijns-gebruikersondersteuner-40-uur/",
+            "site_id": 3665,
+            "title": "Eerste lijns gebruikersondersteuner (40 uur)",
+            "location": {
+                "city": "Assen",
+                "state": "Drenthe",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<strong>Functie</strong>:\u00a0Eerste lijns gebruikersondersteuner\u00a0<br />\n<strong>Locatie</strong>: Assen<br />\n<strong>Startdatum</strong>: 01-05-2023<br />\n<strong>Duur opdrach</strong>t: 6 maanden met optie op verlenging (3 x 6 maanden)<br />\n<strong>Inzet per week</strong>: 36 uur<br />\n<strong>Max. uurtarief</strong>: in overleg<br />\n<strong>Deadline aanbieden</strong>: 27-03-2023 v\u00f3\u00f3r 12:00 uur<br />\n<br />\n<strong><u>Opdrachtbeschrijving:</u></strong>\n<ul>\n\t<li>Fungeren als aanspreekpunt voor de eindgebruiker en bieden van ondersteuning. Indien mogelijk de call direct op lossen.</li>\n\t<li>Registreren van binnenkomende meldingen (via de mail) in de servicemanagement tool TOPdesk</li>\n\t<li>Toekennen van rechten op mappen en distributielijsten via tooling</li>\n\t<li>Aanmaken gebruikersaccounts via tooling</li>\n\t<li>Analyseren van meldingen om eventuele problemen te detecteren en signaleren</li>\n\t<li>Routeren van meldingen naar andere behandelaarsgroepen waar nodig</li>\n\t<li>Voortgangsbewaking van openstaande meldingen</li>\n\t<li>Informeren van eindgebruikers over de status van de openstaande melding</li>\n\t<li>Verstrekken van informatie over procedures voor aanvragen en gebruik van ICT middelen</li>\n\t<li>Controleren op mandaathouder van binnenkomende aanvragen</li>\n</ul>\n<strong><u>Achtergrond Opdracht:</u></strong><br />\nAls medewerker binnen het team Servicedesk van de divisie Werkplekomgevingen ben je samen met je collega\u2019s verantwoordelijk voor de\u00a0dagelijkse ICT dienstverlening voor diverse opdrachtgevers binnen het ministerie ven Economische Zaken. Op dit moment beslaat de te bedienen\u00a0gebruikersorganisatie uit ca. 18.000 medewerkers. Deze functie is op de back office. Maximale reistijd 1 uur<br />\n<br />\n<strong><u>EISEN</u></strong>\n\n<ul>\n\t<li>Afgeronde MBO ICT opleiding (Niveau 3 of 4)</li>\n\t<li>ervaring op een ICT Servicedesk. Indien MBO 3 afgerond + 1 jaar werkervaring</li>\n\t<li>Maximale reistijd 1 uur</li>\n\t<li>Ervaring op een ICT Servicedesk. Indien MBO 4 afgerond + 0,5 jaar werkervaring</li>\n</ul>\n<br />\n<strong><u>WENSEN</u></strong>\n\n<ul>\n\t<li>ITIL V3/4</li>\n\t<li>Ervaring met Topdesk is een pr\u00e9</li>\n\t<li>Ervaring met MACOS besturingssysteem</li>\n\t<li>40 uur per week beschikbaar</li>\n</ul>\n<br />\n<strong><u>COMPETENTIES</u></strong>\n\n<ul>\n\t<li>Flexibel</li>\n\t<li>Analytisch</li>\n\t<li>Zorgvuldig</li>\n\t<li>Zelfstandig</li>\n\t<li>Klantgericht</li>\n\t<li>Sociale en communicatieve vaardigheden</li>\n</ul>",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Ilona van Eeden<br />\nRecruiter<br />\n06-28541319<br />\nilona@ukomst.nl",
+            "date_created": "2023-03-22T09:01:54+00:00",
+            "date_modified": "2023-03-22T09:01:54+00:00",
+            "date_posted": "2023-03-22T09:01:54+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "DICTU",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934439,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934439-Projectmanager-ISO27001-36-uur/",
+            "site_id": 3665,
+            "title": "Projectmanager ISO27001 (36 uur)",
+            "location": {
+                "city": "Den-Haag",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<span><span><span><b>Functie</b>:\u00a0Projectmanager ISO27001\u00a0<br />\n<b>Locatie</b>: Den-Haag<br />\n<b>Startdatum</b>: 01-05-2023<br />\n<b>Duur opdracht</b>: 12 maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 36 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: 28-03-2023 v\u00f3\u00f3r 12:00 uur</b></span></span></span><br />\n<br />\n<span><span><span><b><u>Opdrachtbeschrijving</u></b>:</span></span></span><br />\nDe projectmanager krijgt als opdracht om de nieuwe ISO27001-norm:2022 in alle geledingen (beleid, kaders, Verklaring van Toepasselijkheid, ISMS IS en controleplannen) door te laten voeren alsmede de planning, organisatie en co\u00f6rdinatie van de inrichting en actualisatie van het ISMS. Dit dient te resulteren in: a. DICTU behaalt met succes de verplichte overgangsaudit en hercertificering in 2024 op basis van de nieuwe ISO-norm. b. De informatievoorziening en kennisname van de gevolgen van de ISO27001:2022 is bekend en door alle relevante stakeholders binnen DICTU toe te passen. Vanaf augustus 2023 krijgt de projectmanager de ruimte om ook andere informatiebeveiligingsprojecten aan te sturen.<br />\n<br />\n<span><span><span><b><u>Achtergrond Opdracht:</u></b></span></span></span><br />\nDICTU verzorgt als ICT-uitvoeringsorganisatie het ICT-landschap voor de ministeries van EZK en LNV, inclusief hun uitvoeringsorganisaties, waaronder de Rijksdienst voor Ondernemend Nederland, de Nederlandse Voedsel- en Warenautoriteit en Rijksinspectie Digitale Infrastructuur. DICTU is al jaren ISO 27001 gecertificeerd en wordt jaarlijks geaudit tegen de ISO/IEC 27001 norm. Van zowel de ISO/IEC 27001 als de ISO/IEC 27002 is eind 2022 een nieuwe versie ge\u00efntroduceerd, waarin technologische ontwikkelingen en ontwikkelingen op het gebied van wet- en regelgeving (privacy) zijn opgenomen. In september 2024 is de volgende hercertificering en zal de toetsing gaan plaatsvinden tegen de nieuwe norm. De transitie naar deze nieuwe normen dient eerder te zijn afgerond, om aan een verplichte overgangsaudit begin 2024 te voldoen. Gezien het type en omvang van de werkzaamheden is gekozen voor een projectmatige aanpak, waarbij een projectmanager verantwoordelijk is voor het implementatietraject en daarbij inhoudelijke ondersteuning krijgt van security officers en IB-/Compliancy-specialisten<br />\n<br />\n<span><span><span><b><u>EISEN</u></b></span></span></span>\n<ul>\n\t<li>PMBOK, IPMA, PRINCE2, Projectmatig werken en/of Agile/Scrum opleiding</li>\n\t<li>Kennis m.b.t. kwaliteitsmodellen, zoals EFQM of Balanced scorecard</li>\n\t<li>Als projectmanager verantwoordelijk geweest voor en persoonlijk sturing gegeven aan ISO 27K1 implementaties en/of ISO 27K1 transities en/of ISO 27K1 audittrajecten in organisatie met meer dan 500 medewerkers\u00a0- minimaal twee jaar</li>\n</ul>\n<span><span><span><b><u>WENSEN</u></b></span></span></span>\n\n<ul>\n\t<li>Certified ISO 27001 (2022) Lead Implementer</li>\n\t<li>Heeft succesvol transitietrainingen van ISO27001:2013 naar ISO27001:2022 gevolgd.</li>\n\t<li>Heeft kennis en werkervaring met (deel) implementaties van kwetsbaarhedenmanagement en SOC-diensten.</li>\n\t<li>Krijgt energie van certificerings- en implementatietrajecten.</li>\n\t<li>Werkervaring met Scrum/Agile</li>\n\t<li>Werkervaring met het werken binnen de kaders van de BIO en AVG</li>\n\t<li>Werkervaring met MS Teams en JIRA</li>\n\t<li>Uitstekende mondelinge en schriftelijke vaardigheden om belang en verschillen tussen de ISO-normeringen te duiden</li>\n</ul>\n<br />\n<span><span><span><b><u>COMPETENTIES</u></b></span></span></span><br />\n\u2022 Organisatiesensitiviteit \u2022 Overtuigingskracht \u2022 Omgevingsbewustzijn \u2022 Creativiteit \u2022 Plannen en Organiseren<br />\n\u00a0",
+            "duration": "12 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Ilona van Eeden<br />\nRecruiter<br />\n06-28541319<br />\nilona@ukomst.nl",
+            "date_created": "2023-03-21T15:07:25+00:00",
+            "date_modified": "2023-03-21T15:07:25+00:00",
+            "date_posted": "2023-03-21T15:07:25+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Management",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "DICTU",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934427,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934427-Senior-Testautomatiseerder-Java-omgeving-36-uur/",
+            "site_id": 3665,
+            "title": "Senior Testautomatiseerder (Java omgeving) (36 uur)",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<span><span><span><b>Functie</b>:\u00a0Senior Testautomatiseerder (Java omgeving)<br />\n<b>Locatie</b>: Utrecht<br />\n<b>Startdatum</b>: 03-04-2023<br />\n<b>Duur opdracht</b>:\u00a0 9 maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 36 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: </b>27-03-2023 v\u00f3\u00f3r 15:00 uur</span></span></span><br />\n<br />\n<span><span><span><b><u>Opdrachtbeschrijving</u></b>:</span></span></span><br />\nJij zorgt dat onze software doet wat-ie moet doen. Want bij IVO Rechtspraak willen we dat onze digitale diensten optimaal toegankelijk zijn en feilloos werken. Daar moeten onze gebruikers blindelings op kunnen vertrouwen. Of het nu om een rechter, griffiemedewerker, advocaat, officier van justitie of burger gaat.<br />\n<br />\nHoe je werk eruitziet: Je test de webapplicaties en services die toegang geven tot de digitale rechtspraak. Jij bent het kwaliteitsgeweten van je DevOps-team. Werkt de software die jullie bouwen straks wel goed? Aan welke aspecten is misschien niet gedacht? En hoe controleer je dat? Belangrijke vragen waar jij continu mee bezig bent. Ook overleg je met gebruikers. Want daar doen we het tenslotte allemaal voor. Hoe maken zij gebruik van de systemen in kwestie?<br />\n<br />\nParallel aan het bouwtraject maak jij testscripts, waarbij je uitgangspunt is zo veel mogelijk geautomatiseerd te testen. Je kijkt niet alleen naar de \u2018happy flow\u2019, dus als alles volgens plan verloopt. Maar je onderzoekt ook of de software overeind blijft in onverwachte situaties. Verder maak je scripts om de performance te meten. Met jouw feedback help je je team applicaties op te leveren die hun werk doen. En daar ben je trots op<br />\n<br />\n<span><span><span><b><u>Achtergrond Opdracht:</u></b></span></span></span><br />\nBen jij van een gestructureerde aanpak? Ligt analyseren je? En heb je een \u2018hands-on\u2019 mentaliteit? Als Automation Tester bij IVO Rechtspraak komen je kwaliteiten helemaal tot hun recht!<br />\n<br />\nWij ontvangen van jou graag naast je CV een motivatie waarom je reageert op deze opdracht, plus een toelichting waarom je vindt dat je aan de gestelde eisen voldoet. De afdeling Diensten Straf is verantwoordelijk voor het leveren van ICT-diensten ter ondersteuning van het primaire strafrechtproces binnen de Rechtspraak. We zijn op zoek naar versterking voor een DevOps-team dat zich binnen het programma BAS bezighoudt met de vernieuwing van Strafrecht applicaties.<br />\n<br />\nIn 2022 is een start gemaakt met het programma BAS voor het vernieuwen van het verouderde landschap van Strafrecht applicaties. In 2023 is gestart met de realisatie door 2 DevOps-teams.<br />\n<br />\n<span><span><span><b><u>EISEN</u></b></span></span></span>\n<ul>\n\t<li>HBO- of WO-niveau, ervaring in complexe ontwikkelomgevingen met taken beschreven in opdrachtomschrijving - minimaal vijf jaar</li>\n\t<li>Ruime ervaring met testen van applicaties en met testautomatisering - minimaal drie jaar</li>\n\t<li>Minimaal 2 jaar ervaring met het werken binnen Agile-teams en je hebt ook langere tijd onderdeel uitgemaakt van een zelfde scrumteam</li>\n</ul>\n<span><span><span><b><u>WENSEN</u></b></span></span></span>\n\n<ul>\n\t<li>Je hebt een certificaat van de TMap Next\u00ae Foundation of iets vergelijkbaar</li>\n\t<li>Ervaring met agile werken, Azure DevOps, Cypress, KarateSplunk, REST en C# is een pre</li>\n\t<li>Bekend met testen in een Java-omgeving en kennis van frontend en back test tools (zoals bijvoorbeeld Selenium, Cucumber, Rest Assured)</li>\n\t<li>Ervaring met teststrategi\u00ebn en testco\u00f6rdinatie is een pre</li>\n\t<li>Bekend met en kan werken met IntelliJ</li>\n\t<li>Bij voorkeur kennis van testautomatiseertools Cypres en Karate</li>\n</ul>\n<br />\n<br />\n<br />\n\u00a0",
+            "duration": "9 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-21T14:42:54+00:00",
+            "date_modified": "2023-03-21T19:43:19+00:00",
+            "date_posted": "2023-03-21T14:42:54+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Testen",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "IVO Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 934310,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/934310-Enterprise-Architect--36-uur/",
+            "site_id": 3665,
+            "title": "Enterprise Architect ( 36 uur)",
+            "location": {
+                "city": "Den-Haag",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<p><span><span><span><b><span><span>Functie</span></span></b><span><span>: Enterprise Architect</span></span><br />\n<b><span><span>Standplaats</span></span></b><span><span>: Den-Haag</span></span><br />\n<span><b><span>Startdatum</span></b><span>: 10 april 2023</span><br />\n<b><span>Duur</span></b><span>: 6 maanden\u00a0</span><br />\n<b><span>Optie op verlenging</span></b><span>: ja, max 2x6 maanden</span><br />\n<b><span>Uren per week</span></b><span>: 36</span><br />\n<b><span>Tarief</span></b><span>: marktconform</span><br />\n<b><span>Deadline</span></b><span>: 27-03-2023 om 14:00 uur</span><br />\n<br />\n<b><span>Opdrachtomschrijving</span></b></span></span></span></span></p>\n\n<ul>\n\t<li><span><span><span><span>Je faciliteert en bent het gezicht van de architectuur community binnen en buiten Logius </span></span></span></span></li>\n\t<li><span><span><span><span>Je werkt onze strategische thema\u2019s uit in (IT-)strategie\u00ebn en architecturen voor de verdere ontwikkeling van Logius </span></span></span></span></li>\n\t<li><span><span><span><span>Je vervult de (SAFe) Enterprise Architectuur rol binnen het portfolio proces van Logius. Hierbij ben je verantwoordelijk voor het opstellen van de architectuur-runway en architectuur kaders </span></span></span></span></li>\n\t<li><span><span><span><span>Je organiseert de architectuur besluitvorming in de Logius architectuur board. </span></span></span></span></li>\n\t<li><span><span><span><span>Je bent een belangrijke sparringpartner van het directieteam en vervult een brugfunctie tussen bestuurlijke beslissingen en de uitvoering daarvan onder architectuur. </span></span></span></span></li>\n\t<li><span><span><span><span>Je neemt namens Logius deel aan verschillende (externe) overleggen waarin de stakeholders werken aan gezamenlijke architecturen voor de digitale overheid. </span></span></span></span></li>\n\t<li><span><span><span><span>Je volgt actuele marktontwikkelingen en innovaties en vertaalt deze naar relevante adviezen over ons toekomstig portfolio. </span></span></span></span></li>\n\t<li><span><span><span><span>Werkt als onderdeel van een hecht en collegiaal team met enterprise\u2013 en systemarchitecten van Logius.</span></span></span></span></li>\n</ul>\n<span><span><span><b><span><span>Achtergrond opdracht</span></span></b><br />\nDe afdeling Portfolio ontwikkeling houdt zich, samen met veel andere partijen, bezig met een breed scala aan maatschappelijk relevante onderwerpen rondom digitalisering van overheidsdienstverlening voor iedereen in Nederland. Bij ons breng je de wensen en mogelijkheden van eindgebruikers, andere overheidsorganisaties, politiek en Logius zelf samen. Hiervoor gebruiken we het Scaled Agile Framework (SAFe). Daarin heb jij de belangrijk rol als Enterprise Architect om onze IT strategie, kaders en architectuur op portfolio niveau samen te stellen en uit te dragen. Enterprise Architect bij Logius is een mooie en ook heel uitdagende rol. Zo breng je de innovaties in de markt in het juiste tempo naar Logius, verbind je de bestuurstafel en architecten (binnen en buiten Logius) met elkaar en ben je een aanspreekpunt voor veel verschillende rollen in de organisatie, met name de architectuur community binnen en buiten Logius.<br />\n<br />\n<b><span><span>Eisen</span></span></b></span></span></span>\n\n<ul>\n\t<li><span><span><span><span>Afgeronde HBO of WO opleiding op gebied van IT, Bedrijfskunde of Informatiekunde</span></span></span></span></li>\n\t<li><span><span><span><span>Archimate 3 Foundation &amp; Practioner training</span></span></span></span></li>\n\t<li><span><span><span><span>TOGAF 9, SAFe for architects gecertificeerd </span></span></span></span></li>\n\t<li><span><span><span><span>Open CA (the open group certified architect)</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt aantoonbare ervaring met het cre\u00ebren van draagvlak voor veranderingen - minimaal drie jaar</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt 7 jaar werkervaring als IT-architect waarvan 4 jaar met complexe IT-applicaties; </span></span></span></span></li>\n\t<li><span><span><span><span>Je kunt inhoudelijke kaders formuleren waarmee architecten en ontwikkelaars in een agile omgeving kunnen handelen - minimaal drie jaar</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt ervaring met werken in een bestuurlijke organisatie, interdepartementaal - minimaal drie jaar</span></span></span></span></li>\n</ul>\n<br />\n<span><span><span><b><span><span>Competenties</span></span></b></span></span></span>\n\n<ul>\n\t<li><span><span><span><span>Politiek-bestuurlijk sensitief </span></span></span></span></li>\n\t<li><span><span><span><span>Communicatief vaardig </span></span></span></span></li>\n\t<li><span><span><span><span>Verbinder </span></span></span></span></li>\n\t<li><span><span><span><span>Cre\u00ebert draagvlak </span></span></span></span></li>\n\t<li><span><span><span><span>Strategisch denker</span></span></span></span></li>\n</ul>\n<br />\n<span><span><span><b><span><span>Wensen</span></span></b></span></span></span>\n\n<ul>\n\t<li><span><span><span><span>Je bent een boegbeeld op het gebied van (overheids) digitalisering voor iedereen. Je politiek-bestuurlijk sensitief en geeft niet snel op</span></span></span></span></li>\n\t<li><span><span><span><span>Je bent in het bezit van functie-gerelateerde (SAFe-Agile) certificeringen</span></span></span></span></li>\n</ul>\n\n<p><br />\n<span><span><span><b><span><span>Organisatie</span></span></b><br />\n<span><span>Eenvoudig, snel, groen en betrouwbaar zaken regelen tussen overheden, burgers en bedrijven. Met als doel een betere dienstverlening, kostenbesparing en administratieve lastenverlichting. Daar gaat de overheid voor. Logius vervult hierin een centrale en leidende rol met oog voor de samenhang in de infrastructuur van de e-overheid.</span></span><br />\n<br />\n<span><span>Logius is de dienst digitale overheid en onderdeel van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De diensten en standaarden van Logius zijn voor de gehele overheid ontwikkeld. Logius is verantwoordelijk voor het beheer, de doorontwikkeling en de overheidsbrede toepassingen van deze diensten en standaarden.</span></span></span></span></span></p>\n",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-21T12:57:38+00:00",
+            "date_modified": "2023-03-21T13:03:42+00:00",
+            "date_posted": "2023-03-21T12:57:39+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Logius",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 933845,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/933845-Business-Intelligence-BI-Informatieanalist/",
+            "site_id": 3665,
+            "title": "Business Intelligence (BI) Informatieanalist",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<p><strong>Opdrachtgever:</strong> Landelijk Diensten Centrum Rechtspraak<br />\n<strong>Functie: </strong>BI Informatie Analist<br />\n<strong>Locatie:</strong> Utrecht<br />\n<strong>Startdatum:</strong> 10 april<br />\n<strong>Duur: </strong>1 jaar, met optie op verlenging<br />\n<strong>Aantal uur: </strong>36<br />\n<strong>Reageren kan t/m:</strong> vrijdag 24 maart 16:00<br />\n<br />\n<strong>Opdrachtomschrijving</strong><br />\nDe BI Informatieanalist is lid van het scrumteam en is verantwoordelijk voor het analyseren en ontwerpen van managementinformatie. Het is zijn verantwoordelijkheid om met senior users de af te dekken informatiebehoefte vast te stellen en deze vast te leggen in een ontwerp. De BI informatieanalist is onderdeel van het scrumteam en speelt daarbinnen een belangrijke rol in rafinement en planning van geprioriteerde user stories. Waar moet een BI informatieanalist aan voldoen:<br />\n\u2022 Kennis hebben van Data Warehouse en BI concepten, data modellering, data acrhitectuur en ETL proces modellering<br />\n\u2022 Het uit voeren van informatie analyse gerelateerd aan het leveren van managementinformatie producten<br />\n\u2022 Het begeleiden van gebruikers in de acceptatie en adoptie van rapportae- en analyse omgeving<br />\n\u2022 Het inhoudelijk ondersteunen van het scrum team bij rafinement, planning en realisatie van user stories<br />\n<br />\n<strong>Achtergrond opdracht</strong><br />\nHet BICC Rechtspraak werkt met een Agile DevOps team en is verantwoordelijk voor het beheer, onderhoud en ontwikkeling van het Data Warehouse en de rapportage- en analyseomgeving. Daarnaast worden landelijke bestuurlijke dashboards door het BICC ontwikkeld op basis van de informatiebehoefte van leidinggevenden in de Rechtspraak. Naast managementinformatie genereert de Rechtspraak ook veel data met onze communicatiekanalen (online en telefonisch).<br />\n<br />\nVanuit het project Aanpak toegankelijke communicatie (ATC), Portefeuille Toezicht en Rechtspraak Sevicecentrum (RSC) wil men deze data gebruiken om meer datagedreven te sturen op onze dienstverlening. Dit geeft inzicht in zowel de kwaliteit/effectiviteit van rechtspraak.nl als het door bezoekers ervaren niveau van onze dienstverlening. Hiervoor is echter eerst betere vastlegging en integratie van de data nodig. Het BICC is gevraagd deze databronnen (PiWik, Topdesk) te ontsluiten in InfoRM<br />\n<br />\n<strong>Eisen</strong></p>\n\n<ul>\n\t<li>Je hebt minimaal drie jaar analyse ervaring binnen het BI speelveld, ook binnen domein overstijgende projecten;</li>\n\t<li>Je hebt ervaring met het opstellen van impactanalyses, ophalen van informatie behoefte, opstellen van ontwerpen en datamodellen;</li>\n\t<li>Je hebt ervaring met Agile softwareontwikkeling / Scrum</li>\n</ul>\n<strong>Wensen</strong>\n\n<ul>\n\t<li>Kennis van Data Warehouse en Business Intelligence concepten, Data modelering;</li>\n\t<li>Sterk ontwikkeld analytisch vermogen en goede communicatieve vaardigheden</li>\n\t<li>Werken met een hetrogene businessgroep in een overheidsomgeving met uiteenlopende wensen en belangen;</li>\n\t<li>Sterk ontwikkeld analytisch vermogen;</li>\n\t<li>Goede communicatieve vaardigheden;</li>\n\t<li>Hoog kwaliteitsbewustzijn en samenwerking</li>\n</ul>",
+            "duration": "12 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-20T13:24:07+00:00",
+            "date_modified": "2023-03-20T14:06:52+00:00",
+            "date_posted": "2023-03-20T13:24:07+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Overig",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Landelijk Diensten Centrum Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 933842,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/933842-NetApp-beheerderengineer/",
+            "site_id": 3665,
+            "title": "NetApp beheerder/engineer",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<p><strong>Opdrachtgever: </strong>IVO Rechtspraak<br />\n<strong>Locatie:</strong> Utrecht<br />\n<strong>Startdatum:</strong> 1 mei<br />\n<strong>Duur:</strong> 6 maanden + optie op verlenging<br />\n<strong>Uren per week:</strong> 36<br />\n<strong>Reageren kan t/m</strong>: donderdag 23 maart 15:00<br />\n<br />\n<strong>Achtergrond opdracht</strong><br />\nIVO Rechtspraak migreert momenteel de huidige 3PAR Storage omgeving naar nieuwe NetApp hardware. Een ervaren NetApp beheerder is noodzakelijk om het huidige Storage team te ondersteunen en de kennis van het team aan te vullen</p>\n\n<p><b>Taken: Het beheer v/d NetApp omgeving;</b><br />\n- Regulier beheer taken (o.a. ochtend controle, calls aanmaken, vergroten shares, controle snapshot omgeving en algehele werking van de NetApp omgeving)<br />\n- Het implementeren van Life Cycle Management activiteiten<br />\n- Het adviseren van oplossingen en verbeteringen<br />\n- Kennis overdracht NetApp aan de huidige Storage beheerders<br />\n- De kandidaat kan snel zelfstandig werken en signaleren<br />\n- De kandidaat deelt zijn ervaring met het team<br />\n<br />\nJe bent werkzaam bij Infrastructuur &amp; DataCenter Management (I&amp;DCM) en daar werk je onder andere samen met je collega beheerders van Storage, Windows, Linux en Backup&amp;Restore<br />\n<br />\n<strong>Eisen</strong></p>\n\n<ul>\n\t<li>Vijf + jaar ervaring met het technisch beheer van NetApp;</li>\n\t<li>Vijf + jaar ervaring met failover en replicatie;</li>\n\t<li>Vijf + jaar ervaring met troubleshooten van performance- en netwerk problemen (i.c.m. NetApp)</li>\n</ul>\n\n<p><strong>Bij voorkeur heb je ook ervaring met:</strong></p>\n\n<ul>\n\t<li>Windows en Linux ontsluiting aan NetApp (SMB/NFS);</li>\n\t<li>TrendMicro i.c.m. NetApp en RPC scanning;</li>\n\t<li>RestAPI, PowerShell en Ansible kennis m.b.t. automation;</li>\n\t<li>Security: secure file protocollen, common criteria mode, hardening Netapp, encryptie opties ed.;</li>\n\t<li>Splunk voor koppeling met NetApp;</li>\n\t<li>Technisch beheer VMware</li>\n</ul>\n<strong>Gewenste competenties</strong>\n\n<ul>\n\t<li>Autonoom &amp; werken in en met een team;</li>\n\t<li>Teamoverstijgend werken</li>\n</ul>\n",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-20T13:12:53+00:00",
+            "date_modified": "2023-03-20T13:14:42+00:00",
+            "date_posted": "2023-03-20T13:12:53+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "IVO Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 933824,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/933824-Projectmanager--Technisch-Adviseur--uur-40-uur/",
+            "site_id": 3665,
+            "title": "Projectmanager / Technisch Adviseur  uur (40 uur)",
+            "location": {
+                "city": "Stellendam",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<br />\n<span><span><span><b>Functie</b>: Projectmanager/ Technisch Adviseur<br />\n<b>Locatie</b>: Stellendam<br />\n<b>Startdatum</b>: zsm<br />\n<b>Duur opdracht</b>: 6\u00a0maanden met optie op verlenging<br />\n<b>Inzet per week</b>: 40 uur<br />\n<b>Max. uurtarief: </b>in overleg<br />\n<b>Deadline aanbieden: 31-03-2023</b></span></span></span><br />\n<br />\n<span><span><b>Achtergrond opdracht</b></span></span><br />\n<span><span><span><span>De Centrale Informatievoorziening (CIV) van Rijkswaterstaat (RWS) heeft de intentie als IV Serviceprovider op de Noordzee op te treden. Het Ministerie van Economische Zaken en Klimaat (EZK) heeft RWS - CIV de opdracht gegeven platforms bij windmolenparken op de Noordzee te voorzien van sensoren voor het inwinnen van een grote diversiteit aan gegevens. Deze sensoren dragen bij aan het monitoren van ons mariene ecosysteem en de maritieme veiligheid. Het project MIVSP \u2013 Maritiem Informatie Voorziening Service Punt \u2013 binnen de CIV is gericht op de gefaseerde realisatie en beheer van de sensoren op de platforms bij windmolenparken. MIVSP valt onder het overheidsprogramma Wind Op Zee. Wind is een belangrijke energiebron en een uitvloeisel van het Kabinetsbesluit voor meer duurzame energie.</span></span></span></span><br />\n<br />\n<span><span><span><span>Voor de instandhouding van ieder platform zijn ICT-diensten in gebruik. Zo is er onder andere infrastructuur inclusief beheer ingericht voor de sensoren op het gebied van ecologie (zoals vogeldetectie en vleermuisdetectie), hydro/meteo (zoals wind, temperatuur, wolkhoogte, detectie en zichtbereik, golfstroming) en nautisch (zoals radar en AIS). Voor elke sensorgroep is in de beheerfase een Engagement Manager verantwoordelijk. Op het OEC in Stellendam heeft Rijkswaterstaat een testlocatie gerealiseerd t.b.v. het testen en controleren van meet- en registratiesystemen alvorens zij worden ge\u00efnstalleerd op \u00e9\u00e9n van de (MIVSP) locaties op zee. Hiertoe is op het OEC een replica gemaakt van het bovenste dek, de mast en de technische ruimte zoals die offshore op de locaties\u00a0 te vinden zijn. In de mockup-fase van het MIVSP project worden alle systemen opgebouwd op het OEC, uitvoerig getest en vervolgens gereed gemaakt voor transport naar de werf voor installatie op het platform.</span></span></span></span><br />\n<br />\n<span><span><span><span>Daarnaast vervult het OEC de komende jaren een cruciale rol in het life cycle management van de systemen die door MIVSP worden ge\u00efnstalleerd. Het OEC-terrein is voorzien van (test)faciliteiten om innovatie en ontwikkelingen op gebied van meet- en registratiesystemen te testen en te onderzoeken op toepasbaarheid. Verschillende externe partijen komen op het OEC om in opdracht van RWS testen uit te voeren. Deze externe partijen dienen op het OEC begeleid te worden, te worden ge\u00efnformeerd m.b.t. veiligheidsinstructies en er moet een aanspreekpunt zijn. Tot slot heeft het OEC ook een rol in de publieksvoorlichting m.b.t. de activiteiten van Rijkswaterstaat op de Noordzee. Regelmatig worden hiervoor rondleidingen georganiseerd op het terrein. MIVSP is een boeiend en complex project en zorgt voor het aanschaffen, testen, transporteren, integreren en beheren van verschillende sensoren. Hierbij hoort ook de inwinning van data, de distributie en opslag van data en het beschikbaar stellen van informatie. Het moet voorzien in een grote hoeveelheid verschillende technische oplossingen en heeft uiteenlopende belanghebbenden. De uitdagingen die dit met zich mee brengen, geven jou energie en bevlogenheid. Je voelt je thuis in het dynamische projectteam en beheerorganisatie met diverse specialisten. </span></span></span></span><br />\n<br />\n<span><span><span><b><span>Functieomschrijving</span></b></span></span></span><br />\n<span><span><span><span>Met de kwaliteiten van een projectmanager vervul je de rol als Technische Adviseur binnen het project MIVSP. Als technisch adviseur Hydro en Meteo ben je verantwoordelijk voor hydro en meteo sensoren welke worden ge\u00efnstalleerd op diverse platformen of windturbines op de Noordzee. Voor de rol als Technische Adviseur ondersteunt, adviseert en rapporteert u aan de Technische Manager van de Hydro/Meteo sensorgroep.\u00a0 </span></span></span></span><br />\n<br />\n<br />\n<span><span><span><b><span>Taken en verantwoordelijkheden:</span></b></span></span></span>\n<ul>\n\t<li><span><span><span><span>Opstellen en reviewen van technische documenten (installation manuals, data sheets, 3D model.) t.b.v. installatie van de sensoren op het platform m.b.t. opstelpunten van sensoren, toegankelijkheid, onderhoudsbaarheid, functionele en technisch werking (<u>Voorbereidingsfase</u>)</span></span></span></span></li>\n\t<li><span><span><span><span>Ondersteunende rol bij het opbouwen en testen van de hydro en meteo sensoren op het Offshore Expertise Centrum (OEC) te Stellendam. (<u>Mock-up fase</u>)</span></span></span></span></li>\n\t<li><span><span><span><span>Supervisie bij de installatie van de sensoren op het platform en ondersteunend bij pre-commissioning van de sensoren. (<u>Onshore fase</u>)</span></span></span></span></li>\n\t<li><span><span><span><span>Ondersteunend aan de commissioning van alle Hydro en Meteo sensoren. Overdracht van de sensoren en beheerdocumenten aan de beheerorganisatie. (<u>Offshore fase</u>)</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt minimaal een afgeronde Technisch Hogeschool (Bachelor of Science), bij voorkeur</span> <span>elektrotechniek / engineering</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt meerdere jaren aantoonbare ervaring als technisch adviseur of projectleider binnen complexe ICT-projecten of -beheertrajecten.</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt minimaal drie jaar aantoonbaar relevante werkervaring of affiniteit met (KNMI) sensoren.</span></span></span></span></li>\n\t<li><span><span><span><span>Je hebt bij voorkeur ervaring met projectmanagement, ITIL.</span></span></span></span></li>\n\t<li><span><span><span><span>Je bent in het bezit van of bereid om de volgende cursussen te volgen: veiligheidscertificaten zoals VCA, HUET en Global Wind Organisation of vergelijkbaar.</span></span></span></span></li>\n</ul>\n<span><span><b>Competenties:</b></span></span><br />\n<span><span><span><span>Je kunt goed werken in een dynamisch team, bent proactief in het uitwisselen van informatie en in staat om gezamenlijke belangen te onderkennen. In de rol van technisch adviseur moet je stevig in je schoenen staan , anderen kunnen overtuigen en goed kunnen onderhandelen. Je bent flexibel, bevlogen, inspirerend, stressbestendig en hebt een can-do-mentaliteit.</span></span></span></span><br />\n<br />\n<br />\n\u00a0",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "<span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#30c8d0\">Vriendelijke groet,</span></span></span><br />\n<span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#30c8d0\">Faysal Naimi<br />\n<i>Accountspecialist DICTU (Dienst ICT Uitvoering)</i></span></span></span><br />\n<span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><i><span style=\"color:#30c8d0\">Ukomst B.V.<br />\n06-34195482<br />\nfaysal@ukomst.nl</span></i></span></span>",
+            "date_created": "2023-03-20T13:02:04+00:00",
+            "date_modified": "2023-03-20T13:06:35+00:00",
+            "date_posted": "2023-03-20T13:02:05+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Management",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Rijkswaterstaat",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 933692,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/933692-Solution-Architect-Microsoft-36-uur/",
+            "site_id": 3665,
+            "title": "Solution Architect Microsoft (36 uur)",
+            "location": {
+                "city": "Utrecht",
+                "state": "Utrecht",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<b>Functie</b>: Solution Architect (36 uur)<br />\n<b>Locatie</b>: Utrecht<br />\n<b>Startdatum</b>: 03-04-2023<br />\n<b>Duur opdracht: </b>6<b>\u00a0</b>maanden met optie tot verlenging<br />\n<b>Inzet per week</b>: 36 uur\u00a0<br />\n<b>Deadline aanbieden:</b>\u00a023-03-2023\u00a0 v\u00f3\u00f3r 14:00<br />\n<br />\n<strong>Opdracht</strong><br />\nIVO rechtspraak bestaat uit 4 hoofdonderdelen: Klant en keten, de dienstenunits, datacenter management en de staf units. Vanuit de stafunit architectuur zijn we op zoek naar een solution architect werkzaam vanuit de dienstenunit data en registers. De unit architectuur is verantwoordelijk voor het ontwikkelen en borgen van de architectuur. Het architectuur team speelt een belangrijke rol in de digitalisering van de rechtspraak. Er behoefte aan het op kort termijn toetsen en opstellen van (deel) architecturen rondom moderne werking van de registers waar de rechtspraak verantwoordelijk voor is. Daarnaast liggen er ambities om meer inzichten uit data te krijgen en de kwaliteit van data te verhogen. De architecturen worden gezamelijk opgesteld met de DevOps teams voor de digitale diensten zoals registers, data analytics en BI.<br />\n<br />\nDe (solution) architect is verantwoordelijk voor het uitwerken, actueel houden en communiceren van \u00e9\u00e9n of meerdere solution architecturen (in samenwerking en te realiseren in devops teams). Hij/zij doet dit in nauw overleg en samenwerking met het architectuurteam en onder begeleiding van de domein architect. Hiervoor zoeken wij een architect die het volgende gaat uitvoeren:<br />\n- Nader doorontwikkelen solution architectuur registers, data analytics en BI<br />\n- Bruggenbouwer tussen de verschillende teams/units en uitvoerder van het architectuurproces bij devops teams<br />\n<br />\n<strong>Achtergrond opdracht</strong><br />\nDe Raad van de Rechtspraak is de overkoepelende organisatie waaronder alle instanties vallen die betrokken zijn bij het spreken van recht in Nederland. Deze instanties bestaan uit 11 rechtbanken, 4 gerechtshoven, 2 colleges, en de Raad van de Rechtspraak. IVO Rechtspraak verzorgt de IT- en informatievoorziening voor alle instanties die onder de Raad vallen. De stafunit architectuur is verantwoordelijk voor het ontwikkelen en borgen van de architectuur en speelt een belangrijke rol in de digitalisering van de Rechtspraak.<br />\n<br />\n<strong>Eisen</strong>\n<ul>\n\t<li>Minimaal HBO werk- en denkniveau.</li>\n\t<li>Minimaal drie jaar kennis en ervaring opstellen van microservice RESTful API en micro front-end gebaseerde solution architectuur voor omgevingen op basis van de microsoft development stack (.NET Core), CI/CD platform en api gateway.</li>\n\t<li>Minimaal drie jaar kennis en ervaring opstellen van analytics, BI en data architectuur, vertalen van business eisen en normen naar inrichting cloud gebaseerde data platforms</li>\n\t<li>Samenwerken: Is uitstekend in co-creatie met verschillende disciplines</li>\n</ul>\n<strong>Competenties</strong>\n\n<ul>\n\t<li>Je hebt overtuigingskracht en kan anderen be\u00efnvloeden</li>\n\t<li>Je hebt organisatiesensitiviteit</li>\n\t<li>Vaardigheid in het cre\u00ebren van draagvlak voor architectuur producten bij verschillende doelgroepen</li>\n\t<li>Uitstekende schriftelijke- en mondelinge communicatieve vaardigheden op meerdere lagen van de organisatie. Je bent een prettige persoonlijkheid en gesprekspartner. Kan goed met weerstand en verschillende belangen omgaan</li>\n\t<li>Resultaatgericht. Een uitstekende beheersing van het Nederlands</li>\n</ul>\n<strong>Wensen</strong>\n\n<ul>\n\t<li>Kennis en ervaring met architectuur op basis van een container, API en cloud native gebaseerde architectuur</li>\n\t<li>Recente Kennis en ervaring als IT / solution Architect in een agile omgeving</li>\n\t<li>Kennis van Archimate en bij voorkeur modelleer ervaring in (Sparx) Enterprise Architect</li>\n</ul>\n<strong>Organisatie</strong><br />\nBij IVO Rechtspraak werken we met de laatste technologie\u00ebn. Java, Splunk, AppDynamics, Archimate, ReadyAPI, noem maar op. Waar mogelijk gebruiken we slimme marktoplossingen. En we pakken projecten altijd agile aan, in SCRUM-teams en met DevOps. Het leuke is dat je dicht op gebruikers zit. Net als op het nieuws. Want jij werkt op de achtergrond mee aan zaken waar ze in de media over praten. Dat doe je samen met je collega\u2019s. In een prima werksfeer, met veel vrijheid \u00e9n ruimte voor ontwikkeling.<br />\n<br />\nAls IT\u2019er bij de Rechtspraak werk je samen met collega\u2019s uit andere vakgebieden en bundel je de krachten met ketenpartners en marktpartijen. Ook werk je mee naar een nieuwe manier van werken in zelfstandige teams die bestaan uit zowel ontwikkelaars als beheerders en de eindgebruiker (BusDevOps)",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2023-03-20T10:04:30+00:00",
+            "date_modified": "2023-03-20T10:04:30+00:00",
+            "date_posted": "2023-03-20T10:04:30+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Overig",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "IVO Rechtspraak",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 929546,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/929546-Adviseur-Service-Portfolio-Management-24-uur/",
+            "site_id": 3665,
+            "title": "Adviseur Service Portfolio Management (24 uur)",
+            "location": {
+                "city": "Delft",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<b>Opdrachtgever:\u00a0</b>TU Delft<br />\n<b>Startdatum:\u00a0</b>Zo spoedig mogelijk<br />\n<b>Duur: </b>8 maanden + optie op verlenging<br />\n<b>Uren per week:\u00a0</b>24 uur<br />\n<strong>Reageren kan t/m: 28-02-2023 tot 13:00 uur</strong><br />\n<br />\n<b>Opdrachtomschrijving:</b><br />\nDe functie betreft een tijdelijke staffunctie, ingezet in meerdere projecten binnen de directie ICT en mogelijk daarbuiten.<br />\nDe TU Delft is georganiseerd als een aantal faculteiten, die ondersteund worden door een universiteitsdienst. Binnen de universiteitsdienst zijn diverse directies, die de faculteiten en CVB ondersteunen, zoals o.a. Finance, HR, ICT &amp; FM.<br />\nDe directie ICT stimuleert en faciliteert de TU Delft bij het realiseren van haar doelstellingen. Zij faciliteert en stimuleert zowel de \u2018core business\u2019 onderwijs en onderzoek, als de ondersteunende directies van de TU Delft. De directie ICT is een betrouwbare en zichtbare partner die voor zijn medewerkers een stimulerende en motiverende omgeving biedt.<br />\nBinnen de directie ICT is vanuit de strategie de behoefte vastgesteld om een betere afstemming van de ICT-diensten met de diverse afnemers te bewerkstellen en continu te verbeteren. Het gaat hierbij om de sturing op \u2018run\u2019 en \u2018verbetering\u2019 en sturing op alignement tussen vraag en aanbod.<br />\nBinnen de directie, worden, op basis van de visie rond klantgericht werken, diverse projecten gepland om stappen te nemen op dit gebied. Soms is dit onderdeel van het oplossen van specifieke knelpunten (in andere projecten/programma\u2019s), soms zijn het pilots met juiste de focus op het klantgericht werken zelf en het leren inrichten en toepassen ervan.<br />\nVoor het uitvoeren van deze projecten is de komende 6 maanden behoefte aan inzet van iemand met stevige consultancy- en training skills rond het proces Service Portfolio Management en de toekomstige Service Portfolio Manager.<br />\nKandidaten die in aanmerking komen voor deze tijdelijke functie hebben een goed oog voor mensen, cultuur en dynamiek in organisaties, en kunnen hier flexibel op in spelen. Ze hebben het didactische vermogen mensen te laten groeien in hun rol en zijn sensitief voor behoeften en onzekerheden in de organisatie.<br />\nZe hebben ervaring op het gebied van IT-processen (ITSM, ITIL, BISL) en hebben kennis van het inrichten van processen in een servicemanagement tool (bij voorkeur TOPdesk). Ze zien inrichten van een proces niet als implementatie van tools, maar het ontwikkelen van de competenties en cultuur binnen een organisatie, gericht op klantgerichtheid, het verbeteren van prestaties en wendbaarheid. Ze hebben hierbij een veranderkundige blik, en zijn in staat vanuit context en doelen interventies te bedenken en uit te voeren (inclusief training en faciliteren van workshops).<br />\nZe zijn teamplayers, hebben uitstekende communicatieve en analytische vaardigheden, leggen makkelijk contacten op meerdere niveaus in de organisatie, zijn nieuwsgierig en onderzoekend en kunnen vraagstukken in een breder perspectief zien en benaderen.<br />\n<br />\n<b>Eisen</b><br />\nOm aan de functie goede invulling te geven, zijn wij op zoek naar een consultant/adviseur die\n<ul>\n\t<li>De ins &amp; outs weet van het inrichten van Service Portfolio Management (SPM) en het toepassen in een organisatie van strategisch tot operationeel niveau;</li>\n\t<li>Aantoonbare ervaring heeft met het coachen en begeleiden van stakeholders en toekomstig SPM bij het verder inrichten van het proces SPM. Vanuit een veranderkundige en holistische blik (systeemdenken) hiervoor effectieve interventies kan ontwerpen en uitvoeren, gericht op kennis, vaardigheden en cultuur.</li>\n\t<li>Aantoonbare ervaring heeft in het ontwikkelen en verfijnen van een dienstenlandschap en een Producten &amp; Diensten Catalogus binnen een grotere onderwijsinstelling.</li>\n\t<li>Bouwstenen rond SPM-proces kan helpen inrichten: o Sturing op run (operationeel en tactisch/strategisch)\n\t<ul>\n\t\t<li>Procesgericht uitvoeren</li>\n\t\t<li>Sturing op verbetering</li>\n\t\t<li>Procesgericht verbeteren (bijv. op basis A3 trajecten, Kaizen)</li>\n\t\t<li>Beheer van procedures en werkinstructies</li>\n\t</ul>\n\t</li>\n\t<li>Mee kan denken over de governance en verdere organisatorische inbedding van het SPM-proces in de ICT-organisatie</li>\n\t<li>De toekomstig Service Portfolio Manager kan begeleiden (en waar nodig inspringen) bij:\n\t<ul>\n\t\t<li>Procesidentificatie/afbakening en in kaart brengen van samenhang van processen</li>\n\t\t<li>Het documenteren van processen</li>\n\t\t<li>Het in kaart brengen van behoeften, wensen, eisen van stakeholders en wettelijke kaders (voices, customer journeys)</li>\n\t\t<li>Het defini\u00ebren van KPI\u2019s, inclusief uitvoeren van nulmetingen</li>\n\t</ul>\n\t</li>\n</ul>",
+            "duration": "6 maanden",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": "Jesley Ronkes<br />\nAccountspecialist<br />\n0681033906<br />\njesley@ukomst.nl",
+            "date_created": "2023-03-07T13:58:15+00:00",
+            "date_modified": "2023-03-07T13:58:15+00:00",
+            "date_posted": "2023-03-07T13:58:15+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Overig",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "TU Delft",
+                    "type": 1
+                }
+            ],
+            "max_rate": "100",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668312,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668312-Intern-Python-Ontwikkelaar/",
+            "site_id": 3665,
+            "title": "[Intern] Python Ontwikkelaar",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<strong>Vacature Python ontwikkelaar</strong><br />\nAls Python Ontwikkelaar bij Ukomst ben jij verantwoordelijk voor het ontwikkelen en implementeren van nieuwe Python-toepassingen bij onze opdrachtgevers. Daarnaast zorg jij voor het monitoren, testen en onderhouden van bestaande Python-applicaties, gecombineerd met het opstellen en onderhouden van API\u2019s.<br />\n\u00a0<br />\nJe begrijpt de, soms complexe, business wensen en maakt eenvoudig de vertaling naar de techniek. Met jouw creativiteit en de ambitie om continu te leren blijf je goed bij met alle nieuwe ontwikkelingen in de markt. Zo blijf je samen met je collega\u2019s van de Unit Development &amp; Innovation voorop lopen in de digitale wereld. Kom jij ons versterken als ervaren Python Developer?<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO diploma in de richting Informatica;</li>\n\t<li>Minimaal vijf jaar werkervaring als Python Developer;</li>\n\t<li>Je hebt ervaring met Django en diverse Javascript tooling;</li>\n\t<li>Je hebt ervaring met CI/CD en DevOps;</li>\n\t<li>Je werkt graag aan innovatieve projecten bij overheidsinstanties, publieke sector en andere aansprekende opdrachtgevers;</li>\n\t<li>Je bent Leergierig, communicatief sterk en gedreven.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling</li>\n\t<li>Pensioenregeling</li>\n\t<li>Auto v/d zaak</li>\n\t<li>Telefoon</li>\n\t<li>Laptop</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops.</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.<br />\n\u00a0",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T15:28:29+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T15:28:29+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668309,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668309-intern-Java-Ontwikkelaar/",
+            "site_id": 3665,
+            "title": "[intern] Java Ontwikkelaar",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<strong>Vacature Java ontwikkelaar</strong><br />\nAls Java Ontwikkelaar bij Ukomst draag je bij aan de digitale transformatie bij onze opdrachtgevers. Je ontwerpt, ontwikkelt, test en implementeert digitale services bij onze klanten. Je begrijpt de, soms complexe, business wensen en maakt eenvoudig de vertaling naar de techniek. Met jouw creativiteit en de ambitie om continu te leren blijf je goed bij met alle nieuwe ontwikkelingen in de markt. Zo blijf je samen met je collega\u2019s van de Unit Development &amp; Innovation voorop lopen in de digitale wereld. Kom jij ons versterken als ervaren Java Developer?<br />\n\u00a0<br />\n<strong>Wat ga je doen?</strong><br />\nAls Java Developer houd jij je bezig met onderstaande werkzaamheden:\n<ul>\n\t<li>Ontwerpen en implementeren van Java-toepassingen, bijvoorbeeld voor websites, games of mobiele telefoons.</li>\n\t<li>Onderhouden, testen en verbeteren van bestaande Java-toepassingen.</li>\n\t<li>In voorkomende gevallen optreden als probleemoplosser op het gebied van Java programmatuur.</li>\n\t<li>Omzetten van de wensen van opdrachtgevers in concrete Java-oplossingen.</li>\n</ul>\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO diploma in de richting Informatica;</li>\n\t<li>Minimaal vijf jaar werkervaring;</li>\n\t<li>Je kan Java dromen;</li>\n\t<li>Het programmeren bij jou in het bloed zit;</li>\n\t<li>Je kennis hebt van Spring, Amazone Web Services, CI/CD en Scrum/Devops;</li>\n\t<li>Jij de meest uiteenlopende opdrachtgevers wilt helpen met jouw expertise;</li>\n\t<li>Een agile mindset.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T15:21:08+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T15:21:09+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668279,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668279-Intern-Tester/",
+            "site_id": 3665,
+            "title": "[Intern] Tester",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Tester binnen onze unit Development en Innovation ga jij aan de slag met uitdagende testvraagstukken bij onze opdrachtgever(s). Je gaat je bezig houden met testuitvoering, geautomatiseerd en handmatig.<br />\n\u00a0<br />\n<em>Een greep uit jouw takenpakket</em>\n\n<ul>\n\t<li>Opstellen requirements en vertalen naar uitvoerbare teststrategie;</li>\n\t<li>Het testen van zowel de functionele als technische kant van je test cases;</li>\n\t<li>Impact- en risico analyses maken;</li>\n\t<li>Maken en uitvoeren van geautomatiseerde testscripts;</li>\n\t<li>Ketentesten, systeemtesten, integratietesten en meer;</li>\n\t<li>Accurate documentatie verzorgen;</li>\n\t<li>Ondersteunen/adviseren over de toepassing van o.a. methoden en technieken.</li>\n</ul>\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO werk- en denkniveau, bij voorkeur een afgeronde HBO opleiding ICT;</li>\n\t<li>Aanvullende certificeringen zoals TMap/ISTQB, Agile-Scrum;</li>\n\t<li>Je hebt minimaal 5 jaar recente werkervaring als (Agile) Tester, Automated tester;</li>\n\t<li>Ruime ervaring met het opzetten van testtrajecten;</li>\n\t<li>Kennis en ervaring met moderne tooling (bijv. Robot Framework, Cucumber, Selenium, JMeter);</li>\n\t<li>Goede softskills (o.a. goed communiceren, goed luisteren en doorvragen);</li>\n\t<li>Bij voorkeur ervaring in een scrumteam/DevOps team.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht voor jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Auto v/d zaak, pensioenregeling, Telefoon, Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:46:22+00:00",
+            "date_modified": "2022-06-27T07:09:58+00:00",
+            "date_posted": "2020-11-24T14:46:22+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Testen",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668276,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668276-Intern-Technisch-Applicatie-beheerder/",
+            "site_id": 3665,
+            "title": "[Intern] Technisch Applicatie beheerder",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Technisch Applicatiebeheerder binnen onze unit Infra &amp; Support zorg jij voor het operationeel houden van de applicaties bij onze opdrachtgevers. Je verleent technische ondersteuning en bent het eerste aanspreekpunt voor onze opdrachtgevers en hun gebruikers.<br />\n<br />\n<em>Een greep uit jouw takenpakket</em>\n\n<ul>\n\t<li>Het oplossen van incidenten;</li>\n\t<li>Testen en implementeren van applicaties om te anticiperen op mogelijke problemen;</li>\n\t<li>Wensen vertalen naar technische oplossingen;</li>\n\t<li>Het geven van advies over bijvoorbeeld aanpassingen in de applicaties;</li>\n\t<li>Het participeren als specialist in projecten.</li>\n</ul>\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO werk- en denkniveau, bij voorkeur een afgeronde HBO opleiding ICT;</li>\n\t<li>Je hebt minimaal 3 jaar werkervaring in een soortgelijke functie;</li>\n\t<li>Ruime ervaring met SQL-query's is een must. Kennis van XML en interfaces is een pr\u00e9;</li>\n\t<li>Kennis van, en ervaring met het inrichten en beheren van Cloud omgevingen zoals Azure, AWS en methodes voor applicatiebeheer zoals ITIL of ASL;</li>\n\t<li>Je hebt passie voor je werk, bent resultaatgericht en beschikt over de drive om voorop te blijven lopen in de technologie;</li>\n\t<li>Tenslotte heb je humor, ben je ondernemend van geest, heb je een absolute teamspirit en ben je pragmatisch.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht voor jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Auto v/d zaak, pensioenregeling, Telefoon, Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:44:39+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T14:44:39+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668273,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668273-Intern-Solution-Architect/",
+            "site_id": 3665,
+            "title": "[Intern] Solution Architect",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<strong>Vacature Solution Architect</strong><br />\nAls Solution Architect help jij onze klanten bij het realiseren van hun digitale transformatie. Jij weet hoe verschillende toepassingen van technologie maximaal bijdragen aan de benodigde verandering in een organisatie en vertaalt de aangegeven kaders naar de context van de verschillende Agile-teams. Effectieve communicatie en verandering in de organisatie zijn voor jou de essentie die waarde cre\u00ebren.<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO/WO diploma;</li>\n\t<li>TOGAF/ArchiMate certificeringen;</li>\n\t<li>Ruime werkervaring als Solution Architect, bij voorkeur bij grote (overheids)organisaties;</li>\n\t<li>Jij bent dynamisch en in elke digitale transformatie ziet jij een uitdaging;Jij krijgt een kick van het detecteren van patronen en veranderingen en checkt of dit bij de te ontwikkelen oplossing en binnen de architectuurkaders past;</li>\n\t<li>Jij bent een sparringpartner voor zowel de klant als de ontwikkelteams;</li>\n\t<li>Jij kan de samenhang van de verschillende componenten blijvend laten aansluiten op de business objectives en interne initiatieven.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.<br />\n\u00a0",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:42:41+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T14:42:41+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668267,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668267-Intern-Linux-Specialist/",
+            "site_id": 3665,
+            "title": "[Intern] Linux Specialist",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<strong>Vacature Linux Specialist</strong><br />\nUkomst is op zoek naar Linux specialisten met een afgeronde Hbo/WO-opleiding.<br />\nAls Linux specialist ga jij bij verschillende opdrachtgevers uitdagende projecten uitvoeren. Met jouw ervaring en expertise treed jij niet alleen op als expert, maar ook als adviseur. Als Linux specialist zijn jouw voornaamste werkzaamheden het ontwikkelen, monitoren, beheren en/of automatiseren van de Linux infrastructuur. Jij signaleert de knelpunten en neemt de juiste stappen om te komen tot wijzigingen ter voorkoming of oplossing van deze knelpunten. Daarnaast is het van belang dat jij oog hebt voor nieuwe ontwikkelingen en jij weet hoe jij hierop kan inspelen.<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>Jij hebt diepgaande kennis van RedHat (liefst RHEL8, RHCE en/of RHCSA gecertificeerd).</li>\n\t<li>Jij hebt ervaring in een DevOps omgeving</li>\n\t<li>Jij kennis hebt van virtualisatie technieken, Cloud (AWS)</li>\n\t<li>Jij er een kick van krijgt om opdrachtgevers te helpen met hun Linux issues.</li>\n\t<li>Jij kennis hebt van onder andere Docker, Kuberetes,\u00a0 Ansible. Git, Openstack,<br />\n\t\u00a0</li>\n</ul>\n<strong>Waarom kies je voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling</li>\n\t<li>pensioenregeling</li>\n\t<li>auto v/d zaak</li>\n\t<li>Telefoon</li>\n\t<li>Laptop</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops.</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:39:41+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T14:39:41+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668264,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668264-Intern-Functioneel-Beheerder/",
+            "site_id": 3665,
+            "title": "[Intern] Functioneel Beheerder",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Functioneel beheerder binnen onze unit Infra &amp; Supportzorg jij ervoor dat de systemen die onder jouw verantwoordelijkheid vallen goed blijven functioneren. Dit doe jij in goede afstemming met key-users, applicatiebeheerders, leveranciers en proceseigenaren. Je signaleert tijdig knelpunten en communiceert proactief naar zowel de lijn als je klant.<br />\n<br />\n<em>Een greep uit jouw takenpakket</em>\n\n<ul>\n\t<li>Beantwoorden van gebruikersvragen en \u2013 verzoeken;</li>\n\t<li>Documenten van de applicaties (voor gebruikers-, beheerders en opleidingsdocumentatie);</li>\n\t<li>Geven van voorlichten en instructies over nieuwe functionaliteiten en mogelijkheden binnen applicaties;</li>\n\t<li>Bieden van advies en ondersteuning bij het specifieren en testen van gewenste verbeteringen;</li>\n\t<li>Gebruikersoverleggen organiseren, deelnemen aan expertgroepen en daarbij aan allerlei projecten deelnemen.</li>\n</ul>\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO werk- en denkniveau, bij voorkeur een afgeronde HBO opleiding ICT;</li>\n\t<li>Je hebt minimaal 5 jaar recente werkervaring in een soortgelijke functie;</li>\n\t<li>Een afgeronde opleiding ITIL en BISL en/of ASL;</li>\n\t<li>Aantoonbare werkervaring met het opstellen van functionele specificaties, processen en procedures;</li>\n\t<li>Aantoonbare kennis van- en werkervaring met IT processen en methodieken waaronder Prince en ITIL;</li>\n\t<li>Je ben klantgericht, initiatiefrijk, communicatief sterk, analytisch;</li>\n\t<li>Werkervaring met de Agile/Scrum manier van werken.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht voor jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Auto v/d zaak, pensioenregeling, Telefoon, Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:35:38+00:00",
+            "date_modified": "2021-08-30T06:57:59+00:00",
+            "date_posted": "2020-11-24T14:35:38+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668261,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668261-Intern-Functioneel-Applicatie-beheerder/",
+            "site_id": 3665,
+            "title": "[Intern] Functioneel Applicatie beheerder",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Functioneel Applicatie beheerder binnen onze unit Infra &amp; Support ben jij het eerste aanspreekpunt als het gaat om een bepaalde applicatie bij onze opdrachtgever(s). Jij zorgt ervoor dat problemen opgelost worden en dat vragen/wensen van gebruikers naar nieuwe mogelijkheden binnen de applicatie worden vertaald.<br />\n<br />\n<em>Een greep uit jouw takenpakket</em>\n\n<ul>\n\t<li>1<sup>e</sup> en 2<sup>e</sup> lijns support bieden aan gebruikers;</li>\n\t<li>Het schrijven en uitvoeren van user stories en het plannen, voorbereiden, uitvoeren en administreren van de benodigde functionele wijzigingen.</li>\n\t<li>Het (helpen) opstellen van kwaliteitsdocumentatie en benodigde (beheer) documentatie;</li>\n\t<li>Het opstellen van gebruikershandleidingen en het geven van trainingen;</li>\n\t<li>Communicatie met leveranciers en ondersteunende partijen;</li>\n\t<li>Deelname aan projecten en audits.</li>\n</ul>\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>HBO werk- en denkniveau, bij voorkeur een afgeronde HBO opleiding ICT;</li>\n\t<li>Aanvullende certificeringen zoals bijvoorbeeld ITIL, BiSL, ASL etc.</li>\n\t<li>Je hebt minimaal 3 jaar recente werkervaring in een soortgelijke functie;</li>\n\t<li>Aantoonbare werkervaring met het opstellen van functionele specificaties, processen en procedures;</li>\n\t<li>Aantoonbare kennis van- en werkervaring met IT processen en methodieken waaronder ITIL;</li>\n\t<li>Je ben klantgericht, initiatiefrijk, communicatief sterk, analytisch;</li>\n\t<li>Werkervaring met de Agile/Scrum manier van werken is een sterke pr\u00e9.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht voor jou!<br />\n\u00a0\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling</li>\n\t<li>Auto v/d zaak, pensioenregeling, Telefoon, Laptop</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops.</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:32:48+00:00",
+            "date_modified": "2022-12-05T21:52:31+00:00",
+            "date_posted": "2020-11-24T14:32:48+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Beheer",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668255,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668255-Intern-Fullstack-Developer/",
+            "site_id": 3665,
+            "title": "[Intern] Fullstack Developer",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Senior Full-stack Developer (bijvoorbeeld Java, Python, .Net) draag je bij aan de digitale transformatie. Je ontwerpt, ontwikkelt, test en implementeert digitale services bij onze klanten. Je begrijpt de, soms complexe, business wensen en maakt eenvoudig de vertaling naar de techniek. Met jouw creativiteit en de ambitie om continu te leren blijf je goed bij met alle nieuwe ontwikkelingen in de markt. Zo blijf je samen met je collega\u2019s van de Unit Development &amp; Innovation voorop lopen in de digitale wereld. Kom jij ons versterken als ervaren Full-stack Developer?<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij.</strong>\n\n<ul>\n\t<li>Je ontwikkelt mee aan diverse websites en klantomgevingen maar draagt ook bij aan interne programma\u2019s zoals onze Cloud transitie, onze beweging richting DevOps en CI/CD</li>\n\t<li>Je bent mentor voor medior developers binnen de Unit Development &amp; Innovation en voelt je verantwoordelijk voor de groei van je collega developers</li>\n\t<li>Je bent het aanspreekpunt voor de Product owner als het gaat om techniek.</li>\n\t<li>Je maakt de juiste keuzes op het gebied van architectuur en security en stemt dit af met de Tech lead van de afdeling.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\n<strong>Wat bieden wij</strong>\n\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie\u00a0 binnen de kennis unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:29:41+00:00",
+            "date_modified": "2022-03-11T10:46:40+00:00",
+            "date_posted": "2020-11-24T14:29:41+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668249,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668249-Intern-DevOps-Engineer/",
+            "site_id": 3665,
+            "title": "[Intern] DevOps Engineer",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Wil jij ook de top van de Nederlandse bedrijven helpen om de stap naar DevOps te zetten? Wil jij hun afdelingen en teams coachen in hun transitieproces? Hou jij, net als wij, van een fikse uitdaging en heb je de ambitie om jouw kennis en ervaring verder uit te dragen en wil je ons vakmanschap op DevOps en Agile gebied verder helpen ontwikkelen? Dan beschik je al over de juiste ambitie en kun je bij ons aan de slag als Senior Agile/DevOps Consultant.<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>Minimaal 3 jaar ervaring met Linux en gerelateerde open sources technieken.</li>\n\t<li>Gedegen kennis van een of meerdere scripting talen zoals: Bash, Python, Ruby, Powershell.</li>\n\t<li>Kennis van software talen zoals Java en C#</li>\n\t<li>Ervaring met CI/CD tooling zoals: Bamboo, Jenkins, AWS Codebuild</li>\n\t<li>Ervaring met Terraform, Puppet, Chef, Ansible of vergelijkbaar.</li>\n\t<li>Ervaring met container technieken zoals Docker, Kubernettes.</li>\n\t<li>Bekend met werken in multidisciplinaire teams</li>\n\t<li>Ervaring met Agile, Scrum, Kanban en of Lean methodieken.</li>\n\t<li>Ervaring met AWS, Azure en of Google.</li>\n\t<li>Proactief, communicatief, zelfstandig als in teamverband kunnen functioneren.</li>\n\t<li>Actief bijhouden van de nieuwste technieken en hierop inspelen.</li>\n\t<li>Je spreekt vloeiend Nederlands.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\n<strong>Wat bieden wij</strong>\n\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie\u00a0 binnen de kennis unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:26:30+00:00",
+            "date_modified": "2023-02-27T02:06:56+00:00",
+            "date_posted": "2020-11-24T14:26:31+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668246,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668246-Intern-Cloud-Engineer/",
+            "site_id": 3665,
+            "title": "[Intern] Cloud Engineer",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "Als Cloud Engineer ontwikkel, test en implementeer jij infrastructuren om zo het fundament te leggen voor succesvolle Cloud-omgevingen! Hierbij maak jij gebruik van de nieuwste technologie\u00ebn \u00e9n van jouw eigen creativiteit.<br />\n<br />\nJe bent\u00a0verantwoordelijk\u00a0voor de juiste installatie en werking van de beheerde omgevingen van klanten, op zowel Cloud als non-Cloud gebied. Met jouw ruime technische kennis is dat geen probleem. Je bent graag \u2018up to date\u2019 als het gaat om nieuwe ontwikkelingen op het Cloud vakgebied \u00e9n je handen jeuken om deze kennis in de praktijk toe te passen. Vrijwel altijd doe je dit in teamverband en ga je aan de slag met actuele Cloud vraagstukken. Je bent niet bang om over de oplossing mee te denken en toont graag initiatief.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong>\n\n<ul>\n\t<li>Je hebt een hbo- of wo-opleiding Informatica succesvol afgerond</li>\n\t<li>Minimaal 4 jaar relevante werkervaring in een soortgelijke functie;</li>\n\t<li>Minimaal afgeronde certificering op MCSA/MCSE-niveau (2016);</li>\n\t<li>In bezit (of bereid om deze te halen) van het AZ104, AWS Architect of Associate certificaat;</li>\n\t<li>Je houdt jezelf qua kennis op de hoogte van Cloud-oplossingen zoals Office 365, Azure of AWS;</li>\n\t<li>Kennis van werkmethodieken zoals DevOps, Agile en Scrum;</li>\n</ul>\nJij bent\u00a0gespecialiseerd(of je wil hier graag naar toe) in \u00e9\u00e9n of meerdere technische richtingen zoals Azure, Amazon Web Services, Office365, virtualisatie, PowerShell, Infrastructure as a Code en Containerization.<br />\n\u00a0<br />\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\nDaarnaast bieden wij:\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie binnen je kennis Unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:23:58+00:00",
+            "date_modified": "2023-03-13T23:02:49+00:00",
+            "date_posted": "2020-11-24T14:23:58+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Ontwikkeling",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668243,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668243-Intern-Business-Analist/",
+            "site_id": 3665,
+            "title": "[Intern] Business Analist",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<div><strong>Vacature Business Analist</strong><br />\nAls Business Analist ben je de schakel tussen business en IT. Je weet de wens van de gebruikers uitstekend in kaart te brengen en te vertalen naar IT Solutions. Je bent assertief en je weet de kern van de vraag ontdekken. Herken jij je in bovenstaand profiel?<br />\n<br />\nAls Business Analist vertaal je de wensen van de Business naar praktische IT Solutions. Je organiseert en begeleidt workshops waarin je samen met de Business processen in kaart brengt en requirements opstelt. Op basis hiervan stel je een functioneel ontwerp op en zie je er op toe dat op basis van dit ontwerp ook daadwerkelijk een oplossing wordt gerealiseerd die aansluit bij de wensen en behoefte uit de business. Je bent in deze rol het aanspreekpunt voor zowel Business en IT als andere stakeholders. Ook schakel je makkelijk tussen alle verschillende partijen.<br />\n<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong></div>\n\n<ul>\n\t<li>Minimaal een afgeronde HBO-opleiding richting IT of bedrijfskunde</li>\n\t<li>Jij een pragmatische instelling hebt.</li>\n\t<li>Minstend 5 jaar werkervarting als Business Analist</li>\n\t<li>Ervaring met het vertalen van processen naar de impact op de organisatie en haar systemen.</li>\n\t<li>Ervaring met Agile/Scrum</li>\n\t<li>Een sterk analytisch vermogen en dit kan je overbrengen.</li>\n\t<li>Proactief en communicatief vaardig.</li>\n\t<li>Uitstekende schrijfvaardigheden</li>\n\t<li>En goede beheersing van de Nederlandse taal in woord en geschrift.</li>\n\t<li>Daarnaast wordt je happy van statistische analyses (met behulp van Excel, PowerBI, Tableau, SPSS, Business Objects en SQL).<br />\n\t\u00a0</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\n<strong>Wat bieden wij</strong>\n\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie\u00a0 binnen de kennis unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:20:40+00:00",
+            "date_modified": "2022-12-02T08:34:55+00:00",
+            "date_posted": "2020-11-24T14:20:40+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Overig",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        },
+        {
+            "id": 668240,
+            "url": "https://ukomst.catsone.nl/careers/4337-General/jobs/668240-Intern-BI-Specialist/",
+            "site_id": 3665,
+            "title": "[Intern] BI Specialist",
+            "location": {
+                "city": "Randstad",
+                "state": "Zuid-Holland",
+                "postal_code": null
+            },
+            "country_code": null,
+            "country": null,
+            "description": "<div>Voor onze Unit Data, zijn wij opzoek naar een senior BI Specialist.<br />\n<br />\nJe gaat graag uitdagingen aan! Als Business Intelligence Engineer werk je bij onze klanten. Jij bent onderdeel van het team dat zich bezig houdt met de implementatie en realisatie van een Data warehouse in de cloud. Voor je aan de slag gaat met het ontwerpen van de juiste oplossing, stel je goede vragen aan de klant. Jouw kritische oog en manier van aanpakken komen hierbij uitstekend van pas. Je ziet wat de klant nodig heeft om het optimale uit de data te halen en steekt direct de handen uit de mouwen voor het beste resultaat.<br />\n\u00a0<br />\n<strong>Over Ukomst</strong><br />\nUkomst is een snelgroeiend IT-bedrijf met ruim 10 jaar ervaring binnen de IT-detacheringsmarkt. Als kennishuis en sparringpartner ontzorgen wij onze opdrachtgevers met complexe vraagstukken. Binnen onze organisatie hebben wij drie specialistische units: Infra &amp; Support, Development &amp; Innovation en Management &amp; Data. De specialisten van Ukomst gaan, individueel of in een high performance team, aan de slag met gave projecten bij onze opdrachtgevers. Op deze manier cre\u00ebren we een digitaal eco-systeem waar het belang van onze opdrachtgevers voorop staan.<br />\n\u00a0<br />\n<strong>Wie ben jij</strong></div>\n\n<ul>\n\t<li>Je hebt HBO werk- en denkniveau met minstens drie jaar relevante werkervaring;</li>\n\t<li>Je hebt ervaring met data modelleringstechnieken zoals Data vault en/of dimensioneel modelleren. \u00d3f de ambitie om dit te leren;</li>\n\t<li>Je bezit kennis van reporting tools zoals PowerBI, SAS en Tableau;</li>\n\t<li>Je bent bekent met ETL tooling zoals Matillion en Informatica Powercenter.</li>\n\t<li>Je wilt aan de slag met Cloud oplossingen zoals Microsoft Azure, Amazon Web Services en Snowflake;</li>\n\t<li>Uitstekende mondelinge en schriftelijke communicatie-skills.</li>\n\t<li>Je bent flexibel en nieuwsgierig</li>\n\t<li>Actief bijhouden van de nieuwste technieken en hierop inspelen.</li>\n\t<li>Je spreekt vloeiend Nederlands.</li>\n</ul>\n<strong>Waarom je kiest voor Ukomst</strong><br />\nWij vinden het belangrijk dat je het beste uit jezelf kunt halen, maar ook het beste uit elkaar halen. Door ons brede scala aan opdrachtgevers in verschillende sectoren zorgen wij altijd voor een opdracht die echt bij jou past. \u00c9\u00e9n van de pijlers binnen Ukomst is aandacht aan jou!<br />\n\u00a0<br />\n<strong>Wat bieden wij</strong>\n\n<ul>\n\t<li>Goede arbeidsvoorwaarden waaronder een vaste aanstelling;</li>\n\t<li>Pensioenregeling;</li>\n\t<li>Auto v/d zaak;</li>\n\t<li>Telefoon;</li>\n\t<li>Laptop;</li>\n\t<li>Een ongelimiteerd opleidingsbudget;</li>\n\t<li>Gave projecten waarin jij echt het verschil kan maken;</li>\n\t<li>Toegang tot meet-ups, diverse leuke bedrijfsuitjes, kennissessies en workshops;</li>\n\t<li>Meedenken over de strategie\u00a0 binnen de kennis unit.</li>\n</ul>\nEn uiteraard een leuk team met fijne collega\u2019s waarin je jezelf kan zijn.",
+            "duration": "Onbepaalde tijd",
+            "category_name": "none",
+            "type": "H",
+            "is_hidden": false,
+            "applications": [
+                5783
+            ],
+            "recruiter_signature": null,
+            "date_created": "2020-11-24T14:18:17+00:00",
+            "date_modified": "2021-11-29T16:19:00+00:00",
+            "date_posted": "2020-11-24T14:18:17+00:00",
+            "custom_fields": [
+                {
+                    "id": "18515",
+                    "value": "Overig",
+                    "type": 5
+                },
+                {
+                    "id": "20732",
+                    "value": "Ukomst B.V.",
+                    "type": 1
+                }
+            ],
+            "max_rate": "",
+            "salary": "",
+            "start_date": null,
+            "company_job_id": null,
+            "department": null,
+            "branch": null
+        }
+    ],
+    "translations": {
+        "header": "Vacatures bij {company}",
+        "category": "Categorie",
+        "location": "Lokatie",
+        "apply-to-job": "Solliciteer naar {job}",
+        "job-openings": "Vacatures",
+        "apply": "Toepassen",
+        "apply-now": "Solliciteer",
+        "apply-header": "Solliciteer naar {job}",
+        "add-history": "Meer historie toevoegen",
+        "next-page": "Volgende pagina",
+        "previous-page": "Vorige pagina",
+        "page-number": "Pagina {currentPage} van  {totalPages}",
+        "submit": "Verstuur Sollicitatie",
+        "remove": "Verwijder",
+        "attach-file": "Bijlage toevoegen",
+        "powered-by": "Powered by",
+        "job-title": "Functie",
+        "company-name": "Bedrijfsnaam",
+        "city": "Plaats",
+        "state": "Provincie",
+        "country": "Land",
+        "type": "Type",
+        "supervisor-name": "Naam Manager",
+        "supervisor-phone": "Telefoon Manager",
+        "start-date": "Start Datum",
+        "end-date": "Eind Datum",
+        "summary": "Overzicht",
+        "reason-for-leaving": "Reden Be\u00ebindiging",
+        "month": "Maand",
+        "year": "Jaar",
+        "january": "Januari",
+        "february": "Februari",
+        "march": "Maart",
+        "april": "April",
+        "may": "Mei",
+        "june": "Juni",
+        "july": "Juli",
+        "august": "Augustus",
+        "september": "September",
+        "october": "Oktober",
+        "november": "November",
+        "december": "December",
+        "drop-paste": "Zet bestanden hier neer, plak ze of",
+        "drop-paste-import": "Zet bestanden hier neer, plak ze, importeer ze vanaf een van de bovenstaande locaties of",
+        "browse": "bladeren",
+        "upload-file": "Upload {count} bestand",
+        "upload-files": "Upload {count} bestanden",
+        "you-can-only-upload-file": "Je kan alleen {count} bestand uploaden",
+        "you-can-only-upload-files": "Je kan enkel {count} bestand uploaden",
+        "name": "Naam",
+        "done": "Klaar",
+        "editing": "Bewerken",
+        "my-device": "Mijn device",
+        "add-url": "Toevoegen URL",
+        "import": "Importeer",
+        "enter-url": "Invoeren weblink (URL) om te importeren",
+        "failed-to-fetch": "Informatie verzamelen van de URL is mislukt",
+        "import-from": "Importeer gegevens van",
+        "no-openings": "Op dit moment hebben wij geen vacatures gepubliceerd. Kom later nog eens terug.",
+        "view-all-jobs": "Bekijk alle vacatures",
+        "more-openings": "Meer vacatures",
+        "share-this-job": "Deel deze vacature",
+        "upload-your-resume": "Upload CV",
+        "import-from-linkedin": "Importeer van LinkedIn",
+        "fill-manually": "Handmatig invoeren",
+        "view-job-listing": "Bekijk vacature overzicht",
+        "application-received": "Sollicitatie ontvangen",
+        "application-received-message": "Jouw sollicitatie voor {job} is ontvangen.",
+        "registration-received-message": "Jouw sollicitatie is ontvangen.",
+        "application-failed": "Er heeft een error plaatsgevonden",
+        "application-failed-message": "Er is iets misgegaan tijdens het verzenden van de sollicitatie. Probeer het (later) opnieuw.",
+        "view-more-openings": "Alle vacatures",
+        "view-all-openings": "Alle vacatures",
+        "linkedin-error": "LinkedIn gegevens import mislukt.",
+        "visit-website": "Homepage",
+        "register": "Open Sollicitatie / Inschrijven",
+        "register-with-company": "Registreer je bij {company}",
+        "contract": "Contract",
+        "hire": "Vast Contract",
+        "contract-to-hire": "Tijdelijk Contract",
+        "freelance": "Freelance",
+        "find-a": "Zoek",
+        "search": "Zoek",
+        "unsupported-browser": "Je browser wordt niet ondersteund omdat deze verouderd is.",
+        "unsupported-browser-message": "Update of probeer een van deze opties:",
+        "download": "Download",
+        "company-job-id": "Bedrijf Vacature ID",
+        "id": "ID",
+        "department": "Afdeling",
+        "duration": "Duur",
+        "max-rate": "Max Tarief",
+        "salary": "Salaris",
+        "postal-code": "Postcode",
+        "date-posted": "Plaatsings datum vacature",
+        "branch": "Filiaal"
+    }
+}
