@@ -20,6 +20,8 @@ class MylerScraper(MasterScraper):
         jobs = soup.find_all(attrs={'class':'col-md-4'})
         for job in jobs:
             job_info = {}
+            job_info['Job Website'] = 'Myler'
+            job_info['Date Published'] = job.find('div', {'class':'post-meta'}).text
             job_info['URL'] = job.find('a')['href']
             # Get response from job page and read HTML
             job_response = requests.request("GET", job_info['URL'], headers=self.headers, data=self.payload)
@@ -30,10 +32,9 @@ class MylerScraper(MasterScraper):
             job_info['Employer'] = job_soup.find(attrs={'class':'d-flex align-items-center flex-md-column'}).text.replace('\n','')
             job_info['Title'] = job_items[0].text.split('\n')[2]
             job_info['Location'] = job_items[1].text.split('\n')[2]
-            job_info['Hours per Week'] = job_items[2].text.split('\n')[2]
+            job_info['Hours per Week'] = int(job_items[2].text.split('\n')[2].split(' ')[0])
             job_info['Job Duration'] = job_items[3].text.split('\n')[2].replace(' ','')
             job_info['Job Description'] = job_soup.find(attrs={'class':'hfp_read-more'}).text
             self.job_list.append(job_info)
         
         self.save_json(data=self.job_list, website='Myler', parsed=True)
-

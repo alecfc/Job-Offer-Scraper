@@ -1,5 +1,137 @@
 [
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-testmanager-testcoordinator/",
+        "Title": "Senior Testmanager / Testco\u00f6rdinator",
+        "Location": "Amsterdam",
+        "Job Duration": "9 maanden met o.o.v",
+        "Hours per Week": "36 - 40",
+        "Job Description": "De doelstellingen van het project zijn:Test Data Management:Het formuleren, introduceren en in gebruik nemen van een TDM proces dat anonieme / synthetische sets aan testdata over de ketens in onze OTA faciliteert.Testomgevingen:De VU heeft haar systeemlandschap in de cloud en on-premise draaien. O, T en A zijn in toenemende mate gekoppeld, maar dit is niet overal consequent doorgevoerd. De ketens in O, T en A dienen zo uniform mogelijk van testdata voorzien te kunnen worden, waarbij ontbrekende delen van de straten geen bottleneck mogen vormen. Beoogde deliverables van het project zijn meer specifiek:Tool-selectie en eventuele POC trajecten dienen meegenomen te worden in de totaaloplossing en (begeleid) uitgevoerd te worden.Het gebruik van testdata in de test- en acceptatie-omgeving moet voldoen aan de VU-richtlijnen m.b.t. het gebruik van persoonsgegevens (zoals vastgelegd in Testbeleid \u2013 BJZ). Belangrijk is dat de data in kwestie voldoet aan de AVGrichtlijnen.De testdata moet geschikt zijn om de door de run en change teams vereiste testen en validaties uit te kunnen voeren (stakeholders bepalen gewenste coverage)Er moet inzicht zijn in de samenhang van datasets per proces/applicatie.Het proces om aanvullende testdata aan te maken moet inzichtelijk en eenvoudig te hanteren zijnDistributie van testdata over het landschap/ketens heen moet door VU gemanaged / ge\u00efnitieerd / beheerd kunnen wordenTeams en projecten moeten inzake testdata gefaciliteerd worden bij het uitvoeren van testtrajecten (testsets liggen klaar en zijn herbruikbaar of (her-)genereerbaar)Het gebruik van testdata / modellen bij functionele testen moet aansluiten op het incorporeren / ombouwen / hergebruiken daarvan in een eventuele toekomstige testautomatisering slag.Het (mede) ontwerpen, vaststellen en implementeren van een solution architectuur m.b.t. (O)TAP omgevingen welke secuur zijn en robuust (in termen van capacity, availability, connectivity, maintainability)Het daarbij in kaart brengen van additionele (O)TA requirements en deze implementeren i.s.m. bestaande (SaaS) leveranciers (met name gericht op ontbrekende koppelingen en datastromen) \u2013 en zorgdragen voor eventueel daaruit volgende aanpassingen aan onderliggende servicecontracten"
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/informatie-architect-2/",
+        "Title": "Informatie Architect",
+        "Location": "Almere",
+        "Job Duration": "7 maanden met o.o.v",
+        "Hours per Week": "32",
+        "Job Description": "We zijn op zoek naar een informatiearchitect die bekend is het met de producten & diensten, bedrijfsprocessen en informatievoorzieningen in het fysieke domein en snel kan starten om te helpen.Je draagt bij door het opstellen van architecturen bij grote wijzigingen in de informatievoorziening. De kaders en richtlijnen help je mee opstellen en adviseert over de toepassing van architectuurprincipes en -modellen. Je geeft mede vorm aan het projectportfolio door te adviseren van de aanpak, fasering en afbakening van projecten.Als architect bewaak je primair de samenhang van het applicatie- en gegevenslandschap en ben je nauw betrokken bij de herinrichting van bedrijfsprocessen en organisatiestructuren. Je ontwerpt daartoe in teamverband ketens van bedrijfsonderdelen, -functies en -processen. Op het snijvlak met andere domeinen denk je mee met architectuurvraagstukken die daar spelen."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-java-developer-27-3-2023/",
+        "Title": "Senior Java Developer",
+        "Location": "Regio Amersfoort",
+        "Job Duration": "12 maanden met optie op verlenging",
+        "Hours per Week": "40",
+        "Job Description": "Binnen HGI is een concept ontwikkeld waarmee voor alle Nederlandse operationele commando's overal ter wereld onder alle omstandigheden uit standaardbouwstenen een robuust en betrouwbaar netwerk voor militaire bevelvoering kan worden samengesteld. Hiermee heeft iedere militaire staf de beschikking over voldoende bouwstenen om een lokaal netwerk (LAN) te bouwen waarmee alle secties van de staf met elkaar zijn verbonden. Op deze manier kunnen zij met elkaar e-mailen, telefoneren (VoIP) en videoconferenties houden. Ook wisselen via dit netwerk de commandovoering-ondersteunende systemen zoals ISIS (Integrated Staff Information System) met elkaar gegevens uit. De gebruikte componenten zijn allemaal standaardelementen uit zowel de civiele als de militaire markt. Deze lokale netwerken kunnen aan elkaar worden gekoppeld met behulp van satelliet- of straalzenderverbindingen tot een wereldwijd netwerk (WAN). Voor het plannen en beheren van deze netwerken is een managementsysteem ontwikkeld. Aangezien standaardbouwstenen continu in ontwikkeling zijn, zullen de producten van HGI constant aan de huidige stand van zaken moeten worden aangepast. Tevens worden nieuwe eisen en wensen vanuit de opdrachtgever in het concept ingebed.Vanuit de vakgroep ITO werkt de medewerker mee aan de ontwikkeling van hoog gerubriceerde informatievoorzieningen die de gebruikers in staat stelt overal en altijd betrouwbare en veilige toegang tot informatie te verkrijgen. Je bent verantwoordelijk voor het op maat ontwikkelen van JAVA applicaties."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/pmo-vervanging-pes-suite/",
+        "Title": "PMO \u201cvervanging PES-suite\u201d",
+        "Location": "Noord Holland",
+        "Job Duration": "12 maanden",
+        "Hours per Week": "32 - 40",
+        "Job Description": "De projectsecretaris / PMO die we zoeken gaat zich richten op een project genaamd \"Vervanging PES suite\". Het project richt zich op het vervangen van de huidige IV voorziening zoals deze wordt gebruikt in het proces van arbeidsmiddeling en re-integratie, dit raakt het hart van de dienstverlening van de klant.  De bemiddelingsfunctionaliteit ondersteunt cli\u00ebnten/werkgevers en medewerkers bij de core business van het Werkbedrijf. De functionaliteit is bedrijf kritisch en omvat;1. Bemiddelingsfunctionaliteit op platform: Het gaat hier om de self-service voor werkzoekenden/werkgevers waarin zij zich kunnen inschrijven, hun arbeidsmarktpositie bepalen en kunnen matchen en reageren op beschikbare vacatures/talenten2. Bemiddelingsfunctionaliteit voor medewerkers (assisted service): Het gaat hierbij om de ondersteuning die de adviseurs bieden aan werkzoekenden/werkgevers, en waarbij zij voor de werkzoekenden/werkgevers op zoek kunnen naar een goede match en adviseren over oplossingen op de mismatch.\u00a0Kenmerken kandidaat: Stressbestendig, communicatief sterk, in staat hoofd- en bijzaken te scheiden, uitstekende beheersing in de Nederlandse taal.Praktische details: De rol is deels in Amsterdam en deels remote uit te voeren. De opdracht is voor 12 maanden en een VOG is onderdeel."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/teamleider-finance/",
+        "Title": "Teamleider Finance",
+        "Location": "Gelderland",
+        "Job Duration": "6 maanden",
+        "Hours per Week": "32 - 40",
+        "Job Description": "In de rol van Teamleider zorg je er samen met de afdeling voor een accurate financi\u00eble vastlegging van de diverse bv's. Belangrijk voor deze rol is dat je zelfstandig de maand en kwartaalafsluiting kunt verzorgen, en daarnaast maandrapportages. Daarnaast heb je eerder een team aangestuurd en kun je hen van de juiste sturing voorzien. Als Teamleider heb je op positieve wijze een bijdrage aan de ontwikkeling van de afdeling."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/it-project-manager-service-management-implementation/",
+        "Title": "IT Project Manager Service Management implementation",
+        "Location": "Regio Alkmaar",
+        "Job Duration": "6 maanden met optie op verlenging",
+        "Hours per Week": "32 - 40",
+        "Job Description": "We are looking for a senior IT project manager who can assist us leading the Enterprise Service Management software implementation. The project entails the replacement of the on-prem ITSM solution with a new Enterprise Service Management cloud platform. Scope ESM are modules: incident, request, problem, change, asset, config and service level mngtTeam spirit, strong communication skills and stakeholder management is required with the ability to work closely with business counterparts, architecture, security, suppliers and other internal IT departments. The project is in start-up phase so an IT project manager is expected to be able to bring the project\u00a0through initiation, execution and closing based on prince II methodologies and best practices within the organizations' framework.As IT project manager you will be part of the IT technology department and will report to the Steerco and Portfolio manager Dev&Ops. You will be responsible for the execution of the project in accordance with agreed timelines, deliverables, quality and costs. The expectation of the candidate is that he/she is able to be self-propelled and self-motivated. Management of stakeholders is key."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-testmanager-testcoordinator/",
+        "Title": "Senior Testmanager / Testco\u00f6rdinator",
+        "Location": "Amsterdam",
+        "Job Duration": "9 maanden met o.o.v",
+        "Hours per Week": "36 - 40",
+        "Job Description": "De doelstellingen van het project zijn:Test Data Management:Het formuleren, introduceren en in gebruik nemen van een TDM proces dat anonieme / synthetische sets aan testdata over de ketens in onze OTA faciliteert.Testomgevingen:De VU heeft haar systeemlandschap in de cloud en on-premise draaien. O, T en A zijn in toenemende mate gekoppeld, maar dit is niet overal consequent doorgevoerd. De ketens in O, T en A dienen zo uniform mogelijk van testdata voorzien te kunnen worden, waarbij ontbrekende delen van de straten geen bottleneck mogen vormen. Beoogde deliverables van het project zijn meer specifiek:Tool-selectie en eventuele POC trajecten dienen meegenomen te worden in de totaaloplossing en (begeleid) uitgevoerd te worden.Het gebruik van testdata in de test- en acceptatie-omgeving moet voldoen aan de VU-richtlijnen m.b.t. het gebruik van persoonsgegevens (zoals vastgelegd in Testbeleid \u2013 BJZ). Belangrijk is dat de data in kwestie voldoet aan de AVGrichtlijnen.De testdata moet geschikt zijn om de door de run en change teams vereiste testen en validaties uit te kunnen voeren (stakeholders bepalen gewenste coverage)Er moet inzicht zijn in de samenhang van datasets per proces/applicatie.Het proces om aanvullende testdata aan te maken moet inzichtelijk en eenvoudig te hanteren zijnDistributie van testdata over het landschap/ketens heen moet door VU gemanaged / ge\u00efnitieerd / beheerd kunnen wordenTeams en projecten moeten inzake testdata gefaciliteerd worden bij het uitvoeren van testtrajecten (testsets liggen klaar en zijn herbruikbaar of (her-)genereerbaar)Het gebruik van testdata / modellen bij functionele testen moet aansluiten op het incorporeren / ombouwen / hergebruiken daarvan in een eventuele toekomstige testautomatisering slag.Het (mede) ontwerpen, vaststellen en implementeren van een solution architectuur m.b.t. (O)TAP omgevingen welke secuur zijn en robuust (in termen van capacity, availability, connectivity, maintainability)Het daarbij in kaart brengen van additionele (O)TA requirements en deze implementeren i.s.m. bestaande (SaaS) leveranciers (met name gericht op ontbrekende koppelingen en datastromen) \u2013 en zorgdragen voor eventueel daaruit volgende aanpassingen aan onderliggende servicecontracten"
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/informatie-architect-2/",
+        "Title": "Informatie Architect",
+        "Location": "Almere",
+        "Job Duration": "7 maanden met o.o.v",
+        "Hours per Week": "32",
+        "Job Description": "We zijn op zoek naar een informatiearchitect die bekend is het met de producten & diensten, bedrijfsprocessen en informatievoorzieningen in het fysieke domein en snel kan starten om te helpen.Je draagt bij door het opstellen van architecturen bij grote wijzigingen in de informatievoorziening. De kaders en richtlijnen help je mee opstellen en adviseert over de toepassing van architectuurprincipes en -modellen. Je geeft mede vorm aan het projectportfolio door te adviseren van de aanpak, fasering en afbakening van projecten.Als architect bewaak je primair de samenhang van het applicatie- en gegevenslandschap en ben je nauw betrokken bij de herinrichting van bedrijfsprocessen en organisatiestructuren. Je ontwerpt daartoe in teamverband ketens van bedrijfsonderdelen, -functies en -processen. Op het snijvlak met andere domeinen denk je mee met architectuurvraagstukken die daar spelen."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-java-developer-27-3-2023/",
+        "Title": "Senior Java Developer",
+        "Location": "Regio Amersfoort",
+        "Job Duration": "12 maanden met optie op verlenging",
+        "Hours per Week": "40",
+        "Job Description": "Binnen HGI is een concept ontwikkeld waarmee voor alle Nederlandse operationele commando's overal ter wereld onder alle omstandigheden uit standaardbouwstenen een robuust en betrouwbaar netwerk voor militaire bevelvoering kan worden samengesteld. Hiermee heeft iedere militaire staf de beschikking over voldoende bouwstenen om een lokaal netwerk (LAN) te bouwen waarmee alle secties van de staf met elkaar zijn verbonden. Op deze manier kunnen zij met elkaar e-mailen, telefoneren (VoIP) en videoconferenties houden. Ook wisselen via dit netwerk de commandovoering-ondersteunende systemen zoals ISIS (Integrated Staff Information System) met elkaar gegevens uit. De gebruikte componenten zijn allemaal standaardelementen uit zowel de civiele als de militaire markt. Deze lokale netwerken kunnen aan elkaar worden gekoppeld met behulp van satelliet- of straalzenderverbindingen tot een wereldwijd netwerk (WAN). Voor het plannen en beheren van deze netwerken is een managementsysteem ontwikkeld. Aangezien standaardbouwstenen continu in ontwikkeling zijn, zullen de producten van HGI constant aan de huidige stand van zaken moeten worden aangepast. Tevens worden nieuwe eisen en wensen vanuit de opdrachtgever in het concept ingebed.Vanuit de vakgroep ITO werkt de medewerker mee aan de ontwikkeling van hoog gerubriceerde informatievoorzieningen die de gebruikers in staat stelt overal en altijd betrouwbare en veilige toegang tot informatie te verkrijgen. Je bent verantwoordelijk voor het op maat ontwikkelen van JAVA applicaties."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/pmo-vervanging-pes-suite/",
+        "Title": "PMO \u201cvervanging PES-suite\u201d",
+        "Location": "Noord Holland",
+        "Job Duration": "12 maanden",
+        "Hours per Week": "32 - 40",
+        "Job Description": "De projectsecretaris / PMO die we zoeken gaat zich richten op een project genaamd \"Vervanging PES suite\". Het project richt zich op het vervangen van de huidige IV voorziening zoals deze wordt gebruikt in het proces van arbeidsmiddeling en re-integratie, dit raakt het hart van de dienstverlening van de klant.  De bemiddelingsfunctionaliteit ondersteunt cli\u00ebnten/werkgevers en medewerkers bij de core business van het Werkbedrijf. De functionaliteit is bedrijf kritisch en omvat;1. Bemiddelingsfunctionaliteit op platform: Het gaat hier om de self-service voor werkzoekenden/werkgevers waarin zij zich kunnen inschrijven, hun arbeidsmarktpositie bepalen en kunnen matchen en reageren op beschikbare vacatures/talenten2. Bemiddelingsfunctionaliteit voor medewerkers (assisted service): Het gaat hierbij om de ondersteuning die de adviseurs bieden aan werkzoekenden/werkgevers, en waarbij zij voor de werkzoekenden/werkgevers op zoek kunnen naar een goede match en adviseren over oplossingen op de mismatch.\u00a0Kenmerken kandidaat: Stressbestendig, communicatief sterk, in staat hoofd- en bijzaken te scheiden, uitstekende beheersing in de Nederlandse taal.Praktische details: De rol is deels in Amsterdam en deels remote uit te voeren. De opdracht is voor 12 maanden en een VOG is onderdeel."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/teamleider-finance/",
+        "Title": "Teamleider Finance",
+        "Location": "Gelderland",
+        "Job Duration": "6 maanden",
+        "Hours per Week": "32 - 40",
+        "Job Description": "In de rol van Teamleider zorg je er samen met de afdeling voor een accurate financi\u00eble vastlegging van de diverse bv's. Belangrijk voor deze rol is dat je zelfstandig de maand en kwartaalafsluiting kunt verzorgen, en daarnaast maandrapportages. Daarnaast heb je eerder een team aangestuurd en kun je hen van de juiste sturing voorzien. Als Teamleider heb je op positieve wijze een bijdrage aan de ontwikkeling van de afdeling."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/it-project-manager-service-management-implementation/",
+        "Title": "IT Project Manager Service Management implementation",
+        "Location": "Regio Alkmaar",
+        "Job Duration": "6 maanden met optie op verlenging",
+        "Hours per Week": "32 - 40",
+        "Job Description": "We are looking for a senior IT project manager who can assist us leading the Enterprise Service Management software implementation. The project entails the replacement of the on-prem ITSM solution with a new Enterprise Service Management cloud platform. Scope ESM are modules: incident, request, problem, change, asset, config and service level mngtTeam spirit, strong communication skills and stakeholder management is required with the ability to work closely with business counterparts, architecture, security, suppliers and other internal IT departments. The project is in start-up phase so an IT project manager is expected to be able to bring the project\u00a0through initiation, execution and closing based on prince II methodologies and best practices within the organizations' framework.As IT project manager you will be part of the IT technology department and will report to the Steerco and Portfolio manager Dev&Ops. You will be responsible for the execution of the project in accordance with agreed timelines, deliverables, quality and costs. The expectation of the candidate is that he/she is able to be self-propelled and self-motivated. Management of stakeholders is key."
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "24-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/information-security-officer-iso-2fte/",
+        "Title": "Information Security Officer (ISO) 2fte",
+        "Location": "Regio Utrecht",
+        "Job Duration": "12 maanden met optie op verlenging",
+        "Hours per Week": "36",
+        "Job Description": "De adviseur informatiebeveiliging wordt zowel ingezet bij JIVC zelf tijdens het uitvoeren van opdrachten binnen het generieke IT domein van Defensie als bij de Operationele Commando\u2019s van Defensie rondom hun IT producten. Dit maakt het werkveld krijgsmacht breed. De producten en diensten die je als adviseur informatiebeveiliging oplevert zijn onder andere: een VIR E&E (Voorschrift Informatiebeveiliging Rijksdienst), risico- en dreigingsanalyses om vast te stellen of IT diensten die worden gebruikt nog voldoen aan de noodzakelijke beveiligingsvereisten en het uitvoeren van accreditatieproces van deze IT diensten. Daarnaast houd je je actief bezig met nieuwe ontwikkelingen rondom dreigingen en kwetsbaarheden van systemen en geef je daarin gevraagd en ongevraagd advies in relatie tot de ICT-infrastructuur binnen de krijgsmacht.Verantwoordelijkheden: Je geeft adviezen op het gebied van informatiebeveiliging binnen projecten en/of opdrachten binnen de Defensieorganisatie;Je voert met de VIR E&E (Voorschrift Informatiebeveiliging Rijksdienst \u2013 Effici\u00ebnt & Effectief)-methodiek afhankelijkhedenanalyses uit op (met name) complexe \u2013 en (hoog) gerubriceerde informatiesystemen;Je maakt een risico- en dreigingsanalyse;Je zet implementatietrajecten op ten behoeve van de beveiligingsmaatregelen;Je faciliteert interne audits om de beveiliging van de betreffende IT-dienst te laten toetsen en je maakt een gedegen en onderbouwde risicoafweging conform het comply or explain principe voor het Statement of Compliance (SOC) als onderdeel van een accreditatietraject;Tijdens het gehele accreditatieproces ondersteun je de projectmanager en onderhoud je namens de projectmanager de communicatie met de Beveiligingsco\u00f6rdinator (BC) van het betreffende Krijgsmachtdeel en de Beveiligingsautoriteit (BA)"
+    },
+    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "23-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-23-3-2023/",
         "Title": "Projectmanager",
         "Location": "Zwolle",
@@ -8,6 +140,8 @@
         "Job Description": "Als Projectmanager zul je zitting nemen in de stuurgroep en het stakeholder management op je nemen in de driehoek gemeente Zwolle, SSC Ons en InSpark. Je wordt ondersteund door collega's binnen het team IT Operations van het SSC Ons en spreekt voor deze opdracht zowel de taal van IT-er als die van de opdrachtgever. Voor deze functie is het een vereiste dat je af en toe op locatie bij de partners aanwezig bent.Competenties:Communicatief sterk, zowel op technisch vlak mee kunnen als ook op tactisch niveau met onze\u00a0klanten/partners op management niveau;Kennis van Microsoft server, active directory, databases (met name Oracle) en het applicatielandschap in de\u00a0publieke sector;Kennis van en ervaring met projectmanagement methodieken als Prince2 | IPMA-C | PMBok;Je bent analytisch en gedreven;Je bezit executiekracht en resultaatgerichtheid;Je bent een gedreven zelfstarter die zowel technisch, organisatorisch en bij de eindgebruiker resultaten weet te boeken.Het betreft een opdracht voor 8 tot 24 uur per week met startdatum 29 maart."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "23-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/product-owner-websites/",
         "Title": "Product Owner (Websites)",
         "Location": "Zuid-Holland",
@@ -16,6 +150,8 @@
         "Job Description": "De opdracht is ter vervanging voor een collega die met zwangerschapsverlof gaat, de opdracht is voor begin juli tot en met eind november 2023.Jij bent als Interim Product Owner Websites verantwoordelijk voor de customer journey van de websites binnen de organisatie. Hieronder vallen diverse merken. Jij bent in staat vast te stellen welke optimalisaties er gedaan moeten worden om de conversie te verhogen en de best mogelijke klantbeleving te cre\u00ebren.Tot jouw taken en verantwoordelijkheden behoort:Het opstellen en beheren van de roadmap en het prioriteren van de backlog;Aansturen van interne en externe teams op het gebied van integraties;Het ophalen van wensen bij de stakeholders en cre\u00ebren van intern draagvlak;Scannen van de markt voor de laatste ontwikkelingen;Je komt terecht in het team van de head of Product, samen met twee andere Product Owners en een UX Lead.Het team werkt vanuit het service center in Gorinchem (minimaal 2 dagen), een kantoor in Rotterdam Centrum en daarnaast is hybride werken bespreekbaar"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "23-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/chain-testcoordinator/",
         "Title": "(Chain) Testcoordinator",
         "Location": "Noord-Holland",
@@ -24,6 +160,8 @@
         "Job Description": "The world of \"grocery shopping\" is changing dramatically and rapidly. Customers are definitely at the wheel. Offline and online markets are becoming increasingly intertwined and technology offers unprecedented opportunities. In this world, where \"traditional\" retail no longer exists, this client is an experienced player and market leader in online shopping.With a driven team, they work hard to make our customers' shopping experience better every day. In addition, your help as a Chaintest Coordinator is desperately needed!As a Chaintest Coordinator your activities involve:\u2022 Daily coordination of different tests on the chain with both internal and external parties\u2022 Coordinate findings and remove impediments\u2022 Monitor progress and report towards program management\u2022 Stakeholder management in close collaboration with PM and QA-leadWe are looking for an Chaintest Coordinator, who will work together with multiple teams across different regions. You are the linking pin between multiple teams and expertises. A Chaintest Coordinator IT brings skill and knowledge and asks critical questions to promote independence. You are familiar with the test pyramid and know how the tests work that are in the different layers. They work in a hybrid way and it is common for teams to work at the office 2 days a week."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "23-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/architect-interoperabiliteit-it/",
         "Title": "Architect Interoperabiliteit IT",
         "Location": "Regio Amersfoort",
@@ -32,6 +170,8 @@
         "Job Description": "Deze opdracht richt zich op het ontwerpen en realiseren van koppelingen tussen de Command and Control (C2)-systemen van het Nederlandse militaire optreden en systemen die gebruikt worden voor het opleiden en trainen van militairen. Van belang is dat Nederlandse eenheden genetwerkt en interoperabel kunnen optreden. Daarnaast dienen militairen te kunnen oefenen en trainen conform de doctrine \"train as you fight\". Daarvoor is het van belang dat trainings- en simulatiesystemen ge\u00efntegreerd zijn met de te gebruiken C2-systemen.\u00a0Jouw belangrijkste verantwoordelijkheid: het omgaan met complexiteit door het ontwikkelen van technische ontwerpen en architectuur ter ondersteuning van samenhangende productontwikkeling; het opzetten van systeem requirements en ontwerpen ten behoeve van realisatie."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/product-owner-iam-22-3-2023/",
         "Title": "Product Verantwoordelijke",
         "Location": "Regio Utrecht",
@@ -40,6 +180,8 @@
         "Job Description": "De afdeling Generieke IT en Infrastructuur is verantwoordelijk voor het leveren van advies, diensten, systemen en applicaties voor de generieke informatietechnologie, in het bijzonder voor de business capability Infrastructuur en generieke IT. De afdeling is verantwoordelijk voor de realisatie en instandhouding van de defensie brede IT-infrastructuur. De primaire doelstelling van de afdeling is zorg te dragen voor Business IT Alignement in het generieke IT-domein en de lifecycle van alle IT-infrastructuur voor de generieke IV/ICT-producten uit te voeren. Dit geldt voor zowel standaard als maatwerk IV/ICT-producten en aan klanten conform de afgesproken criteria tijd, geld en kwaliteit. De afdeling geeft hiermee invulling aan een samenhangende generieke IT en borgt hiermee een generieke informatiehuishouding die aansluit op de bedrijfsvoering van Defensie, welke de gebruiker in staat stelt om optimaal gebruik te maken van de verschillende IV faciliteiten.\u00a0De werkzaamheden worden uitgevoerd binnen de sectie Beveiliging. De Sectie Beveiliging garandeert de vertrouwelijkheid, integriteit en beschikbaarheid van de gegevens van Defensie en haar ketenpartners zodat alleen zij altijd en overal kunnen werken met hun gegevens. Daarmee levert de Sectie Beveiliging een wezenlijke bijdrage aan de reactiesnelheid en de slagkracht van Defensie en haar ketenpartners. Het primaire aandachtsgebied is Identity & Acces Management. Hieronder vallen de bouwstenen als IAM, PAM en ABBA. Deze bouwstenen worden beheerd vanuit de Sectie Beveiliging, en sectie Datacenter Services.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/business-analyst-22-3-2023/",
         "Title": "Business Analyst",
         "Location": "Noord-Brabant",
@@ -48,54 +190,8 @@
         "Job Description": "Onderdeel van JIVC is de afdeling Luchtgebonden & Joint IT. L&J IT verzorgt IT-diensten voor onder andere CLSK op het gebied van BV en wapengebonden IT-systemen. Luchtgebonden IT zoekt een ervaren Business Analist die in staat is een van haar teams verder te helpen naar een Target Operating Model waarbij op hoge snelheid software kan worden voortgebracht in samenwerking met de behoeftesteller."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-23-3-2023/",
-        "Title": "Projectmanager",
-        "Location": "Zwolle",
-        "Job Duration": "6 maanden",
-        "Hours per Week": "16",
-        "Job Description": "Als Projectmanager zul je zitting nemen in de stuurgroep en het stakeholder management op je nemen in de driehoek gemeente Zwolle, SSC Ons en InSpark. Je wordt ondersteund door collega's binnen het team IT Operations van het SSC Ons en spreekt voor deze opdracht zowel de taal van IT-er als die van de opdrachtgever. Voor deze functie is het een vereiste dat je af en toe op locatie bij de partners aanwezig bent.Competenties:Communicatief sterk, zowel op technisch vlak mee kunnen als ook op tactisch niveau met onze\u00a0klanten/partners op management niveau;Kennis van Microsoft server, active directory, databases (met name Oracle) en het applicatielandschap in de\u00a0publieke sector;Kennis van en ervaring met projectmanagement methodieken als Prince2 | IPMA-C | PMBok;Je bent analytisch en gedreven;Je bezit executiekracht en resultaatgerichtheid;Je bent een gedreven zelfstarter die zowel technisch, organisatorisch en bij de eindgebruiker resultaten weet te boeken.Het betreft een opdracht voor 8 tot 24 uur per week met startdatum 29 maart."
-    },
-    {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/product-owner-websites/",
-        "Title": "Product Owner (Websites)",
-        "Location": "Zuid-Holland",
-        "Job Duration": "6 maanden",
-        "Hours per Week": "32 - 40",
-        "Job Description": "De opdracht is ter vervanging voor een collega die met zwangerschapsverlof gaat, de opdracht is voor begin juli tot en met eind november 2023.Jij bent als Interim Product Owner Websites verantwoordelijk voor de customer journey van de websites binnen de organisatie. Hieronder vallen diverse merken. Jij bent in staat vast te stellen welke optimalisaties er gedaan moeten worden om de conversie te verhogen en de best mogelijke klantbeleving te cre\u00ebren.Tot jouw taken en verantwoordelijkheden behoort:Het opstellen en beheren van de roadmap en het prioriteren van de backlog;Aansturen van interne en externe teams op het gebied van integraties;Het ophalen van wensen bij de stakeholders en cre\u00ebren van intern draagvlak;Scannen van de markt voor de laatste ontwikkelingen;Je komt terecht in het team van de head of Product, samen met twee andere Product Owners en een UX Lead.Het team werkt vanuit het service center in Gorinchem (minimaal 2 dagen), een kantoor in Rotterdam Centrum en daarnaast is hybride werken bespreekbaar"
-    },
-    {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/chain-testcoordinator/",
-        "Title": "(Chain) Testcoordinator",
-        "Location": "Noord-Holland",
-        "Job Duration": "tot 1-9-2023",
-        "Hours per Week": "32 - 40",
-        "Job Description": "The world of \"grocery shopping\" is changing dramatically and rapidly. Customers are definitely at the wheel. Offline and online markets are becoming increasingly intertwined and technology offers unprecedented opportunities. In this world, where \"traditional\" retail no longer exists, this client is an experienced player and market leader in online shopping.With a driven team, they work hard to make our customers' shopping experience better every day. In addition, your help as a Chaintest Coordinator is desperately needed!As a Chaintest Coordinator your activities involve:\u2022 Daily coordination of different tests on the chain with both internal and external parties\u2022 Coordinate findings and remove impediments\u2022 Monitor progress and report towards program management\u2022 Stakeholder management in close collaboration with PM and QA-leadWe are looking for an Chaintest Coordinator, who will work together with multiple teams across different regions. You are the linking pin between multiple teams and expertises. A Chaintest Coordinator IT brings skill and knowledge and asks critical questions to promote independence. You are familiar with the test pyramid and know how the tests work that are in the different layers. They work in a hybrid way and it is common for teams to work at the office 2 days a week."
-    },
-    {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/architect-interoperabiliteit-it/",
-        "Title": "Architect Interoperabiliteit IT",
-        "Location": "Regio Amersfoort",
-        "Job Duration": "12 maanden met optie op verlenging",
-        "Hours per Week": "38",
-        "Job Description": "Deze opdracht richt zich op het ontwerpen en realiseren van koppelingen tussen de Command and Control (C2)-systemen van het Nederlandse militaire optreden en systemen die gebruikt worden voor het opleiden en trainen van militairen. Van belang is dat Nederlandse eenheden genetwerkt en interoperabel kunnen optreden. Daarnaast dienen militairen te kunnen oefenen en trainen conform de doctrine \"train as you fight\". Daarvoor is het van belang dat trainings- en simulatiesystemen ge\u00efntegreerd zijn met de te gebruiken C2-systemen.\u00a0Jouw belangrijkste verantwoordelijkheid: het omgaan met complexiteit door het ontwikkelen van technische ontwerpen en architectuur ter ondersteuning van samenhangende productontwikkeling; het opzetten van systeem requirements en ontwerpen ten behoeve van realisatie."
-    },
-    {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/product-owner-iam-22-3-2023/",
-        "Title": "Product Verantwoordelijke",
-        "Location": "Regio Utrecht",
-        "Job Duration": "12 maanden met optie op verlenging",
-        "Hours per Week": "32",
-        "Job Description": "De afdeling Generieke IT en Infrastructuur is verantwoordelijk voor het leveren van advies, diensten, systemen en applicaties voor de generieke informatietechnologie, in het bijzonder voor de business capability Infrastructuur en generieke IT. De afdeling is verantwoordelijk voor de realisatie en instandhouding van de defensie brede IT-infrastructuur. De primaire doelstelling van de afdeling is zorg te dragen voor Business IT Alignement in het generieke IT-domein en de lifecycle van alle IT-infrastructuur voor de generieke IV/ICT-producten uit te voeren. Dit geldt voor zowel standaard als maatwerk IV/ICT-producten en aan klanten conform de afgesproken criteria tijd, geld en kwaliteit. De afdeling geeft hiermee invulling aan een samenhangende generieke IT en borgt hiermee een generieke informatiehuishouding die aansluit op de bedrijfsvoering van Defensie, welke de gebruiker in staat stelt om optimaal gebruik te maken van de verschillende IV faciliteiten.\u00a0De werkzaamheden worden uitgevoerd binnen de sectie Beveiliging. De Sectie Beveiliging garandeert de vertrouwelijkheid, integriteit en beschikbaarheid van de gegevens van Defensie en haar ketenpartners zodat alleen zij altijd en overal kunnen werken met hun gegevens. Daarmee levert de Sectie Beveiliging een wezenlijke bijdrage aan de reactiesnelheid en de slagkracht van Defensie en haar ketenpartners. Het primaire aandachtsgebied is Identity & Acces Management. Hieronder vallen de bouwstenen als IAM, PAM en ABBA. Deze bouwstenen worden beheerd vanuit de Sectie Beveiliging, en sectie Datacenter Services.\u00a0"
-    },
-    {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/business-analyst-22-3-2023/",
-        "Title": "Business Analyst",
-        "Location": "Noord-Brabant",
-        "Job Duration": "12 maanden met optie op verlening",
-        "Hours per Week": "24",
-        "Job Description": "Onderdeel van JIVC is de afdeling Luchtgebonden & Joint IT. L&J IT verzorgt IT-diensten voor onder andere CLSK op het gebied van BV en wapengebonden IT-systemen. Luchtgebonden IT zoekt een ervaren Business Analist die in staat is een van haar teams verder te helpen naar een Target Operating Model waarbij op hoge snelheid software kan worden voortgebracht in samenwerking met de behoeftesteller."
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-human-training-centrifuge/",
         "Title": "Projectmanager Human Training Centrifuge",
         "Location": "Utrecht",
@@ -104,6 +200,8 @@
         "Job Description": "Van belang is het voortzetten en verbeteren van de dienstverlening van het Centrum voor Mens en Luchtvaart (CML) De huidige verouderde/end-life of type HTC daterend uit 1948 met hoge onderhoudskosten en steeds meer kans op een onherstelbaar defect.Vervanging van de Human Training Centrifuge (HTC);Realiseren van een (nieuw) gebouw waarin de nieuwe HTC geplaatst kan worden;Beheer & Onderhoud (contracten) ingeregeld voor de nieuwe HTC, het gebouw + infrastructuur;Overdragen en trainen/begeleiden aan en van gebruikers;Afstotingsplan ten behoeve van de oude HTC."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/technisch-applicatie-specialist/",
         "Title": "Technisch Applicatie Specialist",
         "Location": "Rotterdam",
@@ -112,14 +210,18 @@
         "Job Description": "Als technisch specialist ben je verantwoordelijk voor de basis productontwikkeling van IT-componenten en de uitvoering van het technisch (applicatie)beheer. Je lost (aangereikte) problemen op door de toepassing van gestandaardiseerde (specialistische) methoden en technieken. Je krijgt te maken met het technisch beheer van applicaties, bijbehorende databases en middleware producten. Hiervoor participeer je in ontwikkeltrajecten in het kader van life cyclemanagement en in programma's en/of projecten.Je stelt documentatie van de IT-componenten op en voert testroutines uit. Je houdt deze up-to-date, doet het technisch beheer en je doet capaciteits-, configuratie- en wijzigingenmanagement. Je toetst de architectuurontwerpen en doet verbetervoorstellen. Je signaleert, analyseert en verhelpt zelfstandig storingen van de IT-componenten. Hiervoor moet je soms bereikbaar zijn in geval van calamiteiten. Verder doe je voorstellen vanuit de praktijk voor verbetering van de uitvoering van het technisch (applicatie)beheer- en productontwikkeling werkzaamheden en implementeert deze."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/sap-testconsultant-2/",
-        "Title": "Sap Testconsultant",
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
+        "URL": "https://interimprofessionals.hero.eu/aanvraag/sap-hcm-testconsultant/",
+        "Title": "Sap HRM Testconsultant",
         "Location": "Den Haag",
         "Job Duration": "6 maanden",
         "Hours per Week": "36",
-        "Job Description": "Voor deze opdracht zijn we op zoek naar een ervaren SAP (HR) testconsultant. Alle reguliere taken van developer in een Scrum team zijn op jouw rol van toepassing, waaronder het bijdragen aan events zoals Refinement, Daily Stand-up, Sprint review end Retrospective. Je gaat samen werken in een team met meerdere developers en testconsultants in SAP Portaal en HR ontwikkelde software. Waarin het team ook de behoefte heeft aan kennisoverdracht als het gaat om testen."
+        "Job Description": "Voor deze opdracht zijn we op zoek naar een ervaren SAP (HRM) testconsultant. Alle reguliere taken van developer in een Scrum team zijn op jouw rol van toepassing, waaronder het bijdragen aan events zoals Refinement, Daily Stand-up, Sprint review en Retrospective. Je gaat samenwerken in een team met meerdere developers en testconsultants in SAP Portaal en HR ontwikkelde software. Waarin het team ook de behoefte heeft aan kennisoverdracht als het gaat om testen."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "22-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/interoperabiliteit-architect-it/",
         "Title": "Interoperabiliteit Architect IT",
         "Location": "Regio Amersfoort",
@@ -128,6 +230,8 @@
         "Job Description": "Van belang is dat Nederlandse eenheden genetwerkt en interoperabel kunnen optreden. Militair optreden vindt vrijwel altijd plaats in een internationale context, waarbij op een federatieve wijze systemen ge\u00efntegreerd worden. Dat wil zeggen; landen hebben een eigen verantwoordelijkheid om systemen in te richten en te beheren maar die systemen dienen zo naadloos gebruikt te kunnen worden in het landschap van alle partnerlanden en informatie moet \u2013 mits rubriceringen dat toestaan \u2013 naadloos gedeeld kunnen worden.\u00a0Deze opdracht richt zich op het ontwerpen en realiseren van koppelingen tussen de Command and Control (C2)-systemen van het Nederlandse militaire optreden en die van partnerlanden. Deze koppelingen worden zo veel mogelijk conform NATO standaarden gerealiseerd. De focus ligt op de technische software architectuur en de vertaling van NATO standaarden naar een software-implementatie.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "21-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/content-manager/",
         "Title": "Content manager",
         "Location": "Regio Utrecht",
@@ -136,6 +240,8 @@
         "Job Description": "Als (interim) content manager ga je bij ons aan de slag met het cre\u00ebren van alle vormen van content, zowel geschikt voor online als offline. Dit doe je niet alleen, hiervoor werk je samen met je collega\u2019s uit jouw team, collega\u2019s uit Europa en externe partners.Je primaire verantwoordelijkheid als Content Manager is het verhaal en de propositie van onze opdrachtgever door te vertalen naar kwalitatieve en impactvolle content. In tekst, beeld en video. Kortom, jij zit vol idee\u00ebn om de marketingstrategie om te zetten in content. Tevens zorg je voor het plannen en verspreiden van deze content. Ook vind je het leuk om zelf korte teksten te schrijven als het nodig is.\u00a0Doordat je veel contact hebt met je collega\u2019s en de markt in de gaten houdt, weet je wat er speelt. Door het analyseren van de content en het bijhouden van de nieuwste ontwikkelingen op je vakgebied, weet je tevens de content te optimaliseren.De content die je maakt is zowel voor intern als extern (in de Europese regio). Je ondersteunt de lokale managers en de communicatiemedewerkers van de organisatie zijn kantoren in andere landen in Europa.\u00a0De Content Manager werkt in een international Marketing & Communicatie team en indirect met een diversiteit aan collega's in alle landen in Europa en het Global Marketing team. Er zijn contacten met collega\u2019s, medewerkers, freelancers, partners en leveranciers.\u00a0Je komt te werken op het nieuwe kantoor in Utrecht (Papendorp) waar ze elke dag gezamenlijk lunchen. Thuiswerken is ook mogelijk. Hierin hanteert de organisatie een hybride model."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "21-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-projectmanager-pilot-optimalisatie/",
         "Title": "Senior Projectmanager pilot Optimalisatie",
         "Location": "Den Haag",
@@ -144,6 +250,8 @@
         "Job Description": "De huidige maatschappelijke dynamiek en een snel ontwikkelende samenleving vragen om een wendbare en taakgerichte overheid. Een overheid die uitgerust is voor het oplossen van ingewikkelde (departement-overstijgende) vraagstukken. Met moderne bedrijfsvoering die als partner van het primaire proces daarbij helpt en ondersteunt. Dat vraagt niet alleen om professionele organisaties, maar ook om een professioneel samenwerken t\u00fassen deze organisaties.De ontwikkelagenda DGVBR heeft als ambitie verdere kwaliteitsverbeteringen door te voeren en de wendbaarheid van de overheid te vergroten. Belangrijke doelen zijn het professionaliseren van standaarddienstverlening, het in samenhang brengen van dienstverlening en dienstverlening in interactie met en dichter bij de klant organiseren.In het kader van deze ontwikkelagenda heeft er een verkenning plaatsgevonden op het gebied van de harde onboarding. Hiermee worden alle formele stappen bedoeld om als medewerker concreet aan het werk te kunnen binnen het wettelijke kader van de arbeidsovereenkomst en met werkbare (ICT-) voorzieningen, ook wanneer iemand tijdelijk of permanent naar een ander departement of organisatie gaat. Vanuit deze verkenning is duidelijk geworden dat de verschillende Shared Service Organisaties (SSO\u2019s) hun leveringsprocessen hebben ingericht vanuit de eigen (leverings)verantwoordelijkheid en dat processen zijn geoptimaliseerd vanuit departementaal perspectief. Er is echter behoefte aan een effici\u00ebnter, meer gestroomlijnd en (vooral) gestandaardiseerd proces voor het gehele Rijk om nieuwe medewerkers startklaar te maken en service te optimaliseren.Het doel van het project is te komen tot \u00e9en gecentraliseerde oplossing1. waarmee bedrijfsmiddelen effici\u00ebnter kunnen worden aangevraagd via een geharmoniseerd proces van ICT en HR;2. die gegevens op uniforme wijze, \u00e9\u00e9nmalig en foutloos opvoert;3. die \u2013 op termijn \u2013 Rijksbreed kan worden gebruikt om nieuwe medewerkers startklaar te maken en hen optimale service te bieden.\u00a0Door een centrale en volledige registratie van nieuwe medewerkers via 1 centrale voorziening bij PDirekt te ontwikkelen, kunnen vervolgprocessen geautomatiseerd worden opgestart en volgt er een uniforme effici\u00ebnte registratie van nieuwe medewerkers. Dit stelt ons in staat om v\u00f3\u00f3r aanvang van de eerste werkweek de benodigde (ICT-, HRM-, en/ of facilitaire) bedrijfsmiddelen voor nieuwe medewerkers aan te vragen.Ook voert het project een aantal standaardisaties door, die leiden tot een effici\u00ebnter HR- en ITlandschap en bijbehorende organisatorische inrichting. De P-Direkt feed naar de departementale IDM-systemen wordt volledig, waardoor er geen WID-scan, RIN en onboarding functionaliteit meer nodig is per departement. De departementale IDM-systemen zelf kunnen vereenvoudigd worden. Hiermee levert het project een bijdrage aan de Ontwikkelagenda DGVBR, zoals geformuleerd in de Nota t.b.v. de ICBR2 .De projectresultaten worden gerealiseerd in samenwerking met SSC-ICT en andere deelnemende SSO\u2019s, hetgeen bijdraagt aan het op Rijksniveau verbeteren van de samenwerking met andere dienstverleners. Doordat het te ontwikkelen proces op termijn rijksbreed kan worden aangeboden, worden werkprocessen \u2018ontgrensd\u2019 en met inzet van koppelvlakken geoptimaliseerd, en in ketens eenvoudiger op elkaar aangesloten. Zo ontstaat er samenhang in bedrijfsvoering.De pilot wordt gestart voor DJI (vanuit J&V) en kerndepartement IenW (vanuit Rijkswaterstaat). Zij hebben de intentie uitgesproken aan dit project deel te nemen als launching customer. Daarnaast is het advies om P-Direkt vanuit BZK als gebruiker aan te laten sluiten bij de pilot, om zo direct bij te kunnen sturen indien nodig. Het Rijksbrede perspectief wordt geborgd met een klankbordgroep. Dit wordt in het nog te ontwikkelen projectplan nader uitgewerkt. Binnen de scope van de pilot, valt de medewerker nieuw in functie, zijnde:\u2022 Geheel nieuwe medewerker\u2022 Gedetacheerde medewerker\u2022 Externe medewerker\u2022 Overgeplaatste medewerkerGezien de omvang, zal de pilot gefaseerd plaatsvinden, rekening houdend met eventuele risico\u2019s gedurende de pilot. Het opdelen van de pilot in behapbare stukken zorgt ervoor dat de pilot behapbaar wordt en blijft, en onzekerheden tijdig worden ge\u00efdentificeerd.\u00a0De pilot \u2018optimaliseren service nieuwe medewerker\u2019 wordt gerealiseerd in nauwe samenwerking met SSC-ICT en in een latere fase met de andere IT-dienstverleners binnen de Rijksoverheid. Het project zorgt, in afstemming met deelnemende partijen, voor de kaders en standaarden die het gebruik in praktijk mogelijk maakt. Het project faciliteert het toepassen van de standaarden. De resultaten voor andere SSO\u2019s liggen op het vlak van:\u2022 Eenduidig aanvragen van account en middelen;\u2022 Vereenvoudigde inrichting van departementale IdM\u2019s, door centralisatie van generieke voorzieningen, zoals WID-scan, BvRIN, aanvraag Rijkspas enz.;\u2022 Consolidatie van vele koppelvlakken.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "21-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/portfoliomanager-21-3-2023/",
         "Title": "Portfoliomanager",
         "Location": "Den Haag",
@@ -152,6 +260,8 @@
         "Job Description": "\u2013 Enerzijds de rol van PPM-manager vervullen voor het bestaande PPM proces voor P-Direkt.\u2013 Anderzijds als kennis expert in het project team voor inrichting PPM proces voor O&P Rijk\u2013 Uiteraard is er samenhang in beide rollen. Want we willen niet allen toe naar een PPM Proces voor de gehele organisatie maar ook verder professionaliseren.\u2022 Je bewaakt de onderlinge samenhang in het projectportfolio en reageert alert en passend op (onverwachte) wijzigingen die invloed hebben op het portfolio.\u2022 Je pakt een sturende rol bij alle vraagsturingstafels en rolling forecasts.\u2022 Je stuurt op kwaliteitsverbetering van de diverse portfolioproducten.\u2022 Je verbetert het portfolioproces en stuurt op de maakbaarheid van de portefeuille.\u2022 Je adviseert zowel gevraagd als ongevraagd over alle projecten van OP Rijk/P-Direkt."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "21-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/business-projectmanager-integratie/",
         "Title": "Business Projectmanager integratie",
         "Location": "Regio Huis ter Heide",
@@ -160,6 +270,8 @@
         "Job Description": "Voor deze opdracht zoeken wij naar een projectmanager om te werken aan de 'ontwikkeling en toepassing van sensoren' \u00e9n daaruit voortvloeiende initiatieven binnen de afdeling Intelligence. Als onderdeel van deze ontwikkeling bevordert het Ministerie de integratie van hun systemen en worden de processen onder invloed van technologische ontwikkelingen getransformeerd met het oog op het verbeteren van effectiviteit en effici\u00ebntie. De 'ontwikkeling en toepassing van sensoren' bevindt zich in de analysefase, dit betekent dat op dit moment de specificaties van het project gedefinieerd en afgestemd worden. De projectmanager zal na binnenkomst als business projectmanager het business-projectplan ontwikkelen en sturen, daarnaast zal de projectmanager in nauwe samenspraak met business en IT nieuwe business cases identificeren, projectvoorstellen ontwikkelen en deze projecten uitvoeren om voort te bouwen op de basis die gelegd wordt met dit project.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "21-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/programmamanager-leiderschapsontwikkeling-hrbp/",
         "Title": "Programmamanager Leiderschapsontwikkeling / HRBP",
         "Location": "Noord Holland",
@@ -168,6 +280,8 @@
         "Job Description": "Als programmamanager leiderschapsontwikkeling ben je de gesprekspartner van de directie en het management en ben je tevens Senior HR Business Partner voor de directie Technologie en Operations. In jouw rol als programmamanager leiderschapsontwikkeling ontwikkel en implementeer je vanuit HR nieuwe leerprogramma's voor onze leidinggevenden. Jouw verantwoordelijkheden:Het opzetten van leerlijnen voor de diverse groepen leidinggevenden volgens onze nieuwe visie op leiderschap;het opzetten van een leiderschapsprofiel passend bij onze organisatie;bijdragen aan de ontwikkeling van de organisatie op thema's zoals strategische personeelsplanning, diversiteit, leren en ontwikkelen, organisatie inrichting, innovatie, data gedreven werken;sparringpartner voor directie en management op strategisch en tactisch niveau;bijdragen aan de transitie en doorontwikkeling van de afdeling HR;vormgeven aan en uitvoeren van HR beleid.\u00a0Naast je werkzaamheden als programmamanager leiderschapsontwikkeling krijg je als senior HR Business Partner de directie Technologie en Operations in portefeuille. Affiniteit met technologie, data en innovatie en ervaring met agile manieren van werken zijn daarbij handig. Als programmamanager leiderschapsontwikkeling maak je deel uit van de afdeling HR. De afdeling bestaat uit een manager HR & organisatieontwikkeling, een HR assistent, drie HR Business Partners, twee recruiters, een HR Desk, projectleiders en coaches. Daarnaast vertaal je in- en externe personeels- en organisatieontwikkelingen naar een passende HR strategie voor de business. Dit alles maakt het werk afwisselend en vol met kansen om jezelf te ontwikkelen op diverse terreinen. Je rapporteert aan de manager HR & organisatieontwikkeling.\u00a0Als programmamanager leiderschapsontwikkeling ben je nieuwsgierig, bent breed ge\u00efnteresseerd, proactief en je houdt er van doelen te bereiken. Anderen kenmerken jou als een echte verbinder die graag in samenwerking doelen bereikt. Je bent een stevige en prettige gesprekspartner voor het directieteam, management en raad van bestuur en kunt makkelijk schakelen tussen strategische, tactische en operationele zaken.\u00a0Praktische detailsDe functie van programmamanager leiderschapsontwikkeling wordt voor 24 uur per week ingevuld voor de duur van 3 maanden met de mogelijkheid tot verlenging. Standplaats is Hilversum."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/devops-tester-2/",
         "Title": "DevOps Tester",
         "Location": "Noord Holland",
@@ -176,6 +290,8 @@
         "Job Description": "Context within the companyAs a DevOps Tester/Test automation expert, your daily activities mainly consist of testing and automating tests. As you are the test expert, you have the overview, you understand the software landscape. You don't get to know this landscape by only testing in the browser. You test in isolation and directly with the services, databases and components and automate them where possible to get to a higher level of quality and coverage.About the departmentThe deportment is called eCommerce Backoffice and they cluster services all processes in the logistics landscape from replenishment and fulfillment to delivery. There processes are critical in the delivery of goods and the right quality and stability of the platform are key. As a Devops Tester you safeguard this quality and stability by doing and automating tests.About the roleWe are looking for an DevOps Test automation expert, who will strengthen one of our client's Outsystems development scrum teams. With test automation, you make sure to set up tests to continuously check quality. You are familiar with the test pyramid and know how the tests work that are in the different layers. The whole team makes and maintains these tests, but as a test automation expert you set certain guideline and help the developers by automating tests. In this process, the whole team needs to know what is going to be automated where. This way you and your team organize their work in a smart way to deliver functionality without additional (manual) work on testing.From a DevOps perspectiveDevelopment tasks: You will mainly work on automation of test activities in the team, work on test-improvements, documentation and optimize test processes. Operations tasks: In the DevOps Scrum teams we work in T-shape model where each team member has its own expertise but also picks up other tasks like support and standby duties. It might be needed to visit HSCs throughout the country from time to time.Practical detailsWe are looking for someone who can start no later than May, ideally April for either four or five days a week. The role can be done mainly remote but working from the office in the Amsterdam area or visiting a subsidiary will take up 2 days per week on average. We expect to need someone for 12 months, with contracts offered in blocks of 3 months each as per company standards. The team consists of both nearshore and on-site colleagues, mainly communicating in both Dutch and English."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/technisch-applicatie-beheerder-20-3-2023/",
         "Title": "Technisch applicatie beheerder",
         "Location": "Delft",
@@ -184,14 +300,8 @@
         "Job Description": "Als technisch beheerder heb je als voornaamste taak het beheer van diverse applicaties binnen de organisatie. Dit zijn bijvoorbeeld het monitoren van de applicatie prestaties, oplossen van technische problemen en het installeren en van updates en patches.Samen met collega's vorm je de afdeling 'Applications'. Met het team zorg je ervoor dat de apps m.b.t. ; opslag van onderzoek data, apps die het mogelijk maken om online lessen te volgen, en apps voor uren registratie. Daarnaast houd je continu je kennis van het applicatielandschap en cloudoplossingen actueel. Zie je kansen om onze dienstverlening te verbeteren? Dan deel je die direct met je team. Ook werk je mee aan onze huidige transitie naar een lean-werkwijze.Gewenste kennis professional:Kennis Osiris;Gitlab;Applicatie architectuur, Client-server en Multi-tier-architectuur, Cloud;Docker (Containerized Applications);Web-based Applications (Tomcat, Apache, NginX, IIS).Praktische details:Starten kan op zeer korte termijn, en de duur van de opdracht betreft 6-12 maanden voor 38 uur per week. De standplaats is omgeving Delft waarbij er 60% op kantoor en 40% vanuit huis kan worden gewerkt."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/transitiemanager-pensioenfondsen/",
-        "Title": "Transitiemanager Pensioenfondsen",
-        "Location": "Utrecht",
-        "Job Duration": "6 maanden",
-        "Hours per Week": "32 - 40",
-        "Job Description": "De transitiemanager zet inhoudelijk en projectmatig de transitie van bestaande klanten en onboarding van nieuwe klanten op en stuurt de realisatie aan binnen gemaakte afspraken ten aanzien van tijd, geld en kwaliteit. De transitiemanager draagt zorg voor de realisatie van implementaties en is het overgrote deel van de tijd belast met de projectmatige aansturing. De transitiemanager zorgt voor de beschikbaarheid van benodigde middelen en onderhoudt het contact met relaties (klanten) en stakeholders.Doel van de rol is het aansturen van omvangrijke en strategische implementatie trajecten voor strategische en divisie overstijgende projecten of het besturen van een programma en haar deelprojecten in een turbulente context. Het realiseren van project- of programmadoelstellingen binnen de kaders van gemaakte afspraken ten aanzien van tijd, geld en kwaliteit.KernactiviteitenStuurt transities van pensioenfondsen aan met een zeer groot financieel afbreukrisico en reputatierisico.Inventariseert (samen met de accountmanager) de behoeften van de klant en bepaalt oplossingsrichtingen.Werkt vanuit een vastgestelde PDC (Product en dienstencatalogus) en is in staat om de klanten hierover te informeren.Binnen het team help je collega\u2019s succesvol te zijn in hun rol en draag je bij aan het ontwikkelen van nieuwe kennis op het gebied van change management.Helpt klanten duurzame resultaten te bereiken en schuwt niet om de spanning daarbij op te zoeken, en stelt samen met productmanagers vereenvoudigingsvoorstellen op en weet de klanten hiervan te overtuigenRicht de projectorganisatie in. Legt de aanpak, scope, deliverables, randvoorwaarden en uitgangspunten vast en stelt het projectbudget/ financieel plan op. Inventariseert, analyseert en rapporteert over projectrisico\u2019s. Initieert en realiseert beheersmaatregelen.Bewaakt de voortgang en realisatie van projectdoelstellingen ten aanzien van de aspecten tijd, (financi\u00eble) middelen en kwaliteit of van transitiedoelstelling ten aanzien van be\u00efnvloedbare projectoverstijgende doelen. Legt verantwoording af aan de opdrachtgever over de voortgang van de diverse lopende transities, kostenontwikkeling, kwaliteit en risico\u2019s.Bouwt en onderhoudt proactief relaties met verschillende relaties en stakeholders van. Kent en stuurt hun verwachtingen en informeert hen op de juiste momenten teneinde draagvlak te cre\u00ebren en te behouden. Draagt zorg voor documentatie en evaluatie van resultaten.Onderhoudt intern contact met opdrachtgevers, (divisie)directie en overige stakeholders om te informeren, af te stemmen en te be\u00efnvloeden. Onderhoudt extern contact met leveranciers of medewerkers derden om af te stemmen en afspraken te maken over werkzaamheden."
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/gz-psycholoog/",
         "Title": "GZ-Psycholoog",
         "Location": "Alkmaar",
@@ -200,14 +310,8 @@
         "Job Description": "Als GZ-psycholoog behandel je cli\u00ebnten met individuele, groeps- en mediatieve-therapie. Samen met je collega's lever je met plezier en aandacht de beste psychologische zorg. Je bent breed inzetbaar op verschillende afdelingen; somatiek, psychogeriatrie, gerontopsychiatrie, parkinson, en revalidatie. Je voert psychodiagnostiek uit en geeft klinische lessen en trainingen. Je adviseert de omgeving van de cli\u00ebnt o.a. over hoe om te gaan met psychische en psychosociale gevolgen van het verminderde functioneren. Je bent mentor van de masterpsychologen en werkbegeleider van de psycholoog in opleiding.Het psychologenteam bestaat uit 7 ambitieuze collega-psychologen en een stagiair. Je werkt intensief samen met collega's uit allerlei disciplines. Van specialisten ouderengeneeskunde en basisartsen tot muziektherapeuten en fysiotherapeuten. Stuk voor stuk allemaal collega's die net als jij werken vanuit hun hart en samen met jou willen bouwen aan een mooie toekomst."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/product-owner-iam/",
-        "Title": "Product Owner IAM",
-        "Location": "Arnhem",
-        "Job Duration": "5 maanden met o.o.v",
-        "Hours per Week": "36",
-        "Job Description": "Naast de verantwoordelijkheid voor de dagdagelijkse run van IDM & Autorisatiebeheer waar je als PO voor staat, speel je ook een belangrijke rol in de doorontwikkeling van de manier waarop wij Identity & Access Management toekomstbestendig maken.Recent is daarom een programma van start gegaan onder leiding van een programmamanager IAM waarmee je samen de basis gaat leggen voor de nieuwe IAM-inrichting. Nieuwe tooling wordt gecontracteerd, moet worden ge\u00efmplementeerd en zal de bestaande oplossingen gaan vervangen.\u00a0Jij bent verantwoordelijk voor:Product en -innovatieBedrijfsprocessenProduct backlogStakeholdermanagement"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/netwerkbeheerder-20-3-2023/",
         "Title": "Netwerkbeheerder",
         "Location": "Regio Alkmaar",
@@ -216,6 +320,8 @@
         "Job Description": "Daarnaast ook 2e- en 3e-lijns support: oplossen van vragen, problemen en opdrachten. Ook meedraaien in projecten waar netwerkbeheer taken onderdeel van zijn.Je bewaakt, beheert en verbetert het interne LAN en WAN netwerk, waarbij je zorgt voor beschikbaarheid en beveiliging van de systemen en netwerken. Je werkt nauw samen met je ICT collega's; zowel collega systeembeheerders, als de servicedesk, database beheerders en applicatiebeheerders.Profielbeschrijving:\u2013 Je bent zelfstandig, klantgericht, kwaliteit gedreven en oplossingsgericht;\u2013 Je leert snel, bent analytisch sterk en weet deskundig oplossingen te realiseren voor complexe problemen;\u2013 Initiatiefrijk, resultaatgerichte teamspeler, pragmatisch, met een hands on mentaliteit."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-data-engineer-20-3-2023/",
         "Title": "Senior Data Engineer",
         "Location": "Amersfoort",
@@ -224,6 +330,8 @@
         "Job Description": "Werk jij graag mee aan innovatieve infrastructuur in een Data Analytics context? Dan kan je in deze functie je hart ophalen. Samen met het team ga je aan de slag met het bouwen en beheren van een centraal Data Analytics platform. Je gaat het Data platform verder uitbouwen met nieuwe dataservices.\u00a0Met dit Dataplatform kunnen DataOps teams over diverse waardestromen (we werken in een SAFe Agile omgeving) binnen onze omgeving analytische inzichten cre\u00ebren. Hierbij automatiseren wij zoveel mogelijk en stellen we het platform op basis van zelfservice tooling ter beschikking aan de DataOps teams. Je bent technisch, analytisch en dienstverlenend bezig en stemt de wijzigingen qua architectuur & design af met de diverse architecten.\u00a0Dankzij onze service aan de andere teams, kunnen we binnen deze omgeving met zijn allen grote stappen zetten om tot een volwassen data gedreven organisatie te komen.Hier krijg jij energie van:Inzetten van jouw kennis op het gebied van data engineering & analyse. Helemaal uitpluizen hoe dit werkt en hoe je innovatieve diensten in productie kan zettenWerken met TerraForm, CI/ CD (GitOps) en Cloud architectuur principes (cloud native & platform denken)Documenteren en administreren van Data Lakes en/of Data WarehousesELT/ ETL processen en toolingWerken aan de realisatie van een modern data-analyse platform waar, voor verschillende doeleinden, dataproducten op worden gerealiseerdOntwikkelen en beheren van o.a. data-pipelines en data-lakes. Hiervoor ontwerp en implementeer je datamodellen en ETL-logica om ervoor te zorgen dat data correct en snel wordt geladen en eenvoudig zijn te gebruiken voor analyse doeleindenZorgen voor een gedegen IT- fundament zodat dataproducten effici\u00ebnt en effectief kunnen worden gerealiseerd"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/pmo-vertrouwelijke-informatie-redigeren/",
         "Title": "PMO \u201cvertrouwelijke informatie redigeren\u201d",
         "Location": "Noord Holland",
@@ -232,6 +340,8 @@
         "Job Description": "Het project heeft als doel om interne documenten te publiceren vanuit de afdeling Strategie & Beleid. De werkzaamheden bestaan uit vertrouwelijke passages in documenten op een correcte manier conform wettelijke richtlijnen en kaders te controleren en redigeren. Na publicatie zijn de documenten voor iedereen inzichtelijk. Daarom is het belangrijk dat vertrouwelijke informatie zorgvuldig wordt gecontroleerd. De werkzaamheden bestaan uit;Het werken in teamverband, controleren en redigeren van informatie.Het analyseren van informatie: het lezen en begrijpen van teksten die relevant zijn of niet,Het controleren van documenten voor de vastgestelde kwaliteitsnorm (in de 1ste lijn)Het uitvoeren van incidentele herstel werkzaamheden\u00a0Je bent integer en flexibel, je bent een teamspeler maar kan ook goed zelfstandig werken, je werkt in dit project met vertrouwelijke en gevoelige informatie en hebt een geheimhoudingsplicht. Zorgvuldigheid, integriteit, analyseren, kwaliteit en productiviteit zijn de sleutelwoorden voor deze werkzaamheden.\u00a0\u00a0\u00a0De rol is voor 4 of 5 dagen per week met startdatum in april met een verwachte duur van minimaal 6 maanden. Standplaats van de rol is Amsterdam, enige vorm van thuiswerken is goed mogelijk."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/technical-project-manager/",
         "Title": "Technical Project Manager",
         "Location": "Noord-Brabant",
@@ -240,14 +350,8 @@
         "Job Description": "The Technical Project Manager will be part of the projectmanagers pool to support several new Infra projects. Within the Global Infrastructure projectmanagement team there are 4 main functions: Service Excellence, Platforms, Cyber and Infrastructure.The Technical Project Manager will manage the infrastructure related activities for the above projects. You will be part of a group of multiple experienced project managers in Infrastructure.Your main activities will be:Following the Project management methodology (Prince2 like)Leading the full project cycle for several projectsYou will work in close collaboration with the existing Architects, Infra, Network, Hosting and Security teams and report to the Global Infrastructure Program Manager.Knowledge and experience:Experience with managing projects in infra, network and hosting domain (must);Experience with Prince methodology (must);Experience in an international working environment with delegated permission models (must);Knowledge of ITIL processes (bonus)."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/pmo-17-3-2023/",
-        "Title": "PMO",
-        "Location": "Regio",
-        "Job Duration": "4-6 maanden",
-        "Hours per Week": "36",
-        "Job Description": "Als PMO-er ondersteun je het (project) management team van de dienst Huisvesting Vastgoed & Techniek\u00a0in de breedste zin van het woord. Het\u00a0is een zelfstandige, veelzijdige functie en je bent verantwoordelijk voor tal van uiteenlopende,\u00a0afwisselende administratieve en ondersteunende werkzaamheden.\u00a0Er ligt een accent op organisatietechnische en HR-gerelateerde vraagstukken en projecten. Je plant en voert de\u00a0werkzaamheden grotendeels zelfstandig uit, waarbij nauwkeurigheid van groot belang is.Voor de werkzaamheden t.a.v. de lateralisatie participeer je in een projectgroep, die bestaat uit de directie van de dienst en een externe projectmanager. Je onderhoudt contacten met alle leidinggevenden.\u00a0Je stapt in een sterk veranderende omgeving en je zult merken dat de organisatie in transitie is. De samenwerking tussen de locaties AMC en VUmc wordt nu vormgegeven. Dit heeft invloed op het hele team, en dus ook op jou en jouw werkzaamheden. Hierin is het belangrijk dat je kunt mee bewegen en je focus kunt houden op je prioriteiten.\u00a0"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/functioneel-applicatiebeheerder-topdesk/",
         "Title": "Functioneel Applicatiebeheerder TOPdesk",
         "Location": "Zwolle",
@@ -256,14 +360,8 @@
         "Job Description": "Als Functioneel Applicatiebeheerder TOPdesk bij SSC-Ons ben je onderdeel van het FAB team en verantwoordelijk voor het schakelen tussen de gebruikers en informatievoorziening. Gedurende deze opdracht analyseer je processen, data en werkprocessen om deze vervolgens te vertalen naar functionaliteiten. Om deze opdracht goed uit te kunnen voeren ben je bekend met SQL, databases en datamodellering en ben je in staat deze technieken te gebruiken om de informatievoorziening te verbeteren.Voor deze opdracht zoeken we iemand die communicatief sterk is en in staat is complexe technische problemen op te lossen. Daarnaast kun je informatie duidelijk en begrijpelijk presenteren aan gebruikers. Je bent een expert in het vertalen van processen, data en werkprocessen naar functionaliteiten in TOPdesk en bent bekend met SQL, databases en datamodellering."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/installatieteam-16fte/",
-        "Title": "Installatieteam 16fte",
-        "Location": "Soesterberg",
-        "Job Duration": "12 maanden met o.o.v",
-        "Hours per Week": "36",
-        "Job Description": " De werkzaamheden voor het project worden uitgevoerd binnen JIVC. Het project behelst de uitrol van gebouwbekabeling, als ook de hieraan gerelateerde vervolgstappen.Het aanleggen van SFTP bekabeling en afwerken hiervan op RJ45 outlets, aanleg van Inpandige Glasvezel infrastructuur, het plaatsen van Netwerkapparatuur, Netwerkkasten, het brandwerend afdichten van doorvoeren, het aanleggen van Electra op basis van een geldige aanwijzing conform NEN3140, het herstellen van Systeemplafonds etc. Het ophangen van WAP's, het patchen van de WAP en het patchen op de poort van de switch. Het aanbrengen van labels op kabels en andere netwerkcomponenten. Het testen van de WAP. Het bijwerken van de plattegrond(en) door het intekenen van o.a. de outlets. Het certificeren van het netwerk door het meten van de bekabeling met een Fluke-meter en certificeren van het wifi signaal door middel van een Ekahau meting. Het bijwerken van de administratie en aanleveren bij projectbureau.U dient duidelijk aan te geven waar in het CV is terug te vinden dat het team/kandidaat aan deze eisen voldoet. Indien niet duidelijk uit het CV blijkt dat aan \u00e9\u00e9n van bovenstaande eisen wordt voldaan door de kandidaten, wordt desbetreffende team (in zijn geheel) uitgesloten.\u00a0"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "20-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/bcu-verpleegkundige-17-3-2023/",
         "Title": "BCU verpleegkundige",
         "Location": "Noord-Holland",
@@ -272,6 +370,8 @@
         "Job Description": "Als verpleegkundige op de BCU/verpleegafdeling neurologie \u2013 neurochirurgie ben je verantwoordelijk voor het verlenen en co\u00f6rdineren van complexe zorg aan onze pati\u00ebnten. Je maakt elke dag de vertaalslag van het klinisch redeneren naar de praktijk. Naast het begeleiden van de pati\u00ebnt, heb je ook veel contact met en geef je voorlichting aan de familie. Als verpleegkundige op onze afdeling werk je nauw samen met andere specialisten (neuroloog, arts-assistent, fysio- en ergotherapeut etc.).Als BCU verpleegkundige houd jij van een stevige uitdaging. Je kunt goed zelfstandig werken, bent flexibel, stressbestendig en enthousiast. Je positieve instelling helpt je om de soms heftige situaties aan te kunnen. Als BCU verpleegkundige ben je analytisch sterk en heb je een open, empathische houding."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/sharepoint-consultant-16-3-2023/",
         "Title": "Sharepoint Consultant",
         "Location": "Utrecht",
@@ -280,6 +380,8 @@
         "Job Description": "Binnen de grenzen van dit (deel) project wordt onderzocht hoe het huidige SharePoint 2019 platform geschikt te maken voor het gebruik van Nintex Forms en Nintex Workflow en op welke manier dit op een beheerste manier schaalbaar kan worden gemaakt. Het onderzoek wordt afgerond met een advies waaruit blijkt welke randvoorwaarden moeten zijn ingevuld voor het opschalen van slimme formulieren en werkstromen ten behoeve van de bedrijfsvoering en dienstverlening. Voor de beproeving van Nintexforms en Nintex Workflow worden 2 use cases uitgewerkt. Om dit te ondersteunen is er behoefte aan een SharePoint consultant met Nintex kennis.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-cad-consultant/",
         "Title": "Sr. CAD Consultant",
         "Location": "Regio Utrecht",
@@ -288,14 +390,8 @@
         "Job Description": "Deze opdracht betreft het uitvoeren van Functioneel Beheer voor applicaties van Autodesk: Autocad, Revit, Vault, 3DS Max, Autocad Mechanical, Autocad Map 3D, Autocad Electrical, Autocad Architecture, Autocad MEP, Autocad Plant 3D, DWG Trueview, Autocad Civil 3D, Autocad Raster Design, Navisworks Manage, Advance Steel, InfraWorks, ReCap, Structural Bridge Design, Vehicle Tracking, Robot Structural Analysis en FlexLM licentiemanager. Deze applicaties zijn ondergebracht in een dienst die JIVC levert aan de gehele defensieorganisatie. De senior consultant maakt onderdeel uit van een team waarvan de bestaande expertise (tijdelijk) is uitgevallen.De gevraagde werkzaamheden liggen dus vooral op het gebied van functioneel beheer, maar soms ook met een technische inslag naar applicatiebeheer en technisch beheer. Ook moet kunnen worden geschakeld op meerdere niveaus. Dus naast uitvoerend ook tactisch niveau en adviseren voor het hogere niveau (governance) buiten JIVC. Gezocht wordt naar een zelfstandig werkende senior consultant met aantoonbare kennis/ervaring op het gebied van de genoemde Autodesk Design applicaties. De intentie is tegelijkertijd ook eigen medewerkers aan te trekken om zodoende het team op sterkte te krijgen. De kandidaat heeft vooral kennis van: Autocad, Autocad MAP 3D en Vault.\u00a0"
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/incident-coordinator/",
-        "Title": "Incident Coordinator",
-        "Location": "Overijssel",
-        "Job Duration": "3+ maanden",
-        "Hours per Week": "32 - 40",
-        "Job Description": "Over de organisatieHet ONS shared service centrum is een samenwerkingsverband tussen de gemeenten Kampen, Zwolle, Dalfsen, Westerveld en Zwartewaterland en de provincie Overijssel. Ons verleent diensten op het gebied van Inkoop, Personeel- en Salarisadministratie en ICT.  Voor hun Servicedesk team zijn wij op zoek naar een Incident-/Problem Co\u00f6rdinator die de organisatie kan ondersteunen bij het Servicedesk Proces met een sterke focus op het incident en problem management proces.\u00a0Over de rolAls lid van het team Operations werk je binnen het servicedesk team en bestaat jouw werkpakket uit de volgende verantwoordelijkheden:Bewaken, rapporteren en analyseren van de kwaliteit van de incident en problem afhandeling inclusief naleving van afspraken over individuele incidenten, problemen en het proces en de procedures.Uitvoeren van analyses en bewaking op trends over de incidentenstroom binnen de servicedeskIniti\u00ebren en aansturen van procesverbeteringsplannen binnen de supportprocessen voor de hele operations afdeling, zowel klant specifiek als generiekOpbouwen en vastleggen van knowledge database binnen TopdeskHieronder vallen de volgende taken:De implementatie van servicedesk en support processen initi\u00ebren, ondersteunen en beherenMonitoring op de Service Levels (KPI\u2019s) en escalatie over eventuele (dreigende) overschrijdingenActieve sturende rol richting het team om deze KPI\u2019s te behalen als team.Escalatiemanagement in het verloop en volume van tickets en de beslissing over de keuzes inzake de vervolgstappen.Initi\u00ebren, communiceren en verbinden van disciplines (specialisten) binnen de eigen en aanpalende afdelingen. Om tot snelle en adequate oplossingsgerichte aanpak van deze incidenten en problemen te komen.Praktische detailsIn deze rol rapporteer je direct aan de manager inzake het Incident Management Proces. De rol kan voor 4 of 5 dagen per week ingevuld worden waarvan 50% on-site in Zwolle. Het contract wordt initieel voor 3 maanden aangeboden met een grote kans op verlenging. Intakegesprekken zullen on-site gevoerd worden."
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-it-onderzoek-16-3-2023/",
         "Title": "Projectmanager IT Onderzoek",
         "Location": "Regio Amsterdam",
@@ -304,6 +400,8 @@
         "Job Description": "Als projectmanager IT Onderwijs en Onderzoek voer je projecten uit en bewaak je de oplevering van projecten die zich primair bezighouden met onderwijs en/of de ondersteuning van onderzoekers. Deze aanvraag is gericht op onderzoeksprojecten, in het bijzonder voor de ontwikkeling van tools en applicaties ten behoeve van de ondersteuning van de volledige datamanagement cyclus en ten behoeve van start en ondersteuning onderzoeksprocessen. Denk hierbij aan het aanbesteden van grootschalige opslag van onderzoek data en Open Science, vernieuwingstrajecten rond High Performance Computing en het realiseren van kleinschalige IT-oplossingen voor onderzoekers.Je stuurt medewerkers van verschillende afdelingen en/of derde partijen aan. Je stelt projectplannen op en zorgt voor realisatie. Je werkt binnen de grenzen van kosten, kwaliteit, tijd, organisatie en communicatie. Veel van de projecten vallen onder het Netwerk Research Data Support; dit gaat veelal over afstemming met diverse faculteiten en met een zwaartepunt op datamanagement. Hiervoor is ervaring met met projecten met grote impact op de gebruiker, het betrekken van stakeholders en het komen tot gedragen oplossingen en vereiste. Je bent zowel een conceptueel denker als een hands-on manager en in staat om de onderzoekers als partners te betrekken bij de ontwikkeling van nieuwe dienstverlening voor hen. Je voelt je thuis in een dynamische omgeving en kan goed omgaan met uiteenlopende belangen.Jouw taken:Je zorgt voor de uitwerking van een projectplanJe verzorgt het projectmanagement en de projectuitvoeringJe doet proces \u2013 en productverbeteringenJe initieert overleg en afstemming met de opdrachtgever en gebruikers over uit te voeren werkzaamhedenJe onderhoudt de communicatie met stakeholders en rapporteert over project en projectvoortgang"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/interface-specialist/",
         "Title": "Interface Specialist",
         "Location": "Utrecht",
@@ -312,6 +410,8 @@
         "Job Description": "Het interfaceteam verzorgt koppelingen tussen SAP en andere applicaties. In het complexe Defensie IT-landschap is dat een flinke en interessante klus.De interface specialist trekt inhoudelijk de kar. De interface specialist is het eerste en het laatste contact voordat een koppeling in productie en in beheer wordt genomen. Dit betekent dat er veel geschreven en geregeld moet worden. Veel samenwerken met collega interface specialisten, ontwikkelaars, bedrijfsvoering, functioneel beheerders en technisch beheerders van Defensie is nodig. Het is daarom zaak dat je thuis bent in interfacing binnen SAP M&F. De interface specialist bij SAP M&F worden meer en meer ingezet bij de ontwikkeling van en het onderhoud aan software voor koppelingen tussen informatiesystemen middels nieuwe technieken als API management en event streaming en nieuwe technieken binnen SAP als telegrammen.De werkzaamheden zijn zowel functioneel als technisch van aard. Je schrijft de ontwerp voor de (interne) klant en de technische documentatie voor de beheerders, beveiligingsdocumentatie, operationele documentatie. Je schrijft functioneel ontwerpen en je test de nieuwe interface. Daarnaast kan je ingezet worden voor het realiseren, testen en implementeren van koppelingen die door collega interface specialist zijn ontworpen. In geval van incidenten zoek je samenwerking met collega specialisten of stuur je de keten aan en je zoekt mee naar de oorzaakSpecifiek wordt de kandidaat ingezet voor de bouw van interfaces die zijn ontstaan door de komst van SAP S4."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-it-projectmanager/",
         "Title": "Senior IT Projectmanager",
         "Location": "Rotterdam",
@@ -320,6 +420,8 @@
         "Job Description": "Je werkt nauw samen met ons IT-team en bent verantwoordelijk voor de co\u00f6rdinatie en het managen van verschillende Lifecycle Management initiatieven en implementatiefasen van een nieuwe IT infrastructuur aan boord van onze opdrachtgever (bestaande uit schepen, Nieuwbouw en Huurschepen) in de komende jaren. Vanuit jouw rol werk je samen met en adviseer je onze klanten/stakeholders (SMD, Survey, EE) en werk samen met leveranciers om veilige, conforme en toekomstgerichte oplossingen te ontwikkelen/leveren in verschillende Lifecycle Management initiatief fasen.Je verzamelt eisen van (interne) klanten/stakeholders, definieert deliverables en tijdlijn, stel een plan op voor de benodigde middelen, zorg ervoor dat budgetten worden toegewezen en co\u00f6rdineer/faciliteer de uitvoering van de realisatiefasen. Om ervoor te zorgen dat de gewenste deliverables worden gerealiseerd, identificeer je potentieel risico's en stelt mitigerende maatregelen voor in de voortgang van de fasen. Daarnaast rapporteer je over projectvoortgang, financi\u00ebn en resultaten en deze informatie verstrekken aan alle relevante belanghebbenden zorg voor afstemming en verankering in de organisatie.Natuurlijk groeit uw begrip en kennis van ons bedrijf in relatie tot onze opdrachtgever en wereldwijde zakelijke projecten maken deel uit van het DNA van uw projectmanagers. Je sterke punten zijn inzicht de complexiteit van een industri\u00eble/maritieme werkomgeving en het omgaan met planning en logistiek uitdagingen terwijl we meerdere implementatie-initiatieven over de hele wereld beheren.Aanvullend, inzicht in de veiligheid aan boord en ervaring met relevante vaardigheden en training is een groot voordeel. Het IT-team is een klantgericht multidisciplinair team dat de levenscyclus zal afhandelen: Beheer implementatiefasen en mobilisaties van IT-infrastructuur aan boord. Het team van ervaren ingenieurs begrijpen de aard, complexiteit en pragmatisme van onze klant en onze opdrachtgever. Uiteindelijk is het team het kenniscentrum van de architectuur en infrastructuur van IT en stimuleert continue verbeteringen aan onze opdrachtgever.\u2022 Geeft leiding aan Lifecycle Management-initiatieven (fasen) met veel onderlinge afhankelijkheden over een brede scope van zakelijke/technische gebieden en levert op tijd en binnen budget;\u2022 Initieert een projectimplementatieplan (fasen), definieert scope, deliverables, activiteiten en tijdschema's voor de initiatieven op het gebied van levenscyclusbeheer;\u2022 Ontwikkelt (schat)budgetten en stemt actief af met klanten/stakeholders;\u2022 Bouwt en breidt actief een netwerk van (interne/externe) klanten/stakeholders uit operationeel niveau en beheert tegenstrijdige belangen;\u2022 Ontwikkelt resourceplanning en beheert resources voor Lifecycle Management-fasen, d.w.z.: ingenieurs en apparatuur (voorraden)\u2022 Bewaakt de voortgang en rapporteert regelmatig aan klant/stakeholders voor afstemming;\u2022 Effectief omgaan met communicatie naar klanten/stakeholders, leveranciers, logistiek en andere (IT)teams;\u2022 Leidt wekelijks voortgangsoverleg, lost belemmeringen op en/of verzacht en stuurt aan op vermindering risico's die van invloed kunnen zijn op de voortgang, mijlpalen en/of resultaten;\u2022 Werkt samen met cross-functionele operationele teams om te zorgen voor een goede overdracht aan de het ondersteunen van operationele teams is beveiligd en geaccepteerd;\u2022 Gebruikt en versterkt gevestigde Project Management processen (continue ondersteuning verbeteringsinitiatieven b.v. effici\u00ebntie, effectiviteit, betrokkenheid);\u2022 Werkt binnen de grenzen van het algemene beleid en de strategie\u00ebn van onze opdrachtgever."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "16-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/infrastructuurbeheerder/",
         "Title": "Infrastructuurbeheerder",
         "Location": "Zuid Holland",
@@ -328,6 +430,8 @@
         "Job Description": "Een kenniscentrum werd opgericht waarbij meerdere partijen bij aangesloten zijn. Het platform is bedoeld om samenwerking op het vlak van technologische IT-innovatie tebevorderen specifiek voor het domein. Elke aangesloten partij draait eigen projecten waarvoor een jaarlijks budget beschikbaar wordt gemaakt.Het doel van dit project is om inzicht te krijgen in de toepassing van slimme analyse van databronnen zoals camerabeelden (of data afkomstig van andere sensoren) in het kader van beveiliging. De focus van de analyse ligt op het onderkennen van verdachte bewegingen in de omgeving van een te beschermen object. Het resultaat van dit project is een prototype in het veiligheidsdomein de mogelijkheid geeft om te experimenteren met slimme sensoren ter ondersteuning van beveiliging. De kwaliteit en bruikbaarheid van het prototype zal gemonitord worden in samenwerking met gebruikers aan de hand van (fysieke) simulaties van operationele scenario's.In dit project wordt een prototype gemaakt dat aantoont hoe bewaken en beveiligen effectiever en effici\u00ebnter ingericht kan worden door de inzet van beeldanalyse en VR/AR. Dit prototype bevat de volgende functionaliteiten:Het weergeven van een straatbeeld in 3D in VR/AR;Het koppelen van 2D-camerabeelden aan de 3D-omgeving, waardoor voertuigen en voetgangers als anonieme avatars in de 3D-omgeving geprojecteerd kunnen worden;Het analyseren van gedrag van de voertuigen en voetgangers. Het doel van het ontwikkelen van het prototype is het opdoen van kennis over hoe state of the art beeldtechnologie kan bijdragen aan beveiligingsconcepten. Het prototype is zeer experimenteel van aard, dus de kans bestaat dat bepaalde onderdelen van het prototype niet succesvol zullen zijn. De planning is dat het resultaat 1,5 jaar na start van de ingehuurde resources afgerond is. Iedere 3 maanden worden er deelresultaten opgeleverd. We delen het project op in vier fases. Per fase beschrijven we concrete opeenvolgende deelproducten.\u00a0De Infrastructuurbeheerder zorgt dat de software-ontwikkelaars een stabiele infrastructuur hebben om op te werken.\u00a0De kandidaat zal het grootste deel van bovengenoemd project uitvoeren. De standplaats is in principe in Den Haag maar werken op andere locaties (inclusief thuis) kan waar de werkzaamheden dat toelaten. Werktijden zijn flexibel in te richten."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-testconsultant/",
         "Title": "Testmanager / Test co\u00f6rdinator",
         "Location": "Amsterdam",
@@ -336,6 +440,8 @@
         "Job Description": "Het formuleren, introduceren en in gebruik nemen van een TDMproces dat anonieme / synthetische sets aan testdata over de ketens in onze OTA faciliteert. Testomgevingen: De VU heeft haar systeemlandschap in de cloud en on-premise draaien. O, T en A zijn in toenemende mate gekoppeld, maar dit is niet overal consequent doorgevoerd. De ketens in O, T en A dienen zo uniform mogelijk van testdata voorzien te kunnen worden, waarbij ontbrekende delen van de straten geen bottleneck mogen vormen. Beoogde deliverables van het project zijn meer specifiek:Tool-selectie en eventuele POC trajecten dienen meegenomen te worden in de totaaloplossing en (begeleid) uitgevoerd te worden.Het gebruik van testdata in de test- en acceptatie-omgeving moet voldoen aan de VU-richtlijnen m.b.t. het gebruik van persoonsgegevens (zoals vastgelegd in Testbeleid \u2013 BJZ). Belangrijk is dat de data in kwestie voldoet aan de AVGrichtlijnen.De testdata moet geschikt zijn om de door de run en change teams vereiste testen en validaties uit te kunnen voeren (stakeholders bepalen gewenste coverage)Er moet inzicht zijn in de samenhang van datasets per proces/applicatie.Het proces om aanvullende testdata aan te maken moet inzichtelijk en eenvoudig te hanteren zijnDistributie van testdata over het landschap/ketens heen moet door VU gemanaged / ge\u00efnitieerd / beheerd kunnen wordenTeams en projecten moeten inzake testdata gefaciliteerd worden bij het uitvoeren van testtrajecten (testsets liggen klaar en zijn herbruikbaar of (her-)genereerbaar)Het gebruik van testdata / modellen bij functionele testen moet aansluiten op het incorporeren / ombouwen / hergebruiken daarvan in een eventuele toekomstige testautomatisering slag.Het (mede) ontwerpen, vaststellen en implementeren van een solution architectuur m.b.t. (O)TAP omgevingen welke secuur zijn en robuust (in termen van capacity, availability, connectivity, maintainability)Het daarbij in kaart brengen van additionele (O)TA requirements en deze implementeren i.s.m. bestaande (SaaS) leveranciers (met name gericht op ontbrekende koppelingen en datastromen) \u2013 en zorgdragen voor eventueel daaruit volgende aanpassingen aan onderliggende servicecontracte"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/enterprise-security-architect/",
         "Title": "Enterprise (Security) Architect",
         "Location": "Regio Utrecht",
@@ -344,6 +450,8 @@
         "Job Description": "Wij zoeken een Senior Enterprise Security Architect met ruime ervaring binnen complexe en kritische omgevingen. Jouw werkzaamheden zijn als volgt. je levert vanuit de afdeling architectuur en Defensie Cyber Security Commando (DCSC) een bijdrage aan de Enterprise architectuur alsmede projecten op het gebied van Cyber Security en draagt bij aan diverse architectuurbeschrijvingen waaronder kaders en principes die nodig zijn om projecten richting te geven, zodat deze doelstellingen kunnen realiseren. Jouw bijdrage aan de architectuur is concreet en begrijpelijk opgesteld en je zoekt proactief afstemming met diverse stakeholders om architectuur te borgen op diverse niveaus binnen de organisatie. Je hebt een actueel inzicht in de dynamiek en problematiek van het Cyber Security werkveld en kent de uitdagingen die spelen in dit domein. Verder kan je schakelen op en met alle lagen binnen de organisatie. Je kunt complexe vraagstukken terugbrengen tot de essentie en begrijpelijk maken waarbij diverse belangen meegenomen en afgewogen worden."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/sectiehoofd-ict/",
         "Title": "Sectiehoofd ICT",
         "Location": "Utrecht / Rotterdam / Den Helder",
@@ -352,14 +460,8 @@
         "Job Description": "De reorganisatie van JIVC beoogt belangrijke veranderingen te realiseren in leiderschap, werkwijzen, gedrag en cultuur. De komende jaren dient eveneens de integrale waardeketen van IT Infra in samenhang met andere JIVC-afdelingen en de gebruikers bij de diverse Defensieonderdelen te worden aangepast aan de veranderende omgeving. De managementorganisatie wordt versterkt en naar een hoger volwassenheidsniveau gebracht. Wijzigingen in de bedrijfsvoering en de procesondersteunende IT- systemen zijn daarbij niet uit te sluiten. Naast deze veranderingen is en blijft het zaak om de huidige dienstverlening op het vereiste niveau blijvend te garanderen: tijdens de verbouwing blijft de winkel open en op minimaal het huidige kwaliteitsniveau acteren!De betreffende afdeling van het Joint IV Commanda (JIVC) wordt gereorganiseerd. De afdeling draagt voor een deel werk en medewerkers over aan andere, nieuw te vormen afdelingen en blijft deels bestaan, gericht op het borgen van de continu\u00efteit van de dienstverlening van de bestaande IT. De afdeling bestaat uit diverse secties o.l.v. een sectiehoofd. Het sectiehoofd rapporteert aan het afdelingshoofd.A.g.v. de reorganisatie gaan diverse sectiehoofden een nieuwe functie vervullen en ontstaan er hierdoor gaten in de besturing van de afdeling. Voor deze secties wordt gezocht naar een nieuw sectiehoofd, die een drieledige opdracht krijgt:Continu\u00efteit: het borgen van de continueren van de dienstverlening van de sectie HGI: tijdens de verbouwing blijft de winkel open!Transitie: het aanpassen van de besturing van de sectie om in te spelen op de gevolgen van de reorganisatie en de medewerking aan het programma Grensverleggende IT (GrIT).Mobiliteit en afbouw: het gedurende een periode van enkele jaren afbouwen van de bestaande IT, inspelende op de implementatie van de nieuwe IT vanuit het programma GrIT, en het begeleiden van de medewerkers naar een nieuwe arbeidsplaats in de andere afdelingen van JIVC.De sectie HGI bestaat uit circa 170 medewerkers en wordt getrapt bestuurd door het sectiehoofd via het MT HGI. De sectie is verantwoordelijk voor het in stand houden en doorontwikkelen van de hoog gerubriceerde netwerken. Deze netwerken worden in de militaire operatie gebruikt om uitwisseling van hoog gerubriceerde informatie te ondersteunen. Daarmee draagt de sectie HGI een belangrijke verantwoordelijkheid voor het kernproduct van Defensie: het leveren van gevechtskracht."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/configuratiebeheerder/",
-        "Title": "Configuratiebeheerder",
-        "Location": "Regio Amersfoort",
-        "Job Duration": "10 maanden met optie op verlenging",
-        "Hours per Week": "24",
-        "Job Description": "Het Loket HGI heeft als doel om Hoog gerubriceerde wijzigingen op Infra en CIS voor te bereiden en voor uitvoering in te plannen. Doel is om dit inzichtelijk en stuurbaar te doen, zodat afgegeven leverdate ambitieus, realistisch en binnen de gestelde nom zijn. De klant is altijd op de hoogte van de status van de aanvraag. Het werkvoorbereidingsproces als het planproces is in al zijn samenhang betrouwbaar en effici\u00ebnt.Als Configuratiebeheerder ben je belast met:Het muteren van de configuratiegegevens in de Configuratie Management Database (CMDB)Zorgdragen voor de registratie, verzend gereed maken en verspreiding van software van alle bij JIVC in beheer zijnde ICT systemenHet leveren van een bijdrage om het proces Configuratie Management te verbeteren en breed binnen JIVC uit te dragen"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/sectiehoofd-netwerken/",
         "Title": "Sectiehoofd Netwerken",
         "Location": "Utrecht/Rotterdam",
@@ -368,6 +470,8 @@
         "Job Description": "De reorganisatie van JIVC beoogt belangrijke veranderingen te realiseren in leiderschap, werkwijzen, gedrag en cultuur. De komende jaren dient eveneens de integrale waardeketen van IT Infra in samenhang met andere JIVC-afdelingen en de gebruikers bij de diverse Defensieonderdelen te worden aangepast aan de veranderende omgeving. De managementorganisatie wordt versterkt en naar een hoger volwassenheidsniveau gebracht. Wijzigingen in de bedrijfsvoering en de procesondersteunende IT- systemen zijn daarbij niet uit te sluiten. Naast deze veranderingen is en blijft het zaak om de huidige dienstverlening op het vereiste niveau blijvend te garanderen: tijdens de verbouwing blijft de winkel open en op minimaal het huidige kwaliteitsniveau acteren!De betreffende afdeling van het Joint IV Commanda (JIVC) wordt gereorganiseerd. De afdeling draagt voor een deel werk en medewerkers over aan andere, nieuw te vormen afdelingen en blijft deels bestaan, gericht op het borgen van de continu\u00efteit van de dienstverlening van de bestaande IT. De afdeling bestaat uit diverse secties o.l.v. een sectiehoofd. Het sectiehoofd rapporteert aan het afdelingshoofd.A.g.v. de reorganisatie gaan diverse sectiehoofden een nieuwe functie vervullen en ontstaan er hierdoor gaten in de besturing van de afdeling. Voor deze secties wordt gezocht naar een nieuw sectiehoofd, die een drieledige opdracht krijgt:Continu\u00efteit: het borgen van de continueren van de dienstverlening van de sectie NTW en T&T: tijdens de verbouwing blijft de winkel open!Transitie: het aanpassen van de besturing van de sectie om in te spelen op de gevolgen van de reorganisatie en de medewerking aan het programma Grensverleggende IT (GrIT).Mobiliteit en afbouw: het gedurende een periode van enkele jaren afbouwen van de bestaande IT, inspelende op de implementatie van de nieuwe IT vanuit het programma GrIT, en het begeleiden van de medewerkers naar een nieuwe arbeidsplaats in de andere afdelingen van JIVC.De sectie bestaat uit circa 120 medewerkers en wordt getrapt bestuurd door het sectiehoofd via het MT. De sectie is verantwoordelijk voor het in stand houden en doorontwikkelen van de Defensienetwerken ter ondersteuning van de Defensie kantoorautomatisering. Daarnaast functioneren de netwerken ook als dragend netwerk ter ondersteuning aan de militaire operatie. Daarmee draagt de sectie NTW een belangrijke verantwoordelijkheid voor het kernproduct van Defensie: het leveren van gevechtskracht."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/teamleider-sales/",
         "Title": "Teamleider sales (meewerkend voorman)",
         "Location": "Regio Apeldoorn",
@@ -376,14 +480,8 @@
         "Job Description": "Als Interim teamleader sales ben je verantwoordelijk voor het operationeel managen en de uitvoering van een specifiek deel van de interne commerci\u00eble processen en hiermee bijdragen aan het realiseren van de operationele groei-, omzet-, margedoelstellingen en de klanttevredenheid.Tevens:Ben je verantwoordelijk voor de communicatie met diverse stakeholders;Fungeer je als meewerkend voorman / vrouw, afhankelijk van de zwaarte van de managementcomponent in het werk;Geef je coaching en sturing aan het team in het kader van zijn of haar taakvervulling;Ben je verantwoordelijk voor de gehele performance management cyclus van het eigen team;Draagt zorg voor een continue bezetting van het eigen team, die in overleg ook support kan bieden aan de rest van de organisatie, waardoor reactietijd op voorstellen en telefonische bereikbaarheid gewaarborgd zijn."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-it-infra/",
-        "Title": "Projectmanager IT Infra",
-        "Location": "Regio Den Helder",
-        "Job Duration": "24 maanden met o.o.v",
-        "Hours per Week": "36",
-        "Job Description": "Voor deze opdracht zoeken wij een ervaren projectmanager met projectmanagementkennis binnen IT en vastgoed. De medewerker gaat vanuit het Joint IV Commando van Defensie werken. Hier wordt o.a. gewerkt aan de opzet van een IT Campus en onderliggende dan wel vastgoed c.q. huisvesting gerelateerde deelprojecten. Medewerker zal meerdere deelprojecten leiden op het gebied van de IT Campus en Huisvesting en samen met de andere (deel)projectleiders zorgen voor realisatie van de projectdoelen.Het grootste deelproject betreft de realisatie van een gebouw als basis voor de IT Campus. Andere deelprojecten zijn de realisatie van interim huisvestingen, end-life updates en overige modules van de IT Campus. In alle projecten wordt samengewerkt met leveranciers en interne afdelingen van Defensie. Opdrachtformulering: Realiseer binnen de context van de Transformatieaanpak Maritieme IT, ten aanzien van de feature Huisvesting en feature IT Campus, de Business Case IT Campus en daarmee \"A Great Place To Work!\" voor het (maritieme) informatie domein.\u00a0"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/windows-engineer/",
         "Title": "Windows Engineer",
         "Location": "Regio Volkel",
@@ -392,6 +490,8 @@
         "Job Description": "De werkzaamheden vinden plaats binnen DMO/JIVC bij de afdeling Lucht gebonden en Joint IT, sectie projecten en ontwikkeling. Het gaat om een project gerelateerd aan de invoering van de F-35. We zoeken een ervaren Windows Engineer met kennis en ervaring van Active Directory, Exchange, SCCM/MECM, SCOM, MS PKI voor implementeren en documenteren en die de Engelse taal goed beheerst in schrift. Alle documentatie dient in het Engels te worden uitgewerkt.De doelstellingen van de opdracht zijn als volgt:Assisteren in het afronden van een Data Center omgeving gebaseerd op VMware en Windows Server;De Data Center software configuraties en de hardware opstelling documenteren;Hardening / security maatregelen toepassen op de Windows Server omgevingen aan de hand van een bundel US Security Technical Implementation Guides (STIGs) en voorgeschreven Security Controls (SCs);De configuratie (hardware en software) inclusief de hardening / security maatregelen van de DC omgeving documenteren aan de hand van een bundel US Security Technical Implementation Guides (STIGs), Security Controls (SCs) en de fysieke opstelling"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/security-platform-architect/",
         "Title": "Security Platform Architect",
         "Location": "Regio Amersfoort, Den Haag en/of Apeldoorn",
@@ -400,6 +500,8 @@
         "Job Description": "Wij zoeken een Senior Security Ontwerper met DevOps ervaring. Jij neemt deel aan de realisatie van een project dat voorziet in een nieuw platform waarop diverse security tooling draait. Jouw taken bestaan uit het zelfstandig ontwerpen van systeem architecturen waaronder het vaststellen requirements, bedenken en beschrijven van netwerken en systeemfuncties en de routering van complexe datastromen.Je bent in staat om security ontwerpers, architecten, engineers en beheerders die deel uitmaken van het team functioneel aan te sturen en te begeleiden waar nodig zowel op ontwerp als op beheer vraagstukken. Je bent degene die het voortouw neemt om technische ontwerpvraagstukken op te lossen in samenspraak met de diverse technische uitvoerende partijen en komt hierbij tot gewenste resultaten. Je hebt je relevante ervaring in het security monitoring domein en kent actuele security monitoring oplossingen en technieken en hebt een uitstekend inzicht en overzicht van actueel toegepaste infrastructuur componenten zoals netwerk, storage & filesystemen, Linux, databases, messaging, log collectie technieken en DevOps technieken inzake deployment, tuning en automation van applicaties.Je hebt ruime ervaring met Elastic, Kafka, Logstash, Ansible, contrainerplatformen zoals kubernetes en docker als ook virtualisatieplatformen. Tot slot vervul je een belangrijke rol om de kennis van de diverse ontwerpen en bijbehorende beheer aspecten van het platform vast te leggen en zorgvuldig over te dragen aan andere partijen.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/dialyse-assistente/",
         "Title": "Dialyse-assistente",
         "Location": "Noord-Holland",
@@ -408,6 +510,8 @@
         "Job Description": "Als Dialyse-assistent lever je zorg, verricht je laag complexe dialyses en voer je ondersteunende werkzaamheden uit ten behoeve van het dialyseproces. Je werkt nauw samen met de Dialyseverpleegkundige en bent zelfstandig werkzaam binnen eigen bevoegdheden en verantwoordelijkheden. Hieronder vallen taken bij dialysebehandeling met een protocollair verloop. De co\u00f6rdinatie en de zorg met hoge complexiteit is voorbehouden aan de dialyseverpleegkundige.Als dialyse-assistent begeleid je chronisch zieke pati\u00ebnten en zijn relatie(s) voor, tijdens en na de dialysebehandeling. Je signaleert afwijkingen en rapporteert aan de dialyseverpleegkundige voor verdere afhandeling."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "15-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/test-specialist-15-3-2023/",
         "Title": "Test Specialist",
         "Location": "Amersfoort",
@@ -416,6 +520,8 @@
         "Job Description": "De dienstverlening bevindt zich in een complex landschap waarbij goed werkende software en foutloze data transitie van groot belang is.\u202fAls Test Specialist werk je in tweewekelijkse sprints binnen een Agile /\u00a0DevOps\u00a0team. Je bent bezig met plannen, ontwerpen, realiseren en onderhouden van geautomatiseerde (regressie) testsets en bijbehorende testdata, volgens de in het team gemaakte afspraken.\u202fIn je rol ben je actief betrokken bij het bepalen van de testaanpak, de bijbehorende dekking, het opstellen van de testscenario\u2019s, het uitvoeren en evalueren van de (handmatige)testen en het documenteren van de testresultaten.\u00a0Je bent\u00a0proactief, zelfstandig en verantwoordelijk,\u00a0met een drive om overal zelf in te duiken, op te pakken en uit te zoeken.\u00a0Daarnaast heb je\u00a03 a 4 jaar ervaring met automatisering. Je bent dus\u00a0iemand die gek is van automatisch testen en daar passie voor heeft.\u00a0\u00a0Dit ga je doen:Je bent bezig met plannen, ontwerpen, realiseren en onderhouden van geautomatiseerde (regressie) testsets en bijbehorende\u00a0testda\u00a0Je signaleert fouten en zorgt dat deze samen met het\u00a0DevOps\u00a0team opgelost worden\u00a0Je zorgt dat testresultaten vastgelegd worden\u00a0Je integreert geautomatiseerde tests in een CI/CD pijplijn\u202f\u00a0Je adviseert het\u00a0DevOps\u00a0team en omgeving m.b.t. kwaliteitsverbeteringen die jij ziet\u00a0Je doet voorstellen om geautomatiseerd testen en automatisch genereren van test data, effici\u00ebnter en effectiever te maken\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "14-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/managementassistent-14-3-2023/",
         "Title": "Managementassistent",
         "Location": "Amsterdam",
@@ -424,14 +530,8 @@
         "Job Description": "Voor de regio's Amsterdam en Noordwest zijn wij op zoek naar een Managementassistent voor 32 tot 36 uur per week. Deze opdracht kan hybride worden uitgevoerd. Zo combineer je werken vanuit huis met werken op het in kantoor in Amsterdam. De regio's Noordwest en Amsterdam zoeken de onmisbare schakel die zorgt dat de Stafdirecteur Hoofdkantoor \u00e9n de managers van de regio's hun werk kunnen doen.Jouw werkzaamheden bestaan o.a. uit:Agendabeheer voor de betreffende Stafdirecteur Hoofdkantoor of Cluster-/Regiodirecteur;Organiseren en co\u00f6rdineren van dienstreizen en vergaderingen;Ontvangen van bezoek en het te woord staan van externe relaties per telefoon;Afhandelen van inkomende en uitgaande post, e-mails en telefoongesprekken;Zorgdragen voor adequate administratie, dossiervorming en het beheer van het directie-archief;Notuleren van vergaderingen en overleggen;Zorgdragen voor een optimale procesgang van alle secretari\u00eble, administratieve- en organisatorische zaken t.b.v. de betreffende Stafdirecteur Hoofdkantoor of Cluster-/Regiodirecteur."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/applicatiebeheerder-junior-medior/",
-        "Title": "Junior/medior applicatiebeheer",
-        "Location": "Zuid Holland",
-        "Job Duration": "6 maanden met optie tot verlenging",
-        "Hours per Week": "32 - 40",
-        "Job Description": "De applicatiebeheerder die we zoeken gaat het beheer oppakken omtrent de BIM applicaties en werkplek. Werkzaamheden die hieraan ten grondslag liggen:Beheer BIM applicaties (Autodesk, Bentley, GIS en andere producten)Oplossen incidentenCo\u00f6rdineren van releasesReleases testenOnderzoeken van performance problemenWijzigingen doorvoerenLicentiemanagementDe rol is deels remote en deels on-site in te vullen in een 50/50 verdeling. De rol kan voor 4 of 5 dagen per week ingevuld worden en de verwachte inzetduur is 6 maanden met optie tot verlenging, waarin de contracten worden aangeboden in blokken van 3 maanden. Je komt te werken in een team van in totaal 10 collega's die veel voor elkaar klaar staan, desalniettemin wordt zelfstandig kunnen werken altijd enorm geprezen. De sfeer is ongedwongen en informeel, zonder afbreuk te doen aan de wil om collectief goed te presteren."
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "14-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/engineer-w-utiliteit/",
         "Title": "Engineer-W (Utiliteit)",
         "Location": "Regio Amsterdam",
@@ -440,6 +540,8 @@
         "Job Description": "De VU is op dit moment intensief bezig om de kwaliteit van de studieomgeving te verhogen. Met de upgrade van de studiezalen, de realisatie van digitale toetszalen, het aanpassen van lesruimten tot moderne werkgroepruimten die geschikt zijn voor online onderwijs wil de VU deze kwaliteitsverhoging bewerkstelligen. De engineer zal zich met zijn inhoudelijke vakkennis zelfstandig gaan bezighouden met het ontwerpen en in de uitvoering begeleiden van alle deelprojecten die binnen het kader van dit verbeteringstraject worden aangepakt. Als onderdeel van een bestaand team van engineers en consultants en onder leiding van een projectverantwoordelijke worden de projecten uitgewerkt, aanbesteed en uitgevoerd.Mogelijk wordt de engineer ook gevraagd om ondersteuning te bieden bij overige lopende projecten. Deze projecten zijn zeer divers, zowel in complexiteit als in grootte, van de verbouwing van enkele kantoorruimten tot een verdiepingsbouwdeel en van collegezalen tot high tech onderzoekslaboratoria.\u00a0Het uitwerken van technische specificaties (TPvE) in werkomschrijvingen, tekeningen, begrotingen en/of delen van een projectplan binnen de structuren van de bestaande gebouwen en de gebruikers van de gebouwen (ontwerpen binnen de kaders van de bestaande gebouwen op basis van de kennis en de\u00a0door\u00a0de VU opgestelde standaards VU als Algemeen Technische bepalingen (ATB);Het op locatie toetsen van de te verzamelen revisie voor ontwerp en uitvraag;Het uitvragen van offertes enkel of meervoudig onderhands bij onze preferred suppliers;Het ondersteunen en adviseren van een projectmanager-/leider bij het beoordelen van ingediende offertes van leveranciers en het plaatsen van opdrachten;Het afstemmen met de consultant Werktuigbouwkunde, de andere disciplines, betrokken afdelingen en gebruikers als b.v. Vastgoedbeheer, alsmede het begeleiden van de uitvoering van projectwerkzaamheden door derde partijen;Het bewaken (technische controle) van de werkzaamheden tijdens uitvoering op GOTIK-elementen, alsmede het zorgdragen voor periodieke rapportage aan de projectmanager/-leider;"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "14-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/marketingcommunicatie-specialist/",
         "Title": "Marketingcommunicatie specialist",
         "Location": "Noord Holland",
@@ -448,14 +550,8 @@
         "Job Description": "Marketing, communicatie en journalistiek komen allemaal samen in de functie van marketingcommunicatie specialist. Weet jij alles over het voeren van campagnes, ben jij een nieuwsjunk en tevens sportfanaat? Dan zou dit zo maar jouw nieuwe functie kunnen zijn!Het gaat bij deze uitvraag om een tijdelijke invulling zodat lopende projecten kunnen worden opgepakt. Hierom is er momenteel behoefte aan een marketingcommunicatiespecialist voor 24 uur per week.\u00a0Als marketingcommunicatie specialist werk je op de afdeling Marketing, die als doelstelling heeft het publiek aan te sporen de content van de publieke omroep te bekijken, te beluisteren of te gebruiken. We willen graag met het publiek een band opbouwen, om de persoonlijke en maatschappelijke impact van het media-aanbod van de omroepen zo groot mogelijk te laten zijn.De afdeling Marketing bestaat uit twee subteams: Marketingcommunicatie en Continu\u00efteit & Promotie (C&P), en is onderdeel van de directie Publiek & Marketing, waar ook Publieksonderzoek en Corporate Communicatie deel van uit maken. Als marketingcommunicatie specialist rapporteer je aan de manager Marketing."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/technisch-projectleider-devops-scrum-master/",
-        "Title": "Technisch Projectleider DevOps / Scrum Master",
-        "Location": "Utrecht",
-        "Job Duration": "12 maanden met optie op verlenging",
-        "Hours per Week": "38",
-        "Job Description": "Adviseren van projectleiding over de technische implementatie en technische instandhouding van ServiceNow en daar eveneens uitvoering aan geven. Dit houdt onder meer in het maken van detail planningen t.b.v. het voorbereiden, afstemmen, testen en het uitrollen van Family Releases. De technisch projectleider adviseert de PO van het ServiceNow DevOps team over de technische impact van nieuwe ServiceNow platformfunctionaliteit en verzorgt de technische implementatie hier van.Ook is de technisch projectleider verantwoordelijk voor de technische afstemming met ServiceNow t.b.v. het Impact-programma, licentie metingen, platform performance en het primaire aanspreekpunt t.b.v. support van de leverancier. Daarnaast is de technisch projectleider ook verantwoordelijk voor de onboarding van (tijdelijke) teamleden bij het DevOps team. Bovendien is de verwachting, dat het team bemand gaat worden met interne medewerkers. Hiervoor stelt de technisch projectleider de behoefte op en draagt zorg dat de aanwezig kennis dan wordt overgedragen. Tevens is de technisch projectleider Scrum Master voor onder meer het ServiceNow DevOps team."
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "09-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/projectmanager-optimalisatie/",
         "Title": "Projectmanager",
         "Location": "Woerden",
@@ -464,14 +560,8 @@
         "Job Description": "Binnen de rol van projectmanager procesoptimalisatie heb je een grote verantwoordelijkheid binnen lopende en nieuwe projecten. Alle projecten zijn gericht om interne processen, procedures en andere operationele activiteiten te verbeteren. Onder de dagelijkse operatie vallen:Overeenkomstproces;Verwerking aangevraagde regelingen;Planning en control Cyclus;Urenverantwoording inzet externen.De huidige processen vergen op dit moment dubbele acties of zijn niet effici\u00ebnt ingericht. De werkprocessen die concrete verbetering verdienen zijn:Invoering CRM;Optimalisatie rapportages (financieel en inhoudelijk);Digitalisatie (opleidings)regelingen.Deze projecten zijn opgestart maar verdienen en vragen teveel van de huidige collega. Om die reden is ondersteuning voor deze projecten ten behoeve van groei noodzakelijk. De gezochte kandidaat heeft ruime kennis van operationele, financi\u00eble en andere aanverwante bedrijfszaken en staat tijdens de ontwikkelingen ook graag zelf met de voeten in de klei. Op dit moment is het team 4 man groot, en wordt er een beoogde groei gerealiseerd naar uiteindelijk 7 nieuwe collega's.Praktische details:De startdatum ligt in overleg maar de wens is zo spoedig mogelijk. De duur van de opdracht zal tussen de 4 en 6 maanden liggen. De eventuele ontwikkelingen van het project kunnen resulteren tot Q4, met een minder intensieve inzet. De standplaats is Woerden, eventueel is in overleg hybride werken mogelijk. Een inzetbaarheid tussen de 32 en 40 uur is bespreekbaar."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-servicenow-developer/",
-        "Title": "Senior ServiceNow Developer",
-        "Location": "Regio Utrecht",
-        "Job Duration": "1 jaar met optie op verlenging",
-        "Hours per Week": "38",
-        "Job Description": "Door de opbouw van nieuwe IT en het operationeel houden van de huidige IT is er sprake van dubbele beheerslasten. Voor het operationeel houden van de huidige IT is er behoefte aan bovenstaande capaciteit.Taken en verantwoordelijkheden:1. Ontwikkelt bouwstenen (stories) en/of componenten op basis van de functionele wensen ten behoeve van de inrichting van het Service Management Platform\u2013 het bouwen van nieuwe stories;\u2013 het aanpassen van bestaande stories;\u2013 het opstellen van testscenario's;\u2013 het uitvoeren of laten uitvoeren van testscenario's;\u2013 het bewaken van de samenhang tussen de stories;\u2013 het documenteren van de stories op functioneel en technisch niveau;\u2013 het vaststellen van de kwaliteitseisen waaraan de technische implementatie van stories behoort te voldoen;2. Ondersteunt de implementatie van het Service Management Platform\u2013 Begeleidt workshops en demo\u2019s ten behoeve van de gevraagde functionaliteiten en wensen;\u2013 Verzorgt trainingen en kennissessies rondom de ge\u00efmplementeerde functionaliteiten;3. Bewaakt de technische inrichtingsvoorwaarden en de architectuurprincipes\u2013 het afstemmen tussen zowel de business als de technische disciplines;\u2013 het toetsen van de technische architectuur bij de inrichting, impactanalyses en vooronderzoeken;\u2013 het opstellen van de technische story beschrijvingen;\u2013 het feedback geven over best-practices rondom de gestelde functionele wensen en eisen.4. Adviseert, ondersteunt en rapporteert over de technische aspecten van de bouwstenen (stories) van het Service Management Platform.\u2013 adviserend rondom best-practices voor de verschillende bouwstenen (stories)5. Ondersteunt de bewaking van de voortgang rondom de implementatie van het Service Management Platform\u2013 Voortgangsrapportages vanuit het projectteam richting de projectleider;\u2013 Doet voorstellen om de totale voortgang te versnellen en evt. de impact van issues te verkleinen.\u00a0"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "08-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/adviseur-service-portfolio-management/",
         "Title": "Adviseur Service Portfolio Management",
         "Location": "Zuid-Holland",
@@ -480,6 +570,8 @@
         "Job Description": "De TU Delft is georganiseerd als een aantal faculteiten, die ondersteund worden door een universiteitsdienst. Binnen de universiteitsdienst zijn diverse directies, die de faculteiten en CVB ondersteunen, zoals o.a. Finance, HR, ICT & FM. De directie ICT stimuleert en faciliteert de TU Delft bij het realiseren van haar doelstellingen. Zij faciliteert en stimuleert zowel de \u2018core business\u2019 onderwijs en onderzoek, als de ondersteunende directies van de TU Delft. De directie ICT is een betrouwbare en zichtbare partner die voor zijn medewerkers een stimulerende en motiverende omgeving biedt.Binnen de directie ICT is vanuit de strategie de behoefte vastgesteld om een betere afstemming van de ICT-diensten met de diverse afnemers te bewerkstellen en continu te verbeteren. Het gaat hierbij om de sturing op \u2018run\u2019 en \u2018verbetering\u2019 en sturing op alignement tussen vraag en aanbod. Binnen de directie, worden, op basis van de visie rond klantgericht werken, diverse projecten gepland om stappen te nemen op dit gebied. Soms is dit onderdeel van het oplossen van specifieke knelpunten (in andere projecten/programma\u2019s), soms zijn het pilots met juiste de focus op het klantgericht werken zelf en het leren inrichten en toepassen ervan.Voor het uitvoeren van deze projecten is de komende 6 maanden behoefte aan inzet van iemand met stevige consultancy- en training skills rond het proces Service Portfolio Management en de toekomstige Service Portfolio Manager. Je komt in aanmerking voor deze tijdelijke functie wanneer je een goed oog voor mensen, cultuur en dynamiek in organisaties hebt en hierop flexibel kunt inspelen. Je hebt het didactische vermogen mensen te laten groeien in hun rol en bent sensitief voor behoeften en onzekerheden in de organisatie.Daarnaast heb je ervaring op het gebied van IT-processen (ITSM, ITIL, BISL) en hebt kennis van het inrichten van processen in een servicemanagement tool (bij voorkeur TOPdesk). Je ziet inrichten van een proces niet als implementatie van tools, maar het ontwikkelen van de competenties en cultuur binnen een organisatie, gericht op klantgerichtheid, het verbeteren van prestaties en wendbaarheid. Je hebt hierbij een veranderkundige blik, en bent in staat vanuit context en doelen interventies te bedenken en uit te voeren (inclusief training en faciliteren van workshops). Je bent een teamplayer, hebt uitstekende communicatieve en analytische vaardigheden, legt makkelijk contacten op meerdere niveaus in de organisatie, bent nieuwsgierig en onderzoekend en kunt vraagstukken in een breder perspectief zien en benaderen"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "07-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/technisch-inkoper-7-3-2023/",
         "Title": "Technisch inkoper",
         "Location": "Regio Apeldoorn & remote",
@@ -488,6 +580,8 @@
         "Job Description": "Door jouw commerci\u00eble instelling in combinatie met technische kennis en inkoopkwaliteiten kunnen we erop vertrouwen dat de producten/diensten onder de meest optimale condities en voorwaarden beschikbaar hebben. Daarnaast vertegenwoordig jij bij leveranciers in onderhandelingen en contracten.Door veel met leveranciers te overleggen, houd je goed contact met de ontwikkelingen in de markt. En met jouw sterke persoonlijkheid en goede onderhandelingsvaardigheden staan de inkoopafspraken die jij maakt garant voor de beste prijs- en kwaliteitsverhouding.Werkzaamheden:\u2022 Voorbereiden en uitvoeren van acties die leiden tot verbetering van kwaliteit, supply chain, innovatie en kosten;\u2022 Zorgen voor de ideale leveranciers, portfolio en condities;\u2022 Afsluiten van internationale inkoopcontracten;\u2022 Uitvoeren van kwaliteitsaudits, samen met de kwaliteitsdienst;\u2022 Voorbereiden en uitvoeren van kosten besparende acties;\u2022 Verbeteren van de productkwaliteit;\u2022 bezoeken van leveranciers in binnen- en buitenland;\u2022 Beoordelen en rapporteren van leveranciersprestaties;\u2022 Opstellen en beheren van raamcontracten en SLA\u2019s:\u2022 Zorgen voor een correcte administratieve afhandeling, inclusief het voeden van het ERP-systeem met de juiste leveranciers- en productgegevens.De afdeling bestaat uit ongeveer 12 collega\u2019s. Je rapporteert aan de Purchasing Manager."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "07-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/anesthesiemedewerker-7-3-2023/",
         "Title": "Anesthesiemedewerker",
         "Location": "Regio",
@@ -496,6 +590,8 @@
         "Job Description": "Als anesthesiemedewerker assisteer je de anesthesioloog tijdens de operatieve zorg. De werkzaamheden vinden voornamelijk plaats op het operatiekamercomplex, maar je verricht ook werkzaamheden bij procedures buiten het operatiekamercomplex, zoals op de afdeling radiologie, CCU en SEH. Daarnaast maak je deel uit van het trauma- en reanimatieteam."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "07-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/manager-qhse/",
         "Title": "Manager QHSE",
         "Location": "Regio",
@@ -504,6 +600,8 @@
         "Job Description": "Als Manager QHSE help je het bedrijf mee de volgende stap te laten maken op het gebied van veiligheid en kwaliteit. Vanuit de strategische bedrijfsdoelen is er een QHSE beleid en doelstelling geformuleerd en ga je er als Manager QHSE ervoor zorgen dat deze doelen behaald worden. Dit doe je door het inzetten van je coachende en begeleidende vaardigheden waardoor je collega's binnen verschillende divisies op \u00e9\u00e9n lijn weet te krijgen met betrekking tot veiligheid.\u200bHet doel van deze functie betreft het toezien op de activiteiten en resultaten van de afdeling QHSE en haar medewerkers. Daarnaast het ontwikkelen, implementeren, optimaliseren en onderhouden van het integrale QHSE-managementzorgsysteem van de organisatie. Binnen deze functie ligt het zwaartepunt op de Quality.\u200bJouw kerntaken zijn:Het zorgdragen voor het behoud en ontwikkeling van de certificeringen en erkenningen;Samen met het team en de business het opstellen van het jaarlijkse in- en externe auditplan, zorgdragen voor de uitvoering en externe audits begeleiden;Analyseren van audioresultaten en het doen van haalbare beheers- en optimalisatievoorstellen;Co\u00f6rdineren en -gevraagd en ongevraagd- adviseren in het optimaliseren van de bedrijfsprocessen ten behoeve van een nog betere dienstverlening aan de klanten en interne voortbrenging;Beoordelen van veranderingen in de interne en externe context op QHSE impact en het onderhouden en updaten van de QHSE systemen hierop;Adviseren over, ontwikkelen en implementeren van veiligheid-, MVO en relevante trainingsprogramma's;Zorgen voor hoogwaardige, effectieve en innovatieve QHSE-instrumenten, functionele standaarden, methodieken en tools;Onderhouden van actieve contacten met de interne organisatie, het bevoegd gezag, certificerings- en keuringsinstanties."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "02-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/praktijkverpleegkundige/",
         "Title": "Praktijkverpleegkundige",
         "Location": "Noord Holland",
@@ -512,6 +610,8 @@
         "Job Description": "Als praktijkverpleegkundige maak je onderdeel uit van een team van zorgverleners dat vanuit verschillende disciplines eerstelijns zorg aanbiedt op de asielzoekerscentra. In je spreekuur behandel je een breed spectrum aan zorgklachten, geef je passend zelfzorgadvies aan de pati\u00ebnt en adviseer je in welke situaties een pati\u00ebnt opnieuw contact moet opnemen. Daarnaast begeleid je de pati\u00ebnten met een chronische ziekte zoals diabetes mellitus type 2, astma, COPD en cardio vasculair risicomanagement. Je werkt onder eindverantwoordelijkheid van de huisarts."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "02-03-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/doktersassistent/",
         "Title": "Doktersassistent",
         "Location": "Noord Holland",
@@ -520,14 +620,8 @@
         "Job Description": "Als doktersassistent ben je het eerste aanspreekpunt voor pati\u00ebnten. Je trieert aan de telefoon, plant de spreekuren en ontvangt pati\u00ebnten. Daarnaast voer je zelfstandig kleine medisch-technische handelingen uit. Zo geef je injecties, spuit je oren uit en meet je de bloeddruk van een pati\u00ebnt op. Bloedafname kan ook tot je taken behoren. Hiervoor heeft onze opdrachtgever, in samenwerking met Saltro, een speciale scholing ontwikkeld. Zij werken met Promedico, ervaring is een pr\u00e9 maar geen must."
     },
     {
-        "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-system-engineer-architect/",
-        "Title": "Senior System Engineer / Architect",
-        "Location": "Regio Maasland",
-        "Job Duration": "1 jaar met optie op verlenging",
-        "Hours per Week": "32",
-        "Job Description": "De systems architect (1e ontwerper) zal ingezet worden binnen de scriptafdeling.\u00a01. De 1e Ontwerper D&I (Systeem Architect) realiseert een generiek en specifiek ontwerp:Het vertalen van het functioneel ontwerp naar het technisch ontwerp;Het opstellen van (inrichtings) documentatie;Het vertalen van de uitvoeringsbepalingen naar te nemen (beveiligings)maatregelen.2. De 1e Ontwerper D&I (Systeem Architect) laat de toepasbaarheid van het technisch ontwerp onderzoeken:Het controleren en verifi\u00ebren van impactanalyse; \u2013 Het uitvoeren van risicoanalyses op de samenhang tussen de bouwstenen;Het geven van adviezen op basis van de impactanalyse en het ontwerp (functioneel/technisch).3. De 1e Ontwerper D&I (Systeem Architect) ontwikkelt componenten op basis van een generiek of specifiek ontwerp binnen de ICTarchitecturen en \u2013infrastructuren:Het bouwen van nieuwe bouwstenen of componenten;Het aanpassen van bestaande bouwstenen of componenten;Het opstellen van testscenario\u2019s; \u2013 Het uitvoeren of laten uitvoeren van testscenario\u2019s;Het opstellen of het laten opstellen van een testrapportage;Het adviseren op basis van de resultaten van de testrapportage middels businesscases;Het bewaken van de samenhang tussen de componenten binnen het ontwerp;Het inventariseren van de normen waaraan de bouwsteen dient te voldoen.\u00a0"
-    },
-    {
+        "Job Website": "Interim Professionals",
+        "Date Published": "28-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/lead-security-sr-product-specialist/",
         "Title": "Lead Security / Sr. product specialist",
         "Location": "Regio Maassluis",
@@ -536,6 +630,8 @@
         "Job Description": "Je werkt binnen een professioneel team van securityspecialisten. Met jouw generieke kennis van onze infrastructuur en IT-middelen, organisatie talent en actieve houding breng je de producten die de afdeling levert naar een hoger level. Je bent in staat om je technisch geori\u00ebnteerde collega\u2019s op de afdeling naar een hoger niveau te brengen doordat je communicatief sterk bent, krachtig in documentatie/administratie bent en een expert bent om collega's binnen en buiten de afdeling mee te krijgen.Werkzaamheden:Zorgdragen voor de dagelijkse operatie. Co\u00f6rdineren van de uitvoering op basis van de release en beheerkalender. Geven van functionele richtlijnen aan beheerders en het stellen van prioriteiten. Kwaliteitsbewaking door onder andere vereist kennisniveauLifecyclemanagement, het bewaken dat onze producten up to date zijn en blijven. Regelmatig controles uitvoeren op de installed base en wijzigingen/updates aansturen.Problemmanagement. Co\u00f6rdinerende rol voor de analyse, de oplossingsimplementatie en de borging hiervanAfstemming tussen de kaders die gesteld zijn voor de afdeling. Bijdrage aan audits. Reporting om inzicht te krijgen in de huidige en toekomstige prestaties en te bepalen of dit binnen de kaders valt."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "27-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/dialyseverpleegkundige-2/",
         "Title": "Dialyseverpleegkundige",
         "Location": "Noord Holland",
@@ -544,6 +640,8 @@
         "Job Description": "Je begeleidt je pati\u00ebnten die een nierfunctie vervangende behandeling ondergaan binnen een van de 4 dialysecentra binnen dit ziekenhuis. In dit dialysecentra werken zij met de nieuwste apparatuur. Naast de \u2018reguliere\u2019 dialyse behandelingen doe je ook acute dialyses op de IC, MC en CCU. Je werkzaamheden zijn afwisselend en vereisen ook een hoge mate van zelfstandigheid. Als verpleegkundige heb je een belangrijke sociale rol in de contacten met de pati\u00ebnt en hun familieleden. Door het intensieve contact bouw je een goede band met hen op."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "14-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/medium-care-verpleegkundige/",
         "Title": "Medium Care Verpleegkundige",
         "Location": "Noord Holland Noord",
@@ -552,6 +650,8 @@
         "Job Description": "Als MC verpleegkundige in dit ziekenhuis werk je dus samen met de SEH, IC en AOA verpleegkundigen en zorg je voor de pati\u00ebnten op de afdeling acute zorg. De afwisseling, hoog- en laagcomplexe zorg, zorgt voor diversiteit van je werkzaamheden en vraagt om flexibiliteit. Daarnaast ben je onderdeel van het spoed interventieteam (SIT) en het reanimatieteam voor het hele ziekenhuis. Met jouw kennis en ervaring begeleid je collega verpleegkundigen die nog met hun opleiding bezig zijn en ben je als het ware een mentor en vraagbaak.\u00a0"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "13-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/senior-payroll-professional-2/",
         "Title": "Senior Payroll Professional",
         "Location": "Regio Den Bosch",
@@ -560,6 +660,8 @@
         "Job Description": "Je verricht werkzaamheden op het gebied van complexe payroll;Je onderhoudt contacten met klanten over de aanpak, verwerking en voortgang van de werkzaamheden;Je adviseert klanten over de toepassing van Cao's, de inrichting van de payroll en fiscaalvriendelijke beloningscomponenten;Je maakt gebruik van diverse online toepassingen en de laatste technologische ontwikkelingen in de branche;Je bent vraagbaak voor collega\u2019s van de vestiging als het gaat om payroll en bent medeverantwoordelijk voor het functioneren van de medewerkers in jouw team."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "10-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/neonatologieverpleegkundige/",
         "Title": "Neonatologieverpleegkundige",
         "Location": "Alkmaar",
@@ -568,6 +670,8 @@
         "Job Description": "Als neonatologie verpleegkundige bied jij samen met je collega\u2019s de zorg aan de te vroeg geborene en zieke neonaten. In deze functie ben je in staat om hoog complexe zorg te bieden.\u00a0Op de afdeling werk je samen met meerdere disciplines die gespecialiseerd zijn in deze zorg.De zorg van de te vroeg geborene en zieke neonaten vraagt vaak een multidisciplinaire aanpak, daarom werk je nauw samen met de verschillende disciplines. Kwaliteit van zorg staat centraal, uiteraard zou je in je functie ook deel uit kunnen maken van afdeling (overstijgende) werkgroepen en begeleid je leerlingen en stagiaires. Eigen initiatief tot kwaliteitsverbetering wordt gestimuleerd. Bereidheid om in de nachten te werken in een grote pre."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "10-02-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/kinderverpleegkundige-10-2-2023/",
         "Title": "Kinderverpleegkundige",
         "Location": "Noord Holland",
@@ -576,6 +680,8 @@
         "Job Description": "Als kinderverpleegkundige bij dit ziekenhuis doe je heel veel verschillende dingen op een dag. Elk kind heeft een ander ziektebeeld en dus ook een andere zorg nodig. Je houdt je pati\u00ebnten goed in de gaten en bent de ogen en oren van de dokters zodat je hen goed kunt informeren. Behalve het geven van de juiste zorg ben je ook meester in het afleiden en geruststellen van kinderen en uitleg geven aan hun ouders. Als team werken we goed samen maar als kinderverpleegkundige kun je ook goed zelfstandig werken."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "05-01-2023",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/operatieassistente/",
         "Title": "Operatieassistente",
         "Location": "Noord-Holland",
@@ -584,6 +690,8 @@
         "Job Description": "Als operatieassistent weet jij precies wat jouw rol inhoudt. Je draait je hand niet om voor de voorbereiding, het gebruiksklaar maken van de operatiekamer en de procedures die uitgevoerd worden. Je voelt je als een vis in het water wanneer je je blauwe ok-pak aantrekt en bent de steun en toeverlaat tijdens de diensten.Het omlopen, instrumenteren en assisteren tijdens diverse operaties is voor jou een tweede natuur en jij zorgt ervoor dat dit van een leien dakje loopt."
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "12-12-2022",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/sap-sd-otc-consultant/",
         "Title": "SAP SD OTC Consultant",
         "Location": "Apeldoorn",
@@ -592,6 +700,8 @@
         "Job Description": "Voor een grootschalig SAP Herimplementatie programma zijn we op zoek naar een ervaren SAP SD / OTC consultant met ervaring in S/4 en IS Utilities. Binnen dit programma zullen alle processen en het bijbehorende besturingsmodel opnieuw worden ontworpen en ge\u00efmplementeerd op S/4HANA. Er is gekozen voor een gefaseerde aanpak van de herimplementatie waarmee met de inrichting van de processen rekening moet worden gehouden. Belangrijk uitgangspunt daarbij is dat we dicht bij de standaarden blijven om tot een robuust en toekomst vast systeem te komen.Als ervaren SAP OTC Consultant ben je medeverantwoordelijk voor de benodigde ontwikkeling op S/4 en het C4C cloud platform. In nauwe samenwerking met overige functionele consultants en key-users zal je het ontwerp hiervoor opstellen en daarna realiseren. Focus in deze functie ligt op het proces Aansluitingen.Verantwoordelijkheden\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Vertalen business requirements naar een functioneel ontwerp\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Afstemming met architecten over het voorgestelde ontwerp\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Vertaling functioneel ontwerp naar detailontwerp, configuratie en aansturing developers\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uitvoeren van de unit testen en functionele testen en ondersteunen acceptatietesten\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Voorbereiden go live moment\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Nazorg"
     },
     {
+        "Job Website": "Interim Professionals",
+        "Date Published": "02-12-2022",
         "URL": "https://interimprofessionals.hero.eu/aanvraag/salarisadministrateur-2-12-2022/",
         "Title": "Salarisadministrateur",
         "Location": "Regio Amsterdam",

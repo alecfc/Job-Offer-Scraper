@@ -1,0 +1,1334 @@
+{
+    "took": 21,
+    "responses": [
+        {
+            "took": 21,
+            "timed_out": false,
+            "_shards": {
+                "total": 5,
+                "successful": 5,
+                "skipped": 0,
+                "failed": 0
+            },
+            "hits": {
+                "total": {
+                    "value": 50,
+                    "relation": "eq"
+                },
+                "max_score": null,
+                "hits": [
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6722",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Senior Red Hat Linux expert",
+                            "application_deadline": "2023-03-30",
+                            "created_at": "2023-03-27T13:07:31.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32100-Senior-Red-Hat-Linux-expert",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voor DICTU ben ik op zoek naar een senior Red Hat Linux expert (gecertificeerd RHCE versie 7+)",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>DICTU is op zoek naar meerdere senior Red Hat Linux experts (gecertificeerd RHCE versie 7+) voor het beheer van onze omgevingen. Belangrijke tools zijn automation middels Ansible, versiebeheer middels GitLab en deployment via Ansible-Tower en Ansible-Automation Platform. Heb je hier veel ervaring mee en ben je snel in staat het beheerteam hiermee te helpen? Vind je het leuk om je kennis te delen? Solliciteer dan op deze functie. </p><p><br></p><p>Beheer (dagelijks beheer) zal ook een gedeelte van de werkzaamheden in beslag nemen maar daarnaast wordt ook van je gevraagd dat je meewerkt aan het invoeren (middels scripting bijvoorbeeld Ansible) van vernieuwingen in de software applicaties en de door ons gebruikte tooling zoals Zabbix, Elastic, Logtash, free-IPA en Satellite. </p><p><br></p><p>Taken zoals &#39;&#39;Beheerder vd Dag&#39;&#39; en &#39;&#39;Consignatie&#39;&#39; (dienst buiten kantoortijd) behoren bij de uitvoering van de werkzaamheden. </p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Voor onze afdeling binnen DICTU zijn wij op zoek naar multi talenten. Een ware duizendpoot die uitdagingen niet uit de weg gaat en wil investeren in innovatie en ontwikkeling om in deze wereld bij te blijven. De afdeling doet het technisch beheer van applicaties die ons in Nederland allemaal aangaan, de bevolkingsadministratie en de paspoorten en ID- bewijzen. Hierbij besteden wij veel aandacht aan de veiligheid van deze gegevens door de nieuwste technieken toe te passen. Want we willen niet dat deze gegevens zomaar op straat komen te liggen. Door de vele verbeteringen en aanpassingen op het gebied van privacy, meer grip op je eigen persoonsgegevens, het centraal en up-to-date gegevens beschikbaar stellen van deze gegevens en de dataminimalisatie bij uitgifte van deze gegevens zijn de nieuwste ICT standaardaarden noodzakelijk voor het invullen van deze ambitie. Denk hierbij aan hybride cloud oplossingen, container technologie, API management, multifactor authentication (MFA) oplossingen en dit alles binnen een Zero Trust Architecture (ZTA). </p><p><br></p><p>Allemaal zaken die heel belangrijk zijn om Nederland draaiende te houden. De continu\u00efteit, veiligheid en vertrouwelijkheid van de gegevens hebben daarom absolute topprioriteit en dat maakt het werk zeer uitdagend. Waarbij je innovatie drang en up-to-date expertise een vereiste is en je creativiteit en nieuwsgierigheid zeker tot zijn recht zal komen.</p>",
+                            "updated_at": "2023-03-27T13:28:04.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><ul><li>RedHat RHCE gecertificeerd (Rhel 7+) </li><li>HBO 5 jaar</li></ul><p><br></p><p><strong>Competenties </strong></p><ul><li>Goede communicatieve vaardigheden (zowel mondeling als schriftelijk) </li><li>Vermogen om kennis over te dragen middels workshops of \u00e9\u00e9n-op-\u00e9\u00e9n sessies. </li><li>Aantoonbare ervaring met documenteren t.b.v overdracht naar beheer. </li></ul><p><br></p><p><strong>Aanvullende kennis </strong></p><p>Monitoring: Zabbix, Elastic, Kibana, Logstash </p><p>Networking: bind, free-ipa, Openldap, Nginx </p><p>Versioning: Git-Lab, Satellite Ontwikkeling: Jboss, Perl, Tomcat, Apache, Ansible, Bash, Python, Perl </p><p><br></p><p><strong>Overige functiewensen </strong></p><p>Ervaring in een Agile werkomgeving.</p>",
+                            "client": {
+                                "name": "DICTU",
+                                "logo": {
+                                    "name": "DICTU copy.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/9cc76d6e036543bdb3484f9db6b469d1.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 5,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6722,
+                            "start_date": "2023-04-10",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": "DICTU levert ICT en digitale diensten voor EZK en een aantal andere ministeries. Ze zet haar kennis en ervaring in om de beleids- en organisatiedoelen van haar opdrachtgevers optimaal te ondersteunen. Daarbij speelt ze in op de nieuwste technologische ontwikkelingen, zoals de Cloud. Ook borgt ze een hoogwaardige beveiliging van de gegevens die ze technisch beheert en bewaart.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679922451000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6721",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Software engineer",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-27T12:27:05.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32098-Software-engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voor NFI ben ik op zoek naar een Software Engineer met 7 jaar Angular ervaring",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>E\u00e9n van de wetenschappelijke onderzoeksafdelingen van NFI gebruikt MSAccess voor hun werkproces. Deze MSAccess applicatie willen we onderbrengen in onze architectuur van Microservices, gebaseerd op Java, Angular, Spring Boot en Camunda. Draaiend op Openshift. Vind je het leuk om de inventarisatie en gebruikers analyse van het oude MSAccess Lims systeem uit te voeren en MSAccess naar Java om te zetten en onze wetenschappelijke afdeling verder te helpen in de automatisering van hun werkproces? </p><p><br></p><p>Daarnaast zijn we bezig met het ontwikkelen van en introduceren van een nieuw softwareproject binnen onze NISP-architectuur en voor deze opdracht dus voor NISP_TOX_LIMS. Met gebruikmaken van ZAPA, Gateway, IdentityAccess en NISP_Beheer software. </p><p><br></p><p>We denken dat deze tweeledige opdracht in 6 maanden kan gebeuren.\u00a0</p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p><span class=\"ql-cursor\">?</span>Deze opdracht valt onder het IV Meerjarenplan, waarbij het programma Lifecyclemanagement (LCM) is opgezet om de IV-assets van het NFI te besturen in alle facetten van de product-life cycle. Doel hierbij is o.a. om de kwaliteit van de gebruikte software op een hoger plan te krijgen en centraal te besturen en te beheren voor een toekomstvast IV-landschap.\u00a0</p>",
+                            "updated_at": "2023-03-27T13:28:04.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><ul><li>De kandidaat heeft een afgeronde opleiding HBO, bijvoorbeeld in de richting informatica, wiskunde of software-engineering.\u00a0</li><li>De kandidaat heeft minimaal 2 jaar werkervaring met het werken in een Agile/Scumteam.\u00a0</li><li>Kandidaat heeft minimaal twee jaar werkervaring met het opzetten en uitvoeren van geautomatiseerde testen.</li><li>Kandidaat heeft werkervaring met ontwikkeling van Java software (Java 11, Spring Boot) met behulp HTML/CSS en JavaScript/TypeScript 3 jaar.</li><li>Kandidaat heeft werkervaring met tooling zoals Git, Jenkins, Atlassian Suite (Jira, Bitbucket, Confluence), JUnit 1 jaar.</li><li>Kandidaat heeft werkervaring met Angular 7 jaar.</li></ul><p><br></p><p><strong>Competenties</strong></p><p>- Organisatiesensitief; </p><p>- Vakinhoudelijke samenhangen in brede context; </p><p>- Motiveren van medewerkers; </p><p>- Communicatief vaardig</p>",
+                            "client": {
+                                "name": "Nederlands Forensisch Instituut",
+                                "logo": {
+                                    "name": "nfi.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/62629502900f47c78b398efc881ffd7c.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 72,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6721,
+                            "start_date": "2023-04-03",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 6,
+                            "function_description_en": null,
+                            "company_info_nl": "Het NFI heet voluit Nederlands Forensisch Instituut. Het NFI onderzoekt bewijsstukken in strafzaken. Een strafzaak is een rechtszaak waar een rechter bepaalt of iemand schuldig of onschuldig is aan een misdrijf. Daarvoor gebruikt de rechter onder andere de resultaten van het onderzoek dat het NFI doet.\n\nHet NFI doet veel soorten onderzoek. Daarom zijn die onderzoeken verdeeld in meer dan 30 onderzoeksgebieden: van pathologie (waardoor is iemand overleden?), toxicologie (giftige stoffen), chemisch onderzoek, wapens en munitie, verkeer, milieu, digitale sporen tot onderzoek van drugs en DNA.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679920025000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6720",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Infrastructuur Specialist (2/12/2020)",
+                            "application_deadline": "2023-04-04",
+                            "created_at": "2023-03-27T11:34:46.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32097-Infrastructuur-Specialist-2122020",
+                            "type": "Freelance",
+                            "subtitle_nl": "Op zoek naar een infrastructuur specialist met ervaring met Linux/Unix beheer en RHCSA 7 certificering.",
+                            "function_description_nl": "<p><b>Functieomschrijving:</b></p><p>Werknemer moet het Operationele beheer van onze IT Infrastruur uitvoeren, primeir de RHEL omgeving.</p><p>Het Operationele beheer behelst:</p><p>- Proactief beheer in het kader van LCM</p><p>- Verhelpen van verstoringen die in monitoring verschijnen- Afhandelen van wijzigingsverzoeken in onze Redhat servers, Ansible, ElasticSearch, Foreman, Rundeck, Cisco ACI, Fortgates, EMC networker, VMWARE en netwerk opslagsystemen (SAN/NAS).</p><p>- Ondersteunen van Senior Infrastructuur specialisten</p>",
+                            "updated_at": "2023-03-27T13:28:03.000Z",
+                            "function_requirements_nl": "<p><strong>Functie-eisen: </strong></p><ul><li>Gecertificeerd op RHCSA 7</li><li>5 jaar werkervaring in complexe omgevingen waarbij Linux/Unix beheer het grootste aandachtsgebeid was. Verder het laatste jaar beheer uitgevoerd naast Redhat op Ansible/AWX, Satellite Server, Puppet, ElasticSearch, Foreman, Rundeck, Cisco ACI, Fortinet Fortgate Firewalls, EMC networker, VMWARE en netwerk opslagsystemen (SAN/NAS)</li><li>Afgeronde technische MBO opleiding 10 jaar</li></ul>",
+                            "client": {
+                                "name": "Justiti\u00eble Informatiedienst",
+                                "logo": null,
+                                "id": 124,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6720,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Almelo",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Medior"
+                        },
+                        "sort": [
+                            1679916886000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6719",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Netwerk specialist",
+                            "application_deadline": "2023-04-03",
+                            "created_at": "2023-03-27T09:37:30.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32094-Netwerk-specialist",
+                            "type": "Freelance",
+                            "subtitle_nl": "Wij zijn op zoek naar een Netwerk Specialist!",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving:</strong></p><p><br></p><p>Binnen de afdeling Datacenter Network Services zijn we voor het Security team op zoek naar een ervaren netwerkbeheerder met kennis en ervaring binnen een multi tennant datacenter omgeving om het team te versterken. Binnen dit team ben je mede verantwoordelijk voor het beheer van alle firewalls en doorvoeren van firewall wijzigingen binnen de Datacenter netwerken, m.n. gebaseerd op Cisco ASA, Firepower (ASA/FTD) en Fortigate. Meer concreet houdt dit in dat je o.a. bezig bent met het, o.b.v. automation en centrale beheer tooling doorvoeren van wijzigingen, opstellen/input leveren t.b.v. rapportages, monitoren van de omgeving, oppakken 3e lijns incidenten enz. Daarnaast kan je ingezet worden binnen een project-, lever- of problemsolving team. Het opstellen van wijzigingsverzoeken voor bijv. software LCM en het uitvoeren van hardware LCM is ook onderdeel van de werkzaam- en verantwoordelijkheden. Verder wordt van je verwacht dat je meedenkt over de huidige strategie binnen het team en evt. verbeterpunten onder de aandacht brengt.</p>",
+                            "updated_at": "2023-03-27T13:28:04.000Z",
+                            "function_requirements_nl": "<p><strong>Eisen:</strong></p><p><br></p><ul><li>CCNP Routing en Switching, Geldige Certificaat (geldigheidsduur is 3 jaar)</li><li>Fortinet NSE gecertificeert, Geldige Certificaat (geldigheidsduur is 2 jaar)</li></ul><p><br></p><p><strong>Wensen:</strong></p><p><br></p><ul><li>Kennis en ervaring op het gebied met BGP, MPLS, div. Monitoring systemen (HP NNMI), Ticketing systemen (TopDesk)</li><li>Kennis en ervaring op het gebied van automation (Ansilble, GIT, Python, etc) </li><li>Kennis en ervaring op gebied van Fortianalyser en Fortiproxy</li><li>puntenKennis en ervaring op gebied van het gebruik van centrale beheertooling (zoals CSM, FMC, Fortimanager)</li><li>Kennis en ervaring op gebied van Cisco FTD (Firepower Threat Defense)</li><li>Kennis en ruime ervaring op Security/Firewalling gebied.</li></ul>",
+                            "client": {
+                                "name": "SSC-ICT",
+                                "logo": {
+                                    "name": "ssc-ict.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/0571e0a2a90247a0b7890a385e49788e.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 9,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6719,
+                            "start_date": "2023-04-24",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679909850000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6718",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "SAS infra specialist",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-27T09:16:55.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32080-SAS-infra-specialist",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voor Rijkswaterstaat zoeken wij een technisch specialist (part-time voor +/- 20 uur p/w) met specialisme technische infrastructuren, SAS en sensornetwerken.",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>Technisch management voor Datagedreven Assetmanagement (DGAM) o.b.v. de architectuur van de Generieke IoT inwinketen. Specifiek voor SAS/Event Stream Processing. De technisch manager is verantwoordelijk voor het ontwerp en de realisatie van de noodzakelijke IV architectuur voor DGAM zowel op het objecten als in het datacenter. Dit betreft infrastructuur, inwinning, verwerking, opslag, distributie en visualisatie/dashboards. </p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Het programma DGAM heeft tot doel om m\u00e9\u00e9r datagedreven werken betekent in het assetmanagement gebruik maken van nieuwe IV- technieken en nieuwe databronnen waarmee een scherper zicht op prestaties, gebruik en conditie wordt gerealiseerd. Hiermee krijgen RWS en marktpartijen in de assetmanagement-keten de beschikking over nu nog niet beschikbare en meer actuele data over prestaties, gebruik en conditie van de assets. Data die gebruikt kunnen worden om de goede keuzes te maken in de verschillende stappen van het assetmanagementproces. Zo beschikken de managers en medewerkers in het assetmanagement over extra gereedschappen in hun werk. De implementatie en uitvoering van dit datagedreven assetmanagement doen we in nauwe samenwerking met marktpartijen (zowel GWW, advies als IT) en onderzoek- en onderwijsinstellingen. Het werkpakket IV verzorgt de technische realisatie van alle IV voorzieningen voor het programma DGAM.</p>",
+                            "updated_at": "2023-03-27T13:28:03.000Z",
+                            "function_requirements_nl": "<p><strong>Functie eisen:</strong></p><ul><li>WO werk- en denkniveau </li><li>Het ontwerpen van complexe technische infrastructuren </li><li>Het ontwerpen van SAS infrastructuur </li><li>Het gebruik van SAS in combinatie met sensornetwerken </li></ul><p><br></p><p><strong>Functie wensen:</strong></p><ul><li>Kennis en ervaring SAS suite</li><li>Kennis en ervaring SAS Event Stream Processing</li><li>Kennis en ervaring Cloud Foundry</li><li>Kennis en ervaring Technisch design</li></ul>",
+                            "client": {
+                                "name": "Rijkswaterstaat",
+                                "logo": {
+                                    "name": "rijkswaterstaat.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/f89dd865065141ff84dbd02be20929c3.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 7,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6718,
+                            "start_date": "2023-04-17",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 20,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Delft",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679908615000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6717",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "RPA DevOps engineer",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-27T07:44:03.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32093-RPA-DevOps-engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a RPA DevOps engineer with experience of .NET, VB, C++ and UIPath",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>Founded in 1984, ASML is the world&#39;s leading provider of lithography systems for the semiconductor industry, manufacturing complex machines that are critical to the production of integrated circuits (\u2018chips\u2019). The IT division supports information management, infrastructure and key business processes across ASML. The IT infrastructure, hardware and applications are mission-critical for ASML\u2019s internal and external activities.</p><p><br></p><p><strong>Role and responsibilities: </strong></p><ul><li>Support our UiPath platform operation activities.</li><li>Maintain in a timely manner and solve issues that arise in day-to-day activities for RPA solutions in production environments.</li><li>Monitor and manage RPA solutions in real time according to ad hoc requests.</li><li>Identify risks and communicate to project board in a proactive manner.</li><li>Execute peer reviews of code from your project peers and always have an eye for quality of coding.</li><li>Identify automation opportunities, analyze business processes, and assess automation feasibility.</li><li>Identify and communicate the technical infrastructure requirements to deploy automation solutions.</li><li>Create and maintain solution documentation.</li><li>Be able to deliver within project timelines and independently plan your work.</li></ul><p><strong>Education and experience: </strong></p><ul><li>Bachelor\u2019s or Master\u2019s degree in an area such as Software Engineering, or Information Systems or related.</li><li>RPA Advanced developer certification.</li><li>Proven technical experience in an IT programming development environment.</li><li>Proven technical experience using UiPath or other RPA tools.</li><li>Experience in new development projects using agile methodologies is highly preferred.</li><li>Hands-on development experience in any of the programming languages/platforms .NET / VB / C++.</li><li>Experience with tools such as GitLab and Spotfire is desired.</li><li>Strong in design principles and modular programming techniques.</li><li>Experience required: 5 years of RPA development experience and 8-10 years of proven experience in the IT domain.</li></ul><p><br></p><p><strong>Skills: </strong></p><p>Working at the cutting edge of tech, you\u2019ll always have new challenges and new problems to solve \u2013 and working together is the only way to do that. You won\u2019t work in a silo. Instead, you\u2019ll be part of a creative, dynamic work environment where you\u2019ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You\u2019ll have the flexibility and trust to choose how best to tackle tasks and solve problems.</p><p><br></p><p>To thrive in this job, you\u2019ll need the following skills:</p><ul><li>Good communication skills with a speak-up mindset.</li><li>Ability to plan work and deliver on agreed goals independently.</li><li>Ability to collaborate effectively with other disciplines.</li><li>Ability to work under time pressure and rapidly changing project conditions.</li><li>Fluent in English, verbal and written.</li><li>Eligible to work in Veldhoven, The Netherlands.</li></ul>",
+                            "updated_at": "2023-03-27T13:28:04.000Z",
+                            "function_requirements_nl": null,
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6717,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679903043000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6716",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "PowerApps Developer",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-24T16:02:07.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32082-PowerApps-Developer",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a PowerApps developer with more than 5 years of experience of Microsoft 365!",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>Are you the kind of person who likes working with PowerApps? Do you like to deliver an PowerApps solution from front end to back end? Do you have focus on the implementation of the entire Microsoft low code suite in collaboration with the business? If so, then apply for the Microsoft PowerApps developer within our IT department!</p><p><br></p><p><strong>Role and responsibilities: </strong></p><p>As a PowerApps Developer who is part of the Collaboration Business Solutions (CBS) Team you\u2019ll be responsible for designing, developing, and implementing custom business applications using the full Microsoft PowerApps suite. You do this in a highly collaborative way of working with your team members, stakeholders and other teams. This requires a strong understanding of the Power Platform and related technologies such as Microsoft SharePoint, Microsoft Power Automate, Dataverse (Formerly known as CDS), and Canvas PowerApps.</p><p><br></p><p>Main responsibilities:</p><ul><li>End-to-end responsible for the implementation of demand which is prioritized by the Product Owner.</li><li>Gathering and analyzing business requirements</li><li>Designing and developing custom PowerApps solutions to meet business needs</li><li>Integrating PowerApps with other Microsoft technologies, such as Dataverse and Power automate</li><li>Troubleshooting and debugging PowerApps solutions</li><li>Creating and maintaining documentation for PowerApps solutions</li><li>Collaborating with other developers, stakeholders and product owners to ensure successful project delivery</li><li>Provide high level effort estimation for the implementation of the designed solutions during sprint refinement and planning.</li><li>Drive standardization and automation.</li><li>Actively participate in the SCRUM events.</li><li>Ensure we build future proof solutions and keep up-to-date with the latest developments and trends in the Power Platform and related technologies(Azure)</li></ul><p><strong>Education and experience:</strong></p><p>This role requires the following experience and qualifications:</p><ul><li>Experience in enterprise IT environments</li><li>5+ Years of experience Microsoft 365</li><li>PowerApps experience</li><li>Data verse &amp; Azure experience</li><li>SharePoint experience</li><li>Microsoft 365 certification is a pre</li><li>Consultancy background is preferred</li><li>Developer mindset</li><li>Agile way of working experience, SAFE experience and certification is preferred</li><li>MSc. or BSc. In Business/IT area</li><li>Basic knowledge of privacy legislation: GDPR</li></ul>",
+                            "updated_at": "2023-03-27T13:28:07.000Z",
+                            "function_requirements_nl": "<p><strong>Skills: </strong></p><p>Furthermore, the following personal skills are required:</p><ul><li>Technical skills in Power Apps and related technologies</li><li>Excellent problem solving and communication skills</li><li>Able to work independent and take responsibility</li><li>Taking and driving ownership</li><li>Show initiative, creativity, and problem-solving attitude</li><li>Pragmatic, practical, flexible, and committed to Quality</li><li>Candidate must be fluent in English (primary communication within ASML) Dutch is a pre</li></ul>",
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6716,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679673727000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6715",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "SAP CRM Consultant",
+                            "application_deadline": "2023-03-28",
+                            "created_at": "2023-03-24T13:05:59.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32046-SAP-CRM-Consultant",
+                            "type": "Freelance",
+                            "subtitle_nl": "Experience with SAP ABAP",
+                            "function_description_nl": "<p><strong>Job description: <span class=\"ql-cursor\">?</span></strong></p><p>Software Engineers are members of these product teams and bring all necessary skills to the team to enable the team to translate business needs into compelling products and deliver them to end users so that business value is created. Software Engineers take care of specification, design, engineering, testing, delivering, deploying, maintaining and supporting of digital products. Depending on the service level agreements (SLA) the Software Engineer can be asked to participate in consignation duties, fi. in case 24/7 support is agreed.\u00a0</p><p><br></p><p>The ablity to deliver code in one or more programming languages is at the core of the job. As they grow and expand their craftsmanship, Software Engineers are expected to become T-shaped professionals. Each engineer brings deep expertise in one or more crafts and proficiency in other crafts. In the product team, the Software Engineers together secure all the skills, knowledge and experience on analysis, design &amp; architecture, development, quality assurance, DevOps, LCM and operational support as needed.\u00a0</p><p><br></p><p>The Software Engineer hierarchically reports to an Engineering Leader who facilitates and stimulates the personal development and craftsmanship of the Software Engineer.\u00a0</p>",
+                            "updated_at": "2023-03-27T13:28:07.000Z",
+                            "function_requirements_nl": "<p><strong>Skills:</strong></p><ul><li>SAP CRM Techno Functional Consultant with experience in SAP ABAP and functional exposure.\u00a0</li><li>Good to have knowledge of SAP Fiori</li><li>Good to have knowledge of SAP S/4 HANA</li><li>Education or Experience level: Bachelor- or Master level through study or experience</li><li>Years of Experience: 2 - 4 years in IT</li></ul>",
+                            "client": {
+                                "name": "",
+                                "logo": null,
+                                "id": 108,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6715,
+                            "start_date": "2023-04-17",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": "Screening\nOm de betrouwbaarheid en integriteit van kandidaten te toetsen is screening onderdeel van de sollicitatieprocedure. Voor vragen over de screeningprocedure kunt u contact opnemen met de vermelde contactpersoon bij de betreffende vacature of interim opdracht.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Amsterdam",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Medior"
+                        },
+                        "sort": [
+                            1679663159000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6714",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Technical Landscape Owner Connectivity",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-24T10:42:29.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32071-Technical-Landscape-Owner-Connectivity",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a Network expert to set up a new infrastructure",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>Founded in 1984, ASML is the world&#39;s leading provider of lithography systems for the semiconductor industry, manufacturing complex machines that are critical to the production of integrated circuits and chips. ASML has its R&amp;D and manufacturing operations in the United States, China, Taiwan, Korea and in Veldhoven, the Netherlands employing over 19.000 people.</p><p><br></p><p>The IT organization of ASML supports information management, infrastructure and key business processes across ASML. Part of the IT organization is the Competence Center Operations &amp; infrastructure (O&amp;I) providing all, mission-critical, IT support services. This not only includes generic IT infrastructure services like laptops and desktops, telecom services, network and datacenters but also the IT applications which are used within ASML.</p><p><br></p><p><strong>Role and responsibilities: </strong></p><p>As a Technical Landscape Owner Connectivity your job mission is to ensure that the physical connectivity infrastructure is managed to the best economic advantage of the company and in line with business requirements enabling ASML to move forward in a high demanding, fast moving and dynamic environment.</p><p><br></p><p>As a Technical Landscape Owner Connectivity you carry the responsibility for safeguarding the physical connectivity infrastructure. You will act on both an operational level, ensuring that designs, procedures and policies are in place, as a tactical level, translating the connectivity strategy into technical roadmaps.</p><p><br></p><p>As a Technical Landscape Owner Connectivity you will be responsible for, but not limited to:</p><ul><li>Translate and realize the connectivity strategy into technical roadmaps</li><li>Validate design plans, quotes and orders proposed by vendors/contractors</li><li>Coordinate and assure quality of connectivity related changes, incidents and problems</li><li>Report on the operational health of the global connectivity infrastructure</li><li>Signal, analyze and realize improvements on procedures and policies used in the daily operation</li><li>Translate decisions into practical guidelines, policies and implementation plans</li><li>Provide technical consultation to internal business partners</li><li>Participate in domain architecture governance to identify and design the future state of the global connectivity domain</li><li>Support in the rollout of complex changes</li><li>Support in finding resolutions of high impact incidents</li><li>Responsible for capacity management of the service and review the capacity reports on a monthly basis</li><li>Provide capacity input for the capacity plan towards Capacity Manager</li></ul><p><br></p><p><strong>Skills: </strong></p><p>Working at the cutting edge of tech, you\u2019ll always have new challenges and new problems to solve \u2013 and working together is the only way to do that. You won\u2019t work in a silo. Instead, you\u2019ll be part of a creative, dynamic work environment where you\u2019ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You\u2019ll have the flexibility and trust to choose how best to tackle tasks and solve problems.</p><p><br></p><p>To thrive in this job, you\u2019ll need the following skills:</p><ul><li>Analytical, entrepreneurial, flexible and result oriented are keywords</li><li>Strong communication skills, both verbal and written in Dutch and English</li><li>Excellent leadership, influencing and interpersonal skills</li><li>Excellent team player in the different management layers</li><li>Meet the required standards expected against the leadership capability model</li></ul>",
+                            "updated_at": "2023-03-27T13:28:04.000Z",
+                            "function_requirements_nl": null,
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6714,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679654549000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6713",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Process consultant CRE Capex & Opex",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-24T10:31:56.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32070-Process-consultant-CRE-Capex-and-Opex",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a Process consultant with Capex and Opex knowledge!",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>We are a high-tech company and leading supplier to the semiconductor industry. We manufacture the complex lithography machines that chip manufacturers use to produce integrated circuits or computer chips. What we do is at the heart of all electronic devices that inform, entertain and connect us. More than 40,000 employees develop and manufacture key components for ASML lithography systems at our facilities in the Netherlands.</p><p><br></p><p>It is essential that ASML&#39;s property, plant and equipment, buildings, real estate and services are created and maintained at a consistently high level in order to further develop our (worldwide) facilities and the significant growth targets associated with it. The Corporate Real Estate (CRE) organization is a centralized department which is responsible for CRE activities worldwide, serving a continuously growing number of employees. In order to manage their business processes in a good manner, CRE is highly dependent on reliable data, analytics and application management.</p><p><br></p><p>Support the CRE organization with implementing tooling to support the Capex and Opex related processes and execute these processes in the tooling by providing an unambiguous process description.</p><p><br></p><p><strong>Role and responsibilities: </strong></p><ul><li>Define requirements in alignment with business stakeholders.</li><li>Define the Capex (Capital expenses) and Opex (Operational expenses) registration and planning processes based on the requirements</li><li>Translate the processes to the IT solution.</li><li>Finetune the process definition based on improvements suggestions, IT solution features and/or limitations.</li></ul><p><br></p><p><strong>Education and experience: </strong></p><p>Experience:</p><ul><li>Relevant knowledge of Capex and Opex management.</li><li>Experience with requirements definition.</li><li>Experience with process definition.</li><li>Experience with translation of processes into IT solutions</li><li>Experience with agile way of working.</li></ul><p>Preferred Qualifications:</p><ul><li>Experience with process visualization and/or modeling tools</li></ul>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": "<p><strong>Skills: </strong></p><p>Working at the cutting edge of tech, you\u2019ll always have new challenges and new problems to solve \u2013 and working together is the only way to do that. You won\u2019t work in a silo. Instead, you\u2019ll be part of a creative, dynamic work environment where you\u2019ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You\u2019ll have the flexibility and trust to choose how best to tackle tasks and solve problems.</p><p><br></p><p>To thrive in this job, you\u2019ll need the following skills:</p><ul><li>Analytical, result driven and strong communication skills</li><li>Ability to collaborate effectively with other disciplines.</li><li>Fluent in Dutch &amp; English, verbal and written.</li><li>Eligible to work in Veldhoven, The Netherlands.</li></ul>",
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6713,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 16,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679653916000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6712",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Atlassian Consultant",
+                            "application_deadline": "2023-03-30",
+                            "created_at": "2023-03-24T09:39:43.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32067-Atlassian-Consultant",
+                            "type": "Freelance",
+                            "subtitle_nl": null,
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>Om de kwaliteit van onze werkprocessen zo hoog mogelijk te houden werken de Hansken teams op een agile manier aan uitbreidingen en aanpassingen van het platform. Het ontwikkelen gebeurt momenteel op het Atlassian platform dat in eigen beheer is. Gebruikt worden onder andere de modules JIRA, Confluence, Bitbucket, Bamboo. Er zijn diverse plugins actief. We zoeken een Atlassian consultant die ons kan helpen met verschillende migraties die moeten plaatsvinden. Het gaat hier om 3 verschillende migraties:</p><p>1.\tMigratie van een Atlassian Server omgeving naar een andere Atlassian Server omgeving (volledig)</p><p>2.\tMigratie van Atlassian naar Gitlab (voorbereiding)</p><p>3.\tMigratie van Atlassian Server naar Atlassian DataCenter (voorbereiding)</p>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><ul><li>Je hebt minimaal een HBO opleiding afgerond</li><li>Je hebt hands-on ervaring met de Atlassian suite (m.n. Jira en Confluence)</li><li>Je hebt ervaring met migraties binnen Atlassian</li><li>De consultant moet komen van een erkende Atlassian partner (Platinum/Gold/Silver).</li></ul>",
+                            "client": {
+                                "name": "Nederlands Forensisch Instituut",
+                                "logo": {
+                                    "name": "nfi.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/62629502900f47c78b398efc881ffd7c.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 72,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6712,
+                            "start_date": "2023-04-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 4,
+                            "function_description_en": null,
+                            "company_info_nl": "Het NFI heet voluit Nederlands Forensisch Instituut. Het NFI onderzoekt bewijsstukken in strafzaken. Een strafzaak is een rechtszaak waar een rechter bepaalt of iemand schuldig of onschuldig is aan een misdrijf. Daarvoor gebruikt de rechter onder andere de resultaten van het onderzoek dat het NFI doet.\n\nHet NFI doet veel soorten onderzoek. Daarom zijn die onderzoeken verdeeld in meer dan 30 onderzoeksgebieden: van pathologie (waardoor is iemand overleden?), toxicologie (giftige stoffen), chemisch onderzoek, wapens en munitie, verkeer, milieu, digitale sporen tot onderzoek van drugs en DNA.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Medior"
+                        },
+                        "sort": [
+                            1679650783000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6711",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "IT architect infrastructuur",
+                            "application_deadline": "2023-03-27",
+                            "created_at": "2023-03-24T07:57:29.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32065-IT-architect-infrastructuur",
+                            "type": "Freelance",
+                            "subtitle_nl": "Wij zijn op zoek naar een IT architect infrastructuur met kennis van en ervaring met high level architectuur van complexe data management solutions.",
+                            "function_description_nl": "<p><strong>Opdrachbeschrijving</strong></p><p>Voor een deelproject van het realiseren van een High Level Design van onze Forensisch Domein omgeving zoeken we nog een Architect met kennis van en ervaring van 2 of meer van onderstaande expertisegebieden:</p><ul><li>Storage varianten en producten (zoals: File, Block, Object, Compliance archive, Scale-out NAS, Qumulo, Scality)</li><li>Automation</li><li>Applicatie integratie</li><li>Virtualisatie</li><li>Security</li></ul><p><br></p><p>De belangrijkste werkzaamheden zijn:</p><ul><li>Het mede- ontwikkelen / ontwerpen van IT oplossingen binnen projecten / programma\u2019s of operationele scope</li><li>Uitvoeren van Impact Analyses voor (deel)oplossingen</li><li>Assessen van bestaande oplossingen (identificeren van technische en operationele risico\u2019s)</li><li>Identificeren mogelijkheden om kosten te reduceren in IT Infrastructuren en oplossingen</li><li>Identificeren, uitwerken van Koppelingen / interfaces</li><li>Presenteren voorstel(len) naar stuurgroepen</li><li>Opstellen investeringsvoorstellen</li><li>Link naar Business architectuur</li></ul><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>De werkzaamheden betreffen het tot stand komen van een High Level Design in een team van een 5-tal engineers/architecten/ontwerpers.</p>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><ul><li>Kennis van en ervaring met high level architectuur van complexe data management solutions</li><li>5 jaar wetenschappelijk werk- en denkniveau</li><li>Kennis van en ervaring van 2 of meer van onderstaande expertisegebieden: <ul><li>Storage varianten en producten (zoals: File, Block, Object, Compliance archive, Scale-out NAS, Qumulo, Scality)</li><li>Automation</li><li>Applicatie integratie</li><li>Virtualisatie</li><li>Security</li></ul></li></ul><p><br></p><p><strong>Aanvullende kennis</strong> </p><ul><li>Kennis van en ervaring met Block, Object en Big Data gebaseerde Storage Building Blocks</li><li>Kennis van en ervaring met architectuur oplossingen in een PAAS of IAAS infrastructuur </li><li>Kennis van en ervaring met Continuity</li><li>Kennis van en ervaring met VMware en Microsoft producten (ook voor werkplek infra) </li></ul><p><br></p><p><strong>Overige functiewensen </strong></p><ul><li>WO diploma, zoals WO Informatica of vergelijkbaar </li><li>Digitaal forensische middelen en methoden </li><li>Digitale opsporing en de wet en regelgeving hieromtrent</li></ul><p><br></p><p><strong style=\"color: rgb(68, 68, 68);\">Competenties </strong></p><ul><li><span style=\"color: rgb(68, 68, 68);\">Analytisch denkvermogen en een goed organisatievermogen in complexe IT omgevingen </span></li><li><span style=\"color: rgb(68, 68, 68);\">Goede schriftelijke communicatieve vaardigheden </span></li><li><span style=\"color: rgb(68, 68, 68);\">Werken in grote overheidsorganisaties / Politieke sensitiviteit </span></li><li><span style=\"color: rgb(68, 68, 68);\">Initiatiefrijk en zelfstandig </span></li></ul><p><span style=\"color: rgb(68, 68, 68);\">?</span></p>",
+                            "client": {
+                                "name": "Belastingdienst",
+                                "logo": {
+                                    "name": "Belastingdienst.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/77e4921bf7e949f0bc92f4f8e2bbefaa.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 4,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6711,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 3,
+                            "function_description_en": null,
+                            "company_info_nl": "De IV-organisatie van de Belastingdienst is verantwoordelijk voor en verzorgt de ICT-voorzieningen. Het merendeel van de applicaties wordt op dit moment door de IV-organisatie zelf ontwikkeld, onderhouden en beheerd in het eigen data center. Naast de zorg voor continu\u00efteit op de massale heffing-en inningsprocessen die plaatsvinden binnen een degelijke, stabiele omgeving, wordt er tevens volop gewerkt aan modernisering van het IV-landschap. Dit gebeurt deels intern door gebruik te maken van de expertise die intern aanwezig is, maar ook door het aantrekken van (kant-en-klaar) oplossingen en expertise uit de markt.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Apeldoorn",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679644649000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6710",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Senior SAP UI5 Devloper",
+                            "application_deadline": "2023-03-31",
+                            "created_at": "2023-03-23T15:24:01.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32054-Senior-SAP-UI5-Devloper",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a SAP UI5 developer!",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>Founded in 1984, ASML is the world&#39;s leading provider of lithography systems for the semiconductor industry, manufacturing complex machines that are critical to the production of integrated circuits (\u2018chips\u2019). ASML has its R&amp;D and manufacturing operations in Wilton (USA) and in Veldhoven (The Netherlands).</p><p><br></p><p>The IT division supports information management, infrastructure and key business processes across ASML. The IT infrastructure, hardware and applications are mission-critical for ASML\u2019s internal and external activities.</p><p><br></p><p>We work Agile, using the SAFE framework. One of ASML\u2019s Agile Release Train (ARTs) is Sourcing &amp; Supplier Collaboration ART. Within this ART there is demand to create user-facing solutions used in collaboration with ASML\u2019s main suppliers to manage improvement programs across ASML and its supply base. The UI5 developers work concerns custom applications as well as adaptations to standard software.</p><p><br></p><p>Your goal is to realize front-ends for our business software applications. You work closely together with the UX specialist to ensure that front-ends are built according to the designs, based on the ASML Design System, UI Guidelines and feasible for implementation in the SAP UI5 framework. Furthermore, you will pro-actively share challenges, best-practices with your peer developers of the project and the UX&amp;UI competence teams.</p><p><br></p><p><strong>Role and responsibilities: </strong></p><ul><li>Develop front-ends using the SAP UI5 framework, which will be used to improve the collaboration between ASML and its supply base</li><li>Execute peer reviews of code from your project peers and always have an eye for qualitive coding</li><li>Assist and challenge the UX specialist in creating feasible designs according to the ASML UX patterns and using standard Fiori floorplans</li></ul><p><strong>Education and experience: </strong></p><ul><li>Bachelor\u2019s or Master\u2019s degree in an area such as Software Engineering, or Information Systems.</li><li>SAP Fiori Application Developer certified</li></ul><p>Technical/functional skills:</p><ul><li>SAP UI5</li><li>JavaScript</li><li>CSS</li><li>Fiori</li><li>Fiori UX</li><li>REST &amp; OData</li><li>Agile/Scrum</li><li>Knowledge of SAP backend(s) is a pre.</li><li>Build up knowledge of a complex background rather quickly</li><li>More than 7 years of front-end development experience.</li><li>More than 5 years of SAPUI5 development experience.</li><li>More than 3 year of SAP Fiori experience.</li><li>Good communication skills with a speak-up mindset.</li><li>Familiarity with responsive design.</li><li>Ability to plan work and deliver on agreed goals independently.</li><li>Ability to collaborate effectively with other disciplines.</li><li>Experience in working in an agile environment.</li><li>Ability to work under time pressure and rapidly changing conditions.</li><li>Fluent in English, verbal and written. Knowledge of Dutch is a plus.</li><li>Eligible to work in Veldhoven, The Netherlands.</li></ul><p><br></p>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": null,
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6710,
+                            "start_date": "2023-04-03",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679585041000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6709",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Data engineer",
+                            "application_deadline": "2023-03-30",
+                            "created_at": "2023-03-23T14:11:54.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32047-Data-engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voor de Belastingdienst ben ik op zoek naar een Data Engineer met Ervaring met data analytics tools zoals SAS, coderen in SQl, en ervaring met BI en/of stuurinformatie.",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>Als data-engineer kom je te werken in een nieuw team dat reeds gebouwde producten overgedragen krijgt van andere analytics teams (zie achtergrond opdracht). Belangrijk is om deze producten over te nemen en te kunnen draaien, daarbij in kaart brengend wat de technische schuld en functionele schuld is. Het opzetten van relaties met stakeholders rondom de producten en het opnemen van nieuwe wensen. Belangrijk om daarbij een backlog op te bouwen. Kijken met een innovatieve blik naar het beter, betrouwbaar (robuust) en efficienter inrichten van producten/processen is onderdeel van je werk. Jij neemt verder een voortrekkersrol in het modulair opdelen van reeds bestaande producten en werkt hiermee samen met andere data-engineers binnen andere teams. Het mede vormgeven van de team standaarden en werkwijze wordt ook van je verwacht (denk hierbij aan Scrum artifacten zoals DoR, DoD, code standaarden, enz.). Je werkt op het SAS platform met (teradata) SQL. We werken hybride, waarvan we de maandag en donderdag op kantoor worden verwacht. </p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Binnen Data Analytics Toeslagen lopen enkele workarounds; ontstaan door bijvoorbeeld het capaciteitstekort vanuit het IV-portfolio. Deze workarounds zijn grotendeels van Toeslagen\u2019s primaire processen. Na inventarisatie blijkt circa 50% van het analytics opdrachtenportfolio een dergelijke oorsprong te hebben. Dit zogenaamde gegevenswerk dat via het technische dataplatform kan lopen heeft een andere aard dan zuivere analyticswerkzaamheden. Zo zijn partijen als input- en output-controle betrokken en veelal wordt er vanuit een keten gewerkt. De data analytics teams nieuwe team zijn wij intern personeel aan het werven. Echter, om het team goed op te zetten en de juiste waarborgen te implementeren in de werkprocessen willen we graag gebruik maken van externe inhuur. We denken aan drie senior profielen die kennis hebben van zowel analytics als IT-beheer. Specifiek willen we expertise op CI/CD, zodat we kunnen inzetten op modulair ontwikkelen waarbij er gestructureerd getest kan worden zodat de kans op damages zo klein mogelijk is.</p>",
+                            "updated_at": "2023-03-27T13:28:05.000Z",
+                            "function_requirements_nl": "<p><strong>Functie eisen</strong></p><ul><li>SAS, SQL (teradata), versiebeheer (GIT), CI/CD, pair programming, testen, scheduling </li><li>DMBOK </li><li>Wo-diploma </li><li>Ervaring met data analytics processen 4 jaar</li><li>Ervaring met data analytics tools zoals SAS, coderen in SQl, en ervaring met BI en/of stuurinformatie 2 jaar</li></ul><p><br></p><p><strong>Competenties </strong></p><p>Analytisch, Klantgericht, organisatiesensitiviteit, plannen en organiseren en samenwerken </p>",
+                            "client": {
+                                "name": "Belastingdienst",
+                                "logo": {
+                                    "name": "Belastingdienst.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/77e4921bf7e949f0bc92f4f8e2bbefaa.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 4,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6709,
+                            "start_date": "2023-04-03",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 9,
+                            "function_description_en": null,
+                            "company_info_nl": "De IV-organisatie van de Belastingdienst is verantwoordelijk voor en verzorgt de ICT-voorzieningen. Het merendeel van de applicaties wordt op dit moment door de IV-organisatie zelf ontwikkeld, onderhouden en beheerd in het eigen data center. Naast de zorg voor continu\u00efteit op de massale heffing-en inningsprocessen die plaatsvinden binnen een degelijke, stabiele omgeving, wordt er tevens volop gewerkt aan modernisering van het IV-landschap. Dit gebeurt deels intern door gebruik te maken van de expertise die intern aanwezig is, maar ook door het aantrekken van (kant-en-klaar) oplossingen en expertise uit de markt.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Utrecht",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679580714000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6706",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "SAP Hana Cloud architect",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-23T10:37:27.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32039-SAP-Hana-Cloud-architect",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a SAP Hana Cloud solution architect.",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>Innovation is ASML\u2019s core business! Our machines are extremely innovative but also within the IT organization we want to work on and with the latest technologies. Do you have affinity with the newest technologies, Cloud and data engineering? The IT Big Data Analytics group are currently expanding and we are searching for a talented Solution Architect to join our team.\u00a0</p><p><br></p><p>ASML leads the worldwide development, production and sales of high-end lithography systems for the semiconductor industry. In short, we make the machines that make computer chips, or integrated circuits. We build some of the most amazing, complex machines that you will ever see \u2013 and the software to run them \u2013 to develop smaller, faster and still more affordable chips. It is because of our machines that the world\u2019s technology has steadily evolved.</p><p><br></p><p>ASML IT develops and delivers automated and digital services that are absolutely mission critical for ASML\u2019s internal and external activities. These services support information management, infrastructure, automation and optimization of key business processes across ASML.</p><p><br></p><p>The goal of the IT organization is to continuously improve our business capabilities while at the same time delivering a 24x7 global IT landscape. We accelerate the rollout of state-of-the-art technology into business-enabling services, with business and IT colleagues working closely together. This improves efficiency of business and allows us to explore cutting edge technology that helps transform the business to effectively meet (near) future business needs. We see exciting new opportunities for IT to support ASML\u2019s growth ambition. You build it, you own it!</p><p><br></p><p><strong>Role and responsibilities: </strong></p><p>As a Hana Cloud Solution Architect you act independently towards your business stakeholders and IT teams for the business process data demand. One part of your job consists out of managing your stakeholders by aligning on architectural challenges and choices. Through collaboration with other Solution Architects (via the architecture competence) you ensure the consistency in the overall big-data landscape.</p><p>The other part consists out of the guidance and development of our central Data Lake with the focus on ERP data. </p><p><br></p><p>Among your responsibilities is counted that you will define our multi tech. architectures to solve complex business problems within our ERP data domain using the technologies below:</p><ul><li>Data analytics;</li><li>Text mining;</li><li>Data discovery;</li><li>Process mining;</li><li>Machine learning;</li><li>Predictive data science.\u00a0</li></ul><p>Guiding our teams will lead to the (further) implementation of a joint, intentional architecture for all agile teams in our domain. Great addition, is that we\u2019re moving into a non-hierarchical organization. Occasionally getting your hands dirty by design and code prototyping is definitely appreciated!</p><p><br></p><p>This role is situated in the Big Data Analytics Domain. Our people are proud to be best in class in translating business challenges into data &amp; analytics solutions, and are organized in approx. 20 DevOps teams. Teams are a mixture of young talent and senior specialists with a strong focus on delivering business value for our stakeholders.</p><p><br></p><p><strong>Education and experience: </strong></p><p>Apart from the technical expertise that you bring we are looking for strong Agile believers and evangelists. Working in our changing Agile (SAFe) environment, it is expected that you\u2019re naturally able to take a servant leadership role in the train, are a systematical thinker and are a strong decision maker. Collaboration is key within ASML, in an architecture position it is of utter importance that you are very well able to shift your attention into the different layers within ASML: the DevOps teams, the ART leadership, your business stakeholders and your peers.</p><p><br></p><p>You will be challenged to think ahead, draw up roadmaps for our (near) future plans and are able to share &amp; present your vision with both your IT- and Business stakeholders. This continuous alignment between the technological advancement in the market, ASML\u2019s vision andlong term business goals is essential to be successful in this role.</p><p>Technically speaking we are looking for a proven architect in the data analytics domains, mostly working with SAP HANA 2.0 and HANA Cloud. Being a master with big data ETL on enterprise level and being able to design scalable architectures is going to be key for this position.</p><p><br></p><p>Some of the services you will be enabling:</p><ul><li>Translytics Services (multi workload platform, Realtime integration of transactional and analytical apps and capabilities in single platform);</li><li>Analytical Data management services (Common Data models, data repository, governance, data lineage, security etc.);</li><li>Datawarehouse services.</li></ul><p>You are in the possession of a MSc. degree in Information Technology, Data Science or equivalent and preferably are Agile or SAFe certified.\u00a0</p><p><br></p><p><br></p>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": null,
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6706,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679567847000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6705",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "SAP Platform Engineer",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-23T10:37:25.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32038-SAP-Platform-Engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "ASML is looking for a Senior SAP Expert!",
+                            "function_description_nl": "<p><strong>Introduction to the job: </strong></p><p>ASML leads the worldwide development, production and sales of high-end lithography systems for the semiconductor industry. In short, we make the machines that make computer chips, or integrated circuits. We build some of the most amazing, complex machines that you will ever see \u2013 and the software to run them \u2013 to develop smaller, faster and still more affordable chips. It is because of our machines that the world\u2019s technology has steadily evolved.</p><p><br></p><p>During the Agile transformation the ASML IT organization was moved into Business Facing ART\u2019s and Platform ART\u2019s. During this transformation the role of the Platform Engineer landed within the SAP Platform ART.</p><p><br></p><p>To ensure a robust, reliable and available technical application landscape, based upon technology components as listed in the ASML catalog. Assuring the serviceability and maintainability of the owned system landscape, and shaping the processes to support those objectives.</p><p><br></p><p>The SAP Platform Engineer (PE) is a key-role in the IT application organization and acts on mainly tactical as well strategical level. The SAP Platform Engineer owns the technical application landscape and drives the optimization and standardization by designing the landscape, using ASML\u2019s infrastructure building blocks and adhering to ASML\u2019s security policies. The SAP Platform Engineer works closely with internal and external service providers and business Facing ART\u2019s to realize these goals and achieving operational excellence. This also includes ensuring that the infrastructural roadmap is developed in a sustainable and integral manner.</p><p><br></p><p><strong>Role and responsibilities: </strong></p><ul><li>Requirements and Design.</li><li>Identify and define technical application requirements and it\u2019s ecosystem(s), including.</li><li>Fit for operations and serviceability.</li><li>Act as the linking pin between service providers and the Agile IT ART\u2019s / Business Facing ART\u2019s and advice in delivering projects and changes.</li><li>Act as a feature owner within the SAP Platform ART.</li><li>Draft, review and own high level technical design documents with optimal use of standard technology (catalog) components.</li><li>Design application integrations/interfaces and identify data streams (e.g. firewall rules).</li><li>Ensure secure access to environments (end users and application management).</li></ul><p><br></p><p>Delivery:</p><ul><li>Engage with external infrastructure service providers and internal infrastructure providers as well cloud experts.</li><li>Ordering of (new/changed) infrastructure services and standard technology components through standard catalog.</li></ul><p><br></p><p>Maintain and Control:</p><ul><li>Define and supervise technical application life-cycle roadmap and plan.</li><li>Architectural mapping of application components during application life cycle to infrastructure.</li><li>Optimizing life-cycles of individual applications and infrastructure components (whilst minimizing business impact).</li><li>Control the technical application landscape by supervising (operations done by Service Providers or DevOps Teams); The installation, upgrade and maintenance of applications and its infrastructure.</li><li>Monitoring (end to end) and reporting (technical) of application performance, availability and capacity.</li><li>Problem management.</li><li>Application landscape security level (patching, security groups, firewall rules, SW security/vulnerabilities, hotfixes, etc).</li><li>Participate as 3rd level subject matter expert to identify and solve (high prio) incidents on application landscape (cross team) and advice on actions to be taken.</li></ul><p><br></p><p>Improvement:.</p><ul><li>Measure and improve the process maturity for (technical) application support</li><li>Work closely with service providers and architects on designs of new technologies and capabilities, with focus on simplicity.</li><li>Detect critical deficiencies and recommend solutions for improvement.</li><li>Measure and improve the process maturity of (technical) application support for the internal as well Service Provider organization.</li></ul><p><br></p><p>Quality, Risk &amp; Compliance:</p><ul><li>Security mindset - DevSecOps.</li><li>Manage delivery of application landscape components according to agreed specifications and quality criteria.</li><li>Ensure and prove proper disaster recovery configuration, including IT Continuity test (ensuring end-to-end application back-up consistency).</li></ul>",
+                            "updated_at": "2023-03-27T13:28:05.000Z",
+                            "function_requirements_nl": "<p><strong>Education and experience: </strong></p><p>Education:</p><ul><li>Bachelor/Master - preferably in Computer Science\u00a0</li></ul><p><br></p><p>Experience:</p><ul><li>Senior Technical SAP expertise having broad experience with SAP solutions:</li><li>ERP+: focus on ECC, with extensive technical SAP basis experience including SAP ABAP and Java systems SAP HANA: SAP HANA TDI Infrastructure and certifications; including deployments on Hyper scalers (Microsoft Azure to be specific)</li><li>Experience with modern data transformation tools like SLT, SDI etc.</li><li>Experience with Multi-Cloud SAP architecture and deployment in a complex SAP landscape:</li><li>On-premise deployments</li><li>SAP Cloud/SaaS (e.g. HANA Cloud)</li><li>SAP solution deployments on cloud-based datacenters (Microsoft Azure)</li></ul><p><br></p><p><strong>Skills: </strong></p><p>Working at the cutting edge of tech, you\u2019ll always have new challenges and new problems to solve \u2013 and working together is the only way to do that. You won\u2019t work in a silo. Instead, you\u2019ll be part of a creative, dynamic work environment where you\u2019ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You\u2019ll have the flexibility and trust to choose how best to tackle tasks and solve problems.</p><p><br></p><p>To thrive in this job, you\u2019ll need the following skills:</p><ul><li>Strategic thinking.</li><li>Creative and Innovative.</li><li>Excellent communication skills.</li><li>Proficiency in the English language.</li><li>Shows initiative.</li><li>Problem-solving attitude.</li><li>Result driven.</li><li>Takes ownership.</li><li>Stays focused, maintains personal effectiveness.</li><li>Customer focus and customer facing skills.</li><li>Agile mindset.</li><li>Planning and organizing.</li><li>Satisfaction/performance/quality levels of the systems or services delivered.</li><li>Compliance with applicable IT and security policies.</li><li>Compliance with LCM and architectural guidelines.</li><li>Availability and performance of agreed operational services.</li><li>Availability of operational reports and follow up/action list.</li><li>Level of Contribution/ownership of measured and improved process.</li><li>Up-to-date operational standards and procedures.</li><li>Client satisfaction.</li><li>Level of majority activities (operational, tactical, strategic).</li><li>(Visible) implementation of structural improvements.</li><li>Level of communication with (senior) stakeholders.</li><li>Skills in Agile way of working.</li></ul>",
+                            "client": {
+                                "name": "ASML",
+                                "logo": {
+                                    "name": "asml.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/7e6ca0cb32d046c7bccbd0f3015687ca.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 25,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6705,
+                            "start_date": "2023-04-03",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Veldhoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679567845000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6704",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Adviseur data-gedreven assetmanagement",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-23T09:22:19.000Z",
+                            "language": "NL",
+                            "slug_nl": "J31994-Adviseur-data-gedreven-assetmanagement",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voer hier uw subtitle in",
+                            "function_description_nl": "<p><strong>Opdrachtbeschrijving</strong></p><p>Als adviseur data-gedreven assetmanagement inventariseer en analyseer je de tactische en operationele assetmanagementprocessen in de keten en adviseert procesoptimalisaties, bijbehorende rollen en informatiebehoefte om tot meer datagedreven werken te komen. Je evalueert en valideert de geleverde procesoptimalisaties en producten in de informatievoorziening. Je levert een belangrijke bijdrage aan de uniformering van geboden oplossingen. Je werkt in \u00e9\u00e9n of meerdere regionale implementatieteams voor data-gedreven assetmanagement en vormt een belangrijke schakel naar het landelijke programma Data-gedreven Assetmanagement.</p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Door maatschappelijke en klimatologische veranderingen en veroudering wordt de druk op onze infrastructurele objecten steeds groter. Dit vraagt steeds meer van de Rijkswaterstaat als beherende organisatie. Om aan onze opgave te kunnen blijven voldoen, moeten we slimmer en effici\u00ebnter gaan werken. Data uit b.v. sensoren op de objecten kan helpen bij in het tactisch en operationeel assetmanagement. Na jarenlange leerervaringen met het gebruik en toepassing van sensordata, voert het landelijke programma Data-gedreven Assetmanagement nu zes implementaties uit op sluizen, gemalen, tunnels en beweegbare bruggen.</p>",
+                            "updated_at": "2023-03-27T13:27:57.000Z",
+                            "function_requirements_nl": "<p><strong>Functie eisen</strong></p><ul><li>Technisch of technisch bedrijfskundig hbo- of wo-diploma of vergelijkbaar </li><li>Enkele jaren ervaring in het assetmanagement</li><li>Kennis en enige ervaring met toepassen van data-technologie;</li><li>Je hebt een proactieve houding</li><li>Je bent analytisch ingesteld, praktisch en creatief, hebt een helikopterview en een verbinder</li><li>Affiniteit met lifecycle management en kwaliteitsmanagement </li></ul>",
+                            "client": {
+                                "name": "Rijkswaterstaat",
+                                "logo": {
+                                    "name": "rijkswaterstaat.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/f89dd865065141ff84dbd02be20929c3.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 7,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6704,
+                            "start_date": "2023-04-18",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 32,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Delft",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679563339000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6703",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "RPA Ontwikkelaar",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-23T08:56:50.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32035-RPA-Ontwikkelaar",
+                            "type": "Freelance",
+                            "subtitle_nl": "Op zoek naar een RPA Ontwikkelaar!",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving:</strong></p><p><br></p><p>De IND heeft een succesvol experiment uitgevoerd met RPA en gaat dit in de aankomende fase binnen de organisatie implementeren. In deze fase is er behoefte aan een senior adviseur en Advanced UiPath developer die de organisatie kan ondersteunen bij: </p><p><br></p><p>1) Het realiseren van een productiewaardige UiPath IT omgeving </p><p>2) Het implementeren van UiPath oplossingen </p><p>3) Het uitwerken en implementeren van de benodigde governance. </p><p><br></p><p>Deze senior adviseur moet kennis hebben van o.a. RPA governance, UiPath en INDiGO. Tevens moet deze adviseur eerdere ervaring hebben met een soortgelijk traject binnen de Rijksoverheid en hebben samengewerkt met een ICT-organisatie zoals JIO of SSC ICT. Eventueel moet de kandidaat ook in staat zijn om andere developers te coachen en ondersteunen in het bouwen en onderhouden van RPA implementaties d.m.v. UiPath.</p>",
+                            "updated_at": "2023-03-27T13:28:06.000Z",
+                            "function_requirements_nl": "<p><strong>Eisen:</strong></p><p><br></p><ul><li>Kanididaat heeft aantoonbare ervaring met ontwikkelen in UiPath\u00a0</li><li>Kandidaat heeft aantoonbare ervaring met proces selectie ten behoeve van RPA\u00a0</li><li>Kandidaat heeft aantoonbare ervaring met ICT binnen de Rijksoverheid\u00a0</li></ul>",
+                            "client": {
+                                "name": "IND",
+                                "logo": {
+                                    "name": "JV_IND_Logo_online_ex_pos_nl.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/5b901d3b033542b6a2f3e11c8fd87eac.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 112,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6703,
+                            "start_date": "2023-04-10",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": "Bedrijfsinformatie:\nVan vluchtelingen die niet veilig zijn in eigen land tot specialistische kenniswerkers: de IND beoordeelt alle verzoeken van mensen die in Nederland verblijf willen aanvragen of die Nederlander willen worden. Dat doen we zorgvuldig, want ons werk doet ertoe.\n\nDe Immigratie- en Naturalisatiedienst (IND) voert het vreemdelingenbeleid in Nederland uit. Dat betekent dat de IND alle verblijfsaanvragen beoordeelt van mensen die in Nederland willen wonen of die graag Nederlander willen worden. Het kan daarbij gaan om vluchtelingen die niet veilig zijn in eigen land en die daarom hier asiel aanvragen. Maar ook om mensen die hier willen werken, studeren, of een gezin willen vormen met iemand die hier al woont. Daarnaast behandelt de IND naturalisatieverzoeken van mensen die hier al zo lang wonen dat zij zich Nederlander voelen en daarom een Nederlands paspoort willen aanvragen. Bij de IND toetsen we elke aanvraag afzonderlijk aan de regels van het vreemdelingenbeleid. Dat betekent dat men goed moet luisteren naar het verhaal van elke aanvrager zodat elke beslissing die de IND neemt, recht doet aan ieders persoonlijke situatie.   \n\nDe IND is als uitvoeringsorganisatie onderdeel van het Ministerie van Justitie en Veiligheid. Staatssecretaris van Justitie en Veiligheid A. Broekers-Knol is als bewindspersoon verantwoordelijk voor het werk van de IND. De IND heeft geen invloed op het vreemdelingenbeleid, dat komt via de Tweede en Eerste Kamer tot stand. Daarnaast vloeien er regels voort uit (internationale) verdragen.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679561810000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6702",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Project documentatie specialist",
+                            "application_deadline": "2023-04-04",
+                            "created_at": "2023-03-23T08:40:24.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32034-Project-documentatie-specialist",
+                            "type": "Freelance",
+                            "subtitle_nl": "Op zoek naar een Project documentatie specialist!",
+                            "function_description_nl": "<p><strong>Opdracht:</strong></p><p><br></p><p>De ontwikkelteams bouwen op dit moment aan een verschillende applicaties. De ontwikkeling van deze applicaties verloopt snel, is dynamisch en is van groot maatschappelijk belang. Voor de projecten wordt alle technische documentatie gepubliceerd in Confluence. Binnen de teams is er behoefte aan een documentatie specialist die zorg kan dragen voor het opstellen en actueel houden van alle technische en procesdocumentatie van de applicaties. </p><p><br></p><p><strong>Gewenste profiel:</strong></p><p><br></p><p><strong><span class=\"ql-cursor\">?</span></strong>Je bent onderdeel van een technisch ontwikkelteam in een bestuurlijke context. Met andere woorden: je hebt voldoende kennis van softwareontwikkeling, snapt hoe je dit in een begrijpelijke taal kunt documenteren en communiceren. Hierbij het gaat het dus om zowel technische documentatie van de applicaties en de releases, maar ook over procesdocumentatie voor de projecten. Je bent dus een volwaardig aanspreekpartner voor de softwareontwikkelaars, kent de ontwikkel- en documentatietools zoals bijvoorbeeld Confluence, git en asciidoctor en voelt je op je gemak in een open source omgeving. Dankzij jouw communicatieve vaardigheden weet jij een boodschap helder en duidelijk over te brengen. Verder denk je in oplossingen en niet in onmogelijkheden, handel je met overtuigingskracht en ben je standvastig.</p>",
+                            "updated_at": "2023-03-27T13:28:05.000Z",
+                            "function_requirements_nl": "<p><strong>Functie eisen:</strong></p><p><br></p><ul><li>Kandidaat heeft een HBO / WO werk- en denkniveau en bij voorkeur een opleiding in relevante richting; </li><li>Kandidaat heeft ervaring met technische documentatie en complexe vraagstukken schriftelijk inzichtelijke en begrijpelijk te maken; </li><li>Kandidaat heeft aantoonbare ervaring met adviesopdrachten binnen een politiek bestuurlijke context en documentatie trajecten van digitale oplossingen.</li></ul><p><strong>Functie-wensen: </strong></p><p><br></p><ul><li>Ervaring met het onderzoeken en documenteren van IT gerelateerde beleidsanalyses en duidingsrapportages bij voorkeur binnen de Rijksoverheid op een kerndepartement </li><li>Kennis van toepassing van informatiebeveiliging, software documentatie en compliance bij voorkeur binnen de Rijksoverheid;</li><li>Mate waarin de kandidaat beschikt ervaring met technisch documentatietools bijvoorbeeld Confluence, git en asciidoctor (technische documentatie); </li><li>Multidisciplinair, in staat om de verbinding te zijn tussen IT en management; </li><li>Ervaring met het werken in dynamische complexe omgevingen en documenteren van met IT-risico trajecten; </li><li>Je beschikt over relevante, aantoonbare ervaring in een vergelijkbare rol binnen of voor een overheidsorganisatie.</li></ul>",
+                            "client": {
+                                "name": "Ministerie van Volksgezondheid, Welzijn en Sport",
+                                "logo": {
+                                    "name": "ministerie-vws.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/05d05f6517154e7cb74aa542d344ec7b.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 2,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6702,
+                            "start_date": "2023-02-20",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679560824000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6701",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Cloud Engineer",
+                            "application_deadline": "2023-03-30",
+                            "created_at": "2023-03-23T08:40:09.000Z",
+                            "language": "NL",
+                            "slug_nl": "J31946-Cloud-Engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voer hier uw subtitle in",
+                            "function_description_nl": "<p><strong>Opdrachtbeschrijving</strong></p><p>Samen met het agile team bouw en verbeter je ons AWS Cloud platform, dat ruim drie jaar draait. Verder ben je bezig met usermanagement, security, architectuurverbeteringen en troubleshooting. Hierbij formuleer je best practices en standaarden voor het slim beheren van het cloud platform. Je hebt steeds de uitdaging hoe zaken sneller en beter geregeld kunnen worden. Voor jou betekent dit dat je met allerlei verschillende zaken bezig bent in een week samen met je collega&#39;s in het cloud platform team. Je bent zowel met het automatiseren van de cloud via Infrastructuur als Code (IaC), als op maat gemaakte automatisering bezig. Hierbij gaat het vaak om applicaties die 24/7 moeten blijven werken, want het KNMI doet 24/7 klimaat waarnemingen boven land en zee, aardbevingswaarnemingen en radar-, en satellietwaarnemingen. </p><p><br></p><p>Onze huidige techstack: ELK stack, Lambda, ECS, Fargate, EFS, AWS Batch, Cloudwatch, S3, CloudFormation, AWS parallel cluster en AWS API Gateway. Voor CI/CD gebruiken we Gitlab, we bouwen in Docker, hebben Python om te programmeren, allemaal op basis van de AWS architectuur. </p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Het KNMI is d\u00e9 autoriteit en d\u00e9 organisatie in Nederland voor data over weer, atmosfeer, klimaat en seismologie. Het KNMI is een laagdrempelig knooppunt voor geofysische informatie over Nederland en de wereld. Dit betreft niet alleen de internationaal gedeelde meteogegevens, maar ook modellen, satelliet data en de daarop gebaseerde adviesdiensten en inzichten. KNMI stelt haar distributiekanalen beschikbaar voor het ontsluiten van data door andere (overheids-) organisaties. Het verwerken en onderzoeken van grote hoeveelheden data, zowel uit eigen als uit externe bronnen, maakt onlosmakelijk deel uit van de uitvoering van de wettelijke taak en de dienstverlening van het instituut.</p>",
+                            "updated_at": "2023-03-27T13:27:57.000Z",
+                            "function_requirements_nl": "<p><strong>Functie eisen</strong></p><ul><li>Aantoonbare ervaring met het werken als Cloud Engineer </li><li>Aantoonbare ervaring met Python </li><li>AWS Certified Solutions Architect Associate en/of AWS Certified Developer Associate en/of AWS Service DesignCertified SysOps Administrator Associate </li><li>Aantoonbare ervaring met onze tech stack </li><li>Kennis van AWS, test Automation / CI-CD / Gitlab </li><li>AWS en Containeren&#39;: ECS, Docker, etc. </li><li>CI/CD Tools: Jenkins, Bamboo, TeamCity, Gitlab CI, etc. </li><li>Monitoring Tools: Elastic Search, Logstash, Kibana, Grafana, Elastic Beats</li><li>Scripting: Python, Shell, etc. </li><li>Je hebt ervaring met scrum / agile werken </li></ul>",
+                            "client": {
+                                "name": "KNMI",
+                                "logo": {
+                                    "name": "logo_large-a9be0e49aed0aa1f72a7da54d348d14ce94d070e7950f67dbc85039f0574ca48.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/logo_large_a9be0e49aed0aa1f72a7da54d348d14ce94d070e7950f67dbc85039f0574ca48_0d65d9afc5.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 137,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6701,
+                            "start_date": "2023-04-17",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 9,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "De Bilt",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679560809000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6700",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Cloud Engineer",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-22T16:44:42.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32026-Cloud-Engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "Voor NCSC ben ik op zoek naar een Cloud Engineer met minimaal 2 jaar ervaring met Infrastructure-as-Code concepten en verwante talen zoals Terraform",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong></p><p>De werkzaamheden bestaan uit een combinatie van technische activiteiten om de SecureNed infrastructure en deployments te onderhoude en het ondersteunen bij de ontwikkeling van gemeenschappelijke visie en infrastructuur componenten icm andere teams. </p><p>Het gaat hierbij meer concreet om in ieder geval de volgende werkzaamheden: </p><p>\u2022 Het ontwikkelen en onderhouden van on-premise en/of cloud based infrastructuur voor SecureNed. </p><p>\u2022 Het aanleggen van continuous integration en continuous deployment pipelines ten behoeve van automatisering en kwaliteitsgaranties. </p><p>\u2022 Interne processen en techniek doorontwikkelen in combinatie met engineers uit andere teams om gedeelde NCSC techniek up to date te houden </p><p>\u2022 Kennisdeling en communicatie op het gebied van infrastructuur, zowel binnen als buiten NCSC (met o.a. SecureNed MPC partners).\u00a0</p><p><br></p><p><strong>Achtergrond opdracht</strong></p><p>Het afgelopen jaar is het NCSC begonnen met een pilot van een op Multi-Party Computation gebaseerd platform, SecureNed, dat ten doel heeft om een veilige, en waar nodig, anonieme gegevensuitwisseling tussen diverse stakeholders in het cyber security domein mogelijk te maken. Na een pilotfase is het NCSC nu bezig om het platform breder uit te rollen (onder meer partijen) en de functionaliteit verder uit te bouwen. </p><p><br></p><p>Daarnaast vormt SecureNed een belangrijke basis voor een nieuw op te starten programma gericht op meer samenwerking en informatiedeling binnen Nederland. Voor de doorontwikkeling en uitrol van SecureNed is de verbinding aan dit programma gevraagd.\u00a0</p>",
+                            "updated_at": "2023-03-27T13:28:09.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><ul><li>De kandidaat heeft minimaal een afgeronde HBO/Bachelor opleiding in (technische) informatica, computer science of vergelijkbaar.\u00a0</li><li>De kandiaat heeft minimaal 2 jaar ervaring met Infrastructure-as-Code concepten en verwante talen zoals Terraform.</li><li>De kandiaat heeft minimaal 2 jaar ervaring in het werken met container technieken als Docker.\u00a0</li><li>De kandidaat heeft minimaal 2 jaar opzetten van container runtime infrastructure zoals Kubernetes.</li><li>De kandidaat heeft minimaal 2 jaar ervaring met public cloud diensten zoals Azure.</li><li>De kandidaat heeft minimaal 2 jaar ervaring met configureren van netwerk connectiviteit tussen on-prem en cloud omgevingen.\u00a0</li><li>De kandidaat heeft minimaal 2 jaar ervaring met GitOps principes en automatisering van software deployments via CI/CD.</li></ul><p><br></p>",
+                            "client": {
+                                "name": "Nationaal Cyber Security Centrum",
+                                "logo": {
+                                    "name": "logo-ncsc.5aee61aa.svg",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/logo_ncsc_5aee61aa_7dbd5ac069.svg",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 135,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6700,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Medior"
+                        },
+                        "sort": [
+                            1679503482000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6699",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Domeinarchitect Digitale Werkomgeving",
+                            "application_deadline": "2023-04-05",
+                            "created_at": "2023-03-22T16:21:14.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32020-Domeinarchitect-Digitale-Werkomgeving",
+                            "type": "Freelance",
+                            "subtitle_nl": "Wij zijn op zoek naar een Domeinarchitect Digitale Werkomgeving voor het opstellen van de werkplek architectuur voor de diverse werkplek diensten.",
+                            "function_description_nl": "<p><strong>Domeinarchitect Digitale Werkomgeving:</strong> Ben jij een ervaren domein Architect? Lijkt het je leuk om in een grote organisatie met maatschappelijke doelen te werken? Dan is deze functie echt iets voor jou!</p><p><br></p><p><strong>Waar ga je werken?:</strong> Je komt te werken binnen de stafeenheid Generieke ICT Voorzieningen (GIV). GIV heeft als doel een door geautomatiseerd, modern en hybride landschap te ontwikkelen en te beheren ten behoeve van het RIVM en overige klanten. In totaal bestaat de stafeenheid GIV uit vijf afdelingen: Digitale Werkomgeving Organisatie, Digitale Werkomgeving Gebouw en Persoon, Basis Infra Hosting, Basis Infra Netwerk en Basis Infra Platform. De afdelingen van GIV kenmerken zich door grote betrokkenheid en kundigheid op de inhoudelijke vakgebieden. Mede vanuit een programma rondom Digitale Transformatie komen er de komende jaren verschillende ontwikkelingen op deze afdelingen af, door het toepassen van Cloud technieken, de daarbij behorende cultuurverandering en kennisopbouw en het uitvoeren van grote LCM trajecten op onze huidige Data Center inrichting. Iedere afdeling kent een domeinarchitect die met elkaar samenwerken aan een integrale roadmap voor generieke ICT voorzieningen.</p><p><br></p><p>Het domein Digitale Werkomgeving is verantwoordelijk voor het beschikbaar stellen van een fysieke en virtuele werkplek en het bieden van tweedelijns ondersteuning op werkplekken, kantoorautomatisering, pand- en persoonsgebonden devices, diverse applicaties en systemen. De afdelingen Digitale Werkomgeving Organisatie en Digitale Werkomgeving Gebouw- en Persoonsgebonden ICT tellen beide 25 medewerkers en kennen een informele cultuur met aandacht voor medewerkers en hun persoonlijke ontwikkeling.</p><p><br></p><p><strong>Opdracht:</strong> Focus is het professionaliseren en doorontwikkelen van de werkplekdienstverlening. Een onderdeel daarvan is het beschrijven van de architectuur van de werkplek diensten waarvoor inmiddels al een eerste aanzet beschikbaar is.</p><p><br></p><p><strong>Taken/werkzaamheden:</strong></p><ul><li>Adviseren van het afdelingshoofd/Service Owner ten aanzien van de inrichting van de werkplekken/-diensten;</li><li>Opstellen en onderhouden van de werkplekarchitectuur en roadmaps;</li><li>Toetsing van functionele en technische ontwerpen;</li><li>Ondersteuning van de werkplekspecialisten bij het technisch ontwerp en de inrichting van de omgevingen bij de implementatie van de aangenomen adviezen;</li><li>Uitvoeren van architectuurwerkzaamheden binnen werkplek projecten;</li><li>Afstemmen van domeinarchitectuur met stakeholders zoals Architectuur community, Informatiemanagement en gebruikersvertegenwoordigers van het RIVM en externe klanten;</li><li>Toetsen van artefacten binnen en buiten de organisatie;</li><li>Bijdragen aan het onder architectuur laten werken van het domein.</li></ul>",
+                            "updated_at": "2023-03-27T13:28:09.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Functie eisen</strong></p><p><em style=\"color: black;\">Algemeen:</em></p><p><span style=\"color: black;\">Aantoonbare kennis van en ervaring met:</span></p><ul><li>Adviseren van het afdelingshoofd ten aanzien van de inrichting van de DWO diensten;</li><li>Opstellen en onderhouden van de werkplekarchitectuur en roadmaps;</li><li>Toetsing van functionele en technische ontwerpen;</li><li>Ondersteuning van de werkplekspecialisten bij de inrichting van de SSC Campus omgeving bij de implementatie van de aangenomen adviezen;</li><li>Uitvoeren van architectuurwerkzaamheden (PSA\u2019s/HLD\u2019s/etc.) binnen werkplek projecten;</li><li>Afstemmen van domeinarchitectuur met stakeholders van het RIVM en externe klanten;</li><li>Toetsen van artefacten binnen en buiten de organisatie.</li></ul><p><br></p><p><em>Vereisten profiel:</em></p><ul><li>Minimaal een HBO opleiding Informatiekunde en Informatietechnologie of hoger/gelijkwaardig succesvol afgerond</li></ul><p><br></p><p><em>Kennis van en ervaring met:</em></p><ul><li><strong>Citrix Workspace Suite</strong> (Citrix Virtual Apps and Desktops, Unified Endpoint Management);</li><li><strong>Microsoft 365 / Modern Workplace</strong> (Office 365, MS Teams, Sharepoint, OneDrive, Intune, Windows 10);</li><li>Hyper converged infrastructure (Nutanix);</li><li>OS- en applicatiedistributie (Microsoft SSCM (recente versie));</li><li>Monitoring van systemen (Systrack);</li><li>Applicatiepackaging (App-V / MSI);</li><li>Linux werkplekken (Redhat / Fedora);</li><li>Workspace management (Ivanti Appsense);</li><li>Vaste- en mobiele telefonie;</li><li>TOGAF gecertificeerd - level 1 en (pr\u00e9) 2;</li><li>Kantoorautomatisering/kantoorwerkplekinrichting;</li><li>Ervaring met multi-tenancy IT omgevingen van 3000+ gebruikers;</li><li>Kennis van en ervaring met modelleren in Archimate en (pr\u00e9) bent gecertificeerd,</li></ul><p><br></p><p><em>Overige kennisvereisten:</em></p><ul><li>Kennis op het gebied van informatiebeveiliging (BIR, BIO)</li><li>Kennis op het gebied van privacywetgeving (AVG)</li><li>Kennis op het gebied van IDWOR richtlijnen</li></ul><p><br></p>",
+                            "client": {
+                                "name": "RIVM",
+                                "logo": {
+                                    "name": "RIVM.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/f5304c16996a44739f888cf5d356297a.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 15,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6699,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 12,
+                            "function_description_en": null,
+                            "company_info_nl": "Het RIVM verricht toegepast wetenschappelijk onderzoek op het terrein van de volksgezondheid en het mileu/leefomgeving. Rijksvaccinatieprogramma, modelleren van het onstaan en de verspreiding van ziekten en monitoring van luchtkwaliteit zijn enkele voorbeelden van haar activiteiten. Het RIVM heeft in partnership met het KNMI haar ICT ondergebracht bij het Shared Service Centre (SSC-) Campus. SSC-Campus levert ICT-diensten aan het founding partners RIVM en KNMI en interdepartementaal aan andere rijksdiensten die ICT-ondersteuning wensen voor kun kennisintensieve en wetenschappelijke activiteiten. Deelnemers in SSC-Campus op dit moment zijn: RIVM, KNMI, CBG, CPB, PBL, RLI, SCP en RWS.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Bilthoven",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679502074000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6698",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Senior .Net Ontwikkelaar",
+                            "application_deadline": "2023-03-28",
+                            "created_at": "2023-03-22T15:40:27.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32018-Senior-Net-Ontwikkelaar",
+                            "type": "Freelance",
+                            "subtitle_nl": "Op zoek naar een Senior .Net ontwikkelaar",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving:</strong></p><p><br></p><p>Wij zijn op zoek naar een ervaren .Net ontwikkelaar. Geleid door specifieke klantbehoeftes en technologische ontwikkelingen zorgt de ontwikkelaar ervoor dat bedrijfsprocessen optimaal worden ondersteund door ICT. De ontwikkelaar is onderdeel van een DevOps team en is gericht op het samen realiseren van de doelen van het team. De ontwikkelaar werkt op basis van T-shape, waarbij hij/zij een specifiek expertise gebied (ontwep, bouw, test) combineert met brede/globale kennis en ervaring van de andere expertise gebieden. Hiermee ontstaat een divers team dat elkaar kan opvangen en aanvullen om de gewenste doelen te bereiken.</p><p><br></p><p><strong>Werkzaamheden:</strong></p><p><br></p><ul><li>Analiseert en vertaalt functionaliteitseisen.</li><li>Realiseert Product Backlog items in samenwerking met andere DevOps teamleden</li><li>Lost software gerelateerde problemen op.</li><li>Implementeert, test en integreert software componenten.</li><li>Stelt ontwikkel- en onderhoudsdocumentatie op.</li><li>Selecteert en adviseert over de inzet van nieuwe technologie\u00ebn en methodieken.</li><li>Stelt testplannen op en test ontwikkelde applicaties en/of functionaliteiten. Toetst de haalbaarheid van functionele ontwerpen.</li><li>Monitort processen in verschillende OTAPO fasen.</li><li>Vertaalt ontwerpen naar applicatie (HTML/ CSS/ Jacascrypt/ SQL).</li></ul>",
+                            "updated_at": "2023-03-27T13:28:08.000Z",
+                            "function_requirements_nl": "<p><strong>Eisen:</strong></p><p><br></p><ul><li>Je hebt aantoonbare kennis van en ervaring met ASP.NET WebForms, WCF (C#), WebAPI, .NET, Angular v14 en MS SQL</li><li>Je hebt kennis van en ervaring met Visual Studio 2019/2022, SoapUI, Azure DevOps Server, RabbitMQ en Entity Framework</li><li>Je hebt kennis van en ervaring met unit testing (xUnit / MSTest) en SpecFlow</li><li>Je hebt kennis van en ervaring met Scrum/Agile ontwikkelmethoden</li><li>Minimaal HBO werk- en denkniveau</li><li>Ervaring als Senior .NET Ontwikkelaar</li></ul>",
+                            "client": {
+                                "name": "",
+                                "logo": null,
+                                "id": 108,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6698,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": "Bedrijfsinformatie:\nAls professionele terugkeerorganisatie voert de Dienst Terugkeer en Vertrek (DT&amp;V) het terugkeerbeleid uit.\nDe DT&amp;V regisseert het vertrek van vreemdelingen die geen recht hebben op verblijf in Nederland. Samen met andere overheidsdiensten en maatschappelijke organisaties streeft de DT&amp;V ernaar dat vreemdelingen zo veel als mogelijk zelfstandig en met perspectief terugkeren. De medewerkers moeten zorgvuldig handelen en met respect voor de waardigheid van de vreemdeling.\n\nUitgangspunt is dat de vreemdeling de kans heeft om zelfstandig te vertrekken, met of zonder hulp van de DT&amp;V. Zo levert de DT&amp;V een bijdrage aan de veiligheid, het maatschappelijk evenwicht en aan het draagvlak voor het Nederlandse toelatingsbeleid.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679499627000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6697",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "DevOps Engineer",
+                            "application_deadline": "2023-03-27",
+                            "created_at": "2023-03-22T15:40:26.000Z",
+                            "language": "NL",
+                            "slug_nl": "J30454-DevOps-Engineer",
+                            "type": "Freelance",
+                            "subtitle_nl": "Knowledge of Kubernetes, high level design, implementation and configuration.",
+                            "function_description_nl": "<p>As a DevOps Engineer, you will be part of a highly focused, self-managed Agile team who designs, develops &amp; maintains a Continuous Build, Integration, Test and Monitoring pipeline to support the delivery of our client\u2019s strategic ambitions. As our teams operate in a highly dynamic, squad-based environment, you will have the opportunity to work close-knit squad that cultivates creativity and challenges the status quo and pushes limits on finding new and inventive ways to work.</p><p>This position offers great career growth opportunities using emerging technologies including Cloud, Analytics and Machine Learning as part of a highly available DevOps implementation to help drive quality, speed and efficiency. You are also part of a team who constantly seeks to add value for our stakeholders, enhances the scalability of our infrastructure and manages the disaster recovery and capacity of our delivery pipeline.</p><p>\u00a0</p><p>You should have a strong passion for solving problems, developing highly efficient automation and digital deployment pipelines, experimenting with new technologies and development of your own hobby applications. You should also have a keen interest in researching the latest data security trends and regulations, and a broad understanding of cybersecurity attacks. In addition, you must also have a relentless desire for continuous improvement through the learning of new things, be a champion of new ideas, continually explore new perspectives, and embrace going beyond their comfort zone even at the risk of failure or embarrassment.</p>",
+                            "updated_at": "2023-03-27T13:28:07.000Z",
+                            "function_requirements_nl": "<p><br></p><p><strong>Required Technical and Professional Expertise:</strong></p><p>\u00a0</p><ul><li>Experience with continuous delivery and continuous integration practices</li><li>Min 3-5 years proven experience with Microsoft Azure</li><li>Min 3-5 years proven experience with Helm &amp; Operators</li><li>Experience with automation/configuration management using Ansible and/or Terraform</li><li>Demonstrable knowledge on Docker, Kubernetes, Openshift</li><li>Hands-on knowledge with Linux RedHat and/or Docker containerization</li><li>Good knowledge of Golang, NodeJS, Python, Groovy, Bash, Shell applications</li><li>Strong knowledge of CI/CD tools such as Travis and Jenkins</li><li>Experience with Linux development toolchain (i.e. rpm, yum)</li><li>BSc in Computer Science, Engineering or relevant field</li><li>Strong communication skills and able to convey ideas and opinions to others.</li><li>Problem-solving attitude</li><li>English Fluent (verbal and written)</li></ul><p>\u00a0</p><p><strong>Preferred Technical and Professional Expertise:</strong></p><p>\u00a0</p><ul><li>Experience with monitoring tools such as Prometheus, Graphana and ELK stack</li><li>Working knowledge of Amazon Web Services is an asset</li><li>Experience in enterprise-related development and deployment (scalability, performance)</li><li>Experience building applications on cloud infrastructure, e.g., private clouds, public clouds</li><li>Experience working in an agile team, e.g., Kanban</li></ul>",
+                            "client": {
+                                "name": "",
+                                "logo": null,
+                                "id": 108,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6697,
+                            "start_date": "2023-05-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 40,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": null,
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Amsterdam",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679499626000
+                        ]
+                    },
+                    {
+                        "_index": "linkit_vacancy",
+                        "_type": "_doc",
+                        "_id": "6696",
+                        "_score": null,
+                        "_source": {
+                            "company_info_en": null,
+                            "job_title_nl": "Data- en proces consultant",
+                            "application_deadline": "2023-03-29",
+                            "created_at": "2023-03-22T14:48:43.000Z",
+                            "language": "NL",
+                            "slug_nl": "J32016-Data-en-proces-consultant",
+                            "type": "Freelance",
+                            "subtitle_nl": "Wij zijn op zoek naar een Data- en proces consultant!",
+                            "function_description_nl": "<p><strong>Opdrachtomschrijving</strong>:</p><p><br></p><p><span style=\"color: black; font-family: Calibri, sans-serif;\">De rol van informatie is voor het COA cruciaal en van strategische waarde in \u00e1lle processen in onze organisatie. Van de collega\u2019s op onze 170+ locaties tot de informatie die we delen met onze interne en\u00a0externe partners. Met de toenemende nieuwe technologische ontwikkelingen, groeien de kansen om de waarde van informatie nog beter te benutten. Daarvoor moet COA haar Informatievoorziening (IV) nog beter organiseren, zowel integraal als in samenhang. We cre\u00ebren een flexibele, wendbare en digitaal fitte organisatie met executiekracht die sneller kan inspelen/innoveren op de verwachtingen en behoeften van bewoners, de interne organisatie en onze (keten)partners. </span></p><p><span style=\"color: black; font-family: Calibri, sans-serif;\">\u00a0</span></p><p><span style=\"color: black; font-family: Calibri, sans-serif;\">Onderdeel van deze verandering is de overstap naar werken in de Cloud. Als data- en procesconsultant ben je\u00a0betrokken bij de inrichting van de processen en procedures rond data governance en de datamigratie naar de Cloud. Het gaat daarbij om onder andere de vastlegging en administratie van de verschillende onderdelen van het datalandschap en de beschrijving van de verschillende rollen rond eigenaarschap en beheer. Ook processen rond classificatie, labeling,\u00a0toegangsbeheer en data loss prevention zijn daarbij van belang. Waarbij tevens aandacht is voor de manier waarop omgegaan moet worden met privacy gevoelige data. Hierbij is vooral van belang dat de uiteindelijke verantwoordelijken op een tijdige, begrijpelijke manier gemotiveerd en ondersteund worden hun rol invulling te geven. Vervolgens betrokken bij de inrichting van de processen rond de uiteindelijke migratie naar de Cloud en de begeleiding en ondersteuning van de verantwoordelijken daarbij.</span></p><p><br></p><p><br></p>",
+                            "updated_at": "2023-03-27T13:28:08.000Z",
+                            "function_requirements_nl": "<p><strong style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Functie-eisen\u00a0</strong></p><p><br></p><ul><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt een afgeronde HBO/WO-opleiding, richting IT met een beta achtergrond</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je werkt minimaal 5 jaar in het IT vakgebied</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt ervaring met het inrichten van data beheer/governance, het implementeren daarvan bij\u00a0organisaties en het begeleiden van haar medewerkers. </span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt ervaring met het automatiseren van (data) governance processen</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt kennis van de data privacy wetgeving en affiniteit met informatiebeveiliging</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt kennis en ervaring met het werken in een Cloud omgeving</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt kennis van data beveiliging in de Cloud</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je hebt kennis en ervaring in het opstellen, testen, implementeren van processen</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Je kunt je gemakkelijk bewegen binnen de verschillende afdelingen van een organisatie en maakt je snel wegwijs daarbinnen.</span></li><li><span style=\"color: rgb(29, 29, 29); font-family: Calibri, sans-serif;\">Ervaring\u00a0met het werken in een overheidsorganisatie op het snijvlak van informatievoorziening en IT is een pr\u00e9.\u00a0</span></li></ul>",
+                            "client": {
+                                "name": "COA",
+                                "logo": {
+                                    "name": "coa-ind.png",
+                                    "url": "https://s3.eu-west-1.amazonaws.com/nl.linkit.production.user-data/3dcbe561357041a69693767bc6967f1c.png",
+                                    "document_type": "vacancy"
+                                },
+                                "id": 13,
+                                "document_type": "vacancy"
+                            },
+                            "id": 6696,
+                            "start_date": "2023-04-01",
+                            "document_type": "vacancy",
+                            "slug_en": null,
+                            "knockout_criteria_en": null,
+                            "coordinates": {
+                                "lon": 0.0,
+                                "lat": 0.0
+                            },
+                            "hours_per_week": 36,
+                            "function_requirements_en": null,
+                            "technologies": [],
+                            "duration_in_months": 0,
+                            "function_description_en": null,
+                            "company_info_nl": "Bedrijfsinformatie:\nCOA staat voor Centraal Orgaan opvang asielzoekers. COA is verantwoordelijk voor de opvang van asielzoekers en begeleiden hen naar een toekomst in Nederland of het land van herkomst. Men werkt daarbij nauw samen met de andere organisaties binnen de vreemdelingenketen zoals de Immigratie- en Naturalisatiedienst (IND) en de Dienst Terugkeer en Vertrek (DT&amp;V). Alle partners hebben hun eigen taken en verantwoordelijkheden.\n\nZelfstandig bestuursorgaan\nHet COA is een zelfstandig bestuursorgaan (zbo) en voert de taken uit die zijn vastgelegd in de Wet Centraal Orgaan opvang asielzoekers (Wet COA). De organisatie legt verantwoording af aan de staatssecretaris van Justitie en Veiligheid.",
+                            "job_title_en": null,
+                            "hourly_rate": null,
+                            "subtitle_en": null,
+                            "location": "Den Haag",
+                            "knockout_criteria_nl": null,
+                            "experience_level": "Senior"
+                        },
+                        "sort": [
+                            1679496523000
+                        ]
+                    }
+                ]
+            },
+            "status": 200
+        }
+    ]
+}

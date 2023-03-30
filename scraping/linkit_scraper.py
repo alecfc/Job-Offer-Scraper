@@ -1,6 +1,5 @@
 from master_scraper import *
 
-
 class LINKITScraper(MasterScraper):
     name = 'LINKIT Scraper'
     url = "https://search.linkit.nl/linkit_vacancy/_msearch?"
@@ -36,14 +35,20 @@ class LINKITScraper(MasterScraper):
             if idx > 25:
                 break
             job = job['_source']
+            job_info['Job Website'] = 'LINKIT'
+            job_info['Date Published'] = job['created_at'].split('T')[0]
             job_info['Title'] = job['job_title_nl']
             job_info['URL'] = 'https://www.linkit.nl/vacancies/{}?vacancyType=Interim%20opdracht'.format(
                 job['slug_nl'])
             job_info['Company'] = job['client']['name']
             job_info['Location'] = job['location']
-            job_info['Description'] = job['function_description_nl']
+            job_info['Description'] = BeautifulSoup(job['function_description_nl'], "lxml").text
             job_info['Hours'] = job['hours_per_week']
             job_info['Duration'] = job['duration_in_months']
             job_info['Experience Level'] = job['experience_level']
             self.job_list.append(job_info)
         self.save_json(data=self.job_list, website='LINKIT',parsed=True)
+
+temp = LINKITScraper()
+temp.scrape()
+temp.parse()

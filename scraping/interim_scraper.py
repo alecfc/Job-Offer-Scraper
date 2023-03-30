@@ -23,6 +23,8 @@ class InterimProfessionalsScraper(MasterScraper):
         jobs = soup.find_all(attrs={'class':'jet-posts__inner-content'})
         for job in jobs:
             job_info = {}
+            job_info['Job Website'] = 'Interim Professionals'
+            job_info['Date Published'] = job.find('div', {'class':'post-meta'}).text
             job_info['URL'] = job.find('a')['href']
             # Get response from job page and read HTML
             job_response = requests.request("GET", job_info['URL'], headers=self.headers, data=self.payload)

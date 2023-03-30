@@ -16,18 +16,24 @@ class UkomstScraper(MasterScraper):
             job_info = {}
             if idx > 25:
                 break
+            job_info['Job Website'] = 'Ukomst'
+            job_info['Date Published'] = job['date_created'].split('T')[0]
             job_info['Title'] = job['title']
             if '(' in job_info['Title']: #and re.match(r"(([a-z])+)([0-9]+)", job_info['Title'], re.I):
                 temp_title = job_info['Title']
-                job_info['Hours'] = temp_title.split('(')[1].replace(')','')
+                job_info['Hours'] = temp_title.split('(')[1].replace(')','').split(' ')[0]
                 job_info['Title'] = job_info['Title'].split('(')[0].strip()
             else:
-                job_info['Hours'] = '40 uur'
+                job_info['Hours'] = 'NA'
             job_info['URL'] = job['url']
             job_info['Company'] = job['custom_fields'][1]['value']
             job_info['Location'] = job['location']['city']
-            job_info['Description'] = job['description']
+            job_info['Description'] = BeautifulSoup(job['description'], "lxml").text
 
             job_info['Duration'] = job['duration']
             self.job_list.append(job_info)
         self.save_json(data=self.job_list, website='Ukomst', parsed=True)
+
+temp = UkomstScraper()
+temp.scrape('Ukomst')
+temp.parse()
